@@ -1,0 +1,132 @@
+{
+  "update_time": "2026-05-18 10:42:37",
+  "sources": [
+    {
+      "name": "微博热搜",
+      "items": [
+        {
+          "rank": 1,
+          "title": "示例热点1",
+          "url": "https://s.weibo.com",
+          "hot": 5000000,
+          "tag": "社会"
+        },
+        {
+          "rank": 2,
+          "title": "示例热点2",
+          "url": "https://s.weibo.com",
+          "hot": 3000000,
+          "tag": "娱乐"
+        },
+        {
+          "rank": 3,
+          "title": "示例热点3",
+          "url": "https://s.weibo.com",
+          "hot": 2000000,
+          "tag": "科技"
+        }
+      ],
+      "updated": "2026-05-18T10:42:37.638434+08:00"
+    },
+    {
+      "name": "知乎热榜",
+      "items": [
+        {
+          "rank": 1,
+          "title": "示例问题1",
+          "url": "https://zhihu.com",
+          "hot": 10000,
+          "tag": "科技"
+        },
+        {
+          "rank": 2,
+          "title": "示例问题2",
+          "url": "https://zhihu.com",
+          "hot": 8000,
+          "tag": "生活"
+        }
+      ],
+      "updated": "2026-05-18T10:42:37.638444+08:00"
+    },
+    {
+      "name": "百度热搜",
+      "items": [
+        {
+          "rank": 1,
+          "title": "示例搜索1",
+          "url": "https://baidu.com",
+          "hot": 9000000,
+          "tag": "热点"
+        },
+        {
+          "rank": 2,
+          "title": "示例搜索2",
+          "url": "https://baidu.com",
+          "hot": 7000000,
+          "tag": "社会"
+        }
+      ],
+      "updated": "2026-05-18T10:42:37.638450+08:00"
+    },
+    {
+      "name": "抖音热点",
+      "items": [
+        {
+          "rank": 1,
+          "title": "示例视频1",
+          "url": "https://douyin.com",
+          "hot": 50000000,
+          "tag": "娱乐"
+        },
+        {
+          "rank": 2,
+          "title": "示例视频2",
+          "url": "https://douyin.com",
+          "hot": 30000000,
+          "tag": "社会"
+        }
+      ],
+      "updated": "2026-05-18T10:42:37.638457+08:00"
+    },
+    {
+      "name": "B站热门",
+      "items": [
+        {
+          "rank": 1,
+          "title": "示例视频1",
+          "url": "https://bilibili.com",
+          "hot": 500000,
+          "tag": "动画"
+        },
+        {
+          "rank": 2,
+          "title": "示例视频2",
+          "url": "https://bilibili.com",
+          "hot": 300000,
+          "tag": "科技"
+        }
+      ],
+      "updated": "2026-05-18T10:42:37.638465+08:00"
+    },
+    {
+      "name": "IT之家",
+      "items": [
+        {
+          "rank": 1,
+          "title": "示例新闻1",
+          "url": "https://ithome.com",
+          "hot": 5000,
+          "tag": "数码"
+        },
+        {
+          "rank": 2,
+          "title": "示例新闻2",
+          "url": "https://ithome.com",
+          "hot": 3000,
+          "tag": "手机"
+        }
+      ],
+      "updated": "2026-05-18T10:42:37.638472+08:00"
+    }
+  ]
+}
