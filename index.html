@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>资讯热榜 - 全网热点聚合</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
+            background: #0f0f23;
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #2a2a4a;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            background: linear-gradient(90deg, #ff6b6b, #feca57, #48dbfb, #ff9ff3);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 8px;
+        }
+
+        .update-time {
+            color: #888;
+            font-size: 13px;
+        }
+
+        .update-time .live {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: #00d26a;
+            border-radius: 50%;
+            margin-right: 6px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        .tabs {
+            display: flex;
+            gap: 8px;
+            padding: 15px 20px;
+            overflow-x: auto;
+            background: #0f0f23;
+            border-bottom: 1px solid #1a1a3a;
+            position: sticky;
+            top: 85px;
+            z-index: 99;
+        }
+
+        .tab {
+            padding: 8px 18px;
+            border-radius: 20px;
+            border: 1px solid #2a2a4a;
+            background: #1a1a2e;
+            color: #888;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.3s;
+            font-size: 14px;
+        }
+
+        .tab:hover, .tab.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-color: transparent;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .sources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 20px;
+        }
+
+        .source-card {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border-radius: 16px;
+            border: 1px solid #2a2a4a;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .source-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 10px 40px rgba(102, 126, 234, 0.2);
+        }
+
+        .source-header {
+            padding: 16px 20px;
+            border-bottom: 1px solid #2a2a4a;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .source-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+        }
+
+        .source-count {
+            font-size: 12px;
+            color: #667eea;
+            background: rgba(102, 126, 234, 0.15);
+            padding: 2px 10px;
+            border-radius: 10px;
+        }
+
+        .source-time {
+            font-size: 11px;
+            color: #666;
+            margin-top: 4px;
+        }
+
+        .items-list {
+            padding: 10px;
+        }
+
+        .item {
+            display: flex;
+            align-items: center;
+            padding: 10px 12px;
+            border-radius: 10px;
+            transition: background 0.2s;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .item:hover {
+            background: rgba(102, 126, 234, 0.1);
+        }
+
+        .item-rank {
+            width: 28px;
+            height: 28px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 13px;
+            font-weight: 700;
+            margin-right: 12px;
+            flex-shrink: 0;
+        }
+
+        .rank-1 { background: linear-gradient(135deg, #ff6b6b, #ee5a5a); color: white; }
+        .rank-2 { background: linear-gradient(135deg, #feca57, #e0b03b); color: #333; }
+        .rank-3 { background: linear-gradient(135deg, #48dbfb, #2bc3e4); color: white; }
+        .rank-other { background: #2a2a4a; color: #888; }
+
+        .item-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .item-title {
+            font-size: 14px;
+            line-height: 1.5;
+            color: #e0e0e0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .item-meta {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 4px;
+        }
+
+        .item-tag {
+            font-size: 11px;
+            padding: 1px 8px;
+            border-radius: 6px;
+            background: rgba(102, 126, 234, 0.15);
+            color: #667eea;
+        }
+
+        .item-hot {
+            font-size: 11px;
+            color: #ff6b6b;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #666;
+        }
+
+        .error {
+            text-align: center;
+            padding: 40px;
+            color: #ff6b6b;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #666;
+            font-size: 13px;
+        }
+
+        @media (max-width: 768px) {
+            .sources-grid {
+                grid-template-columns: 1fr;
+            }
+            .header h1 { font-size: 22px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔥 资讯热榜</h1>
+        <div class="update-time">
+            <span class="live"></span>
+            最后更新：<span id="updateTime">加载中...</span>
+        </div>
+    </div>
+
+    <div class="tabs" id="tabs">
+        <div class="tab active" data-filter="all">全部平台</div>
+        <div class="tab" data-filter="微博热搜">微博</div>
+        <div class="tab" data-filter="知乎热榜">知乎</div>
+        <div class="tab" data-filter="百度热搜">百度</div>
+        <div class="tab" data-filter="抖音热点">抖音</div>
+        <div class="tab" data-filter="B站热门">B站</div>
+        <div class="tab" data-filter="IT之家">IT之家</div>
+    </div>
+
+    <div class="container">
+        <div class="loading" id="loading">正在加载热榜数据...</div>
+        <div class="sources-grid" id="sourcesGrid" style="display:none;"></div>
+        <div class="error" id="error" style="display:none;"></div>
+    </div>
+
+    <div class="footer">
+        数据来源各平台公开接口 · 仅供学习交流使用
+    </div>
+
+    <script>
+        let allData = null;
+
+        const icons = {
+            '微博热搜': '🔴',
+            '知乎热榜': '🔵',
+            '百度热搜': '🔍',
+            '抖音热点': '🎵',
+            'B站热门': '📺',
+            'IT之家': '💻',
+        };
+
+        async function loadData() {
+            try {
+                const response = await fetch(`data/hot_topics.json?t=${Date.now()}`);
+                if (!response.ok) throw new Error('数据加载失败');
+
+                allData = await response.json();
+                document.getElementById('updateTime').textContent = allData.update_time;
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('sourcesGrid').style.display = 'grid';
+
+                renderSources('all');
+            } catch (err) {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error').style.display = 'block';
+                document.getElementById('error').textContent = '数据加载失败，请稍后刷新重试';
+                console.error(err);
+            }
+        }
+
+        function renderSources(filter) {
+            const grid = document.getElementById('sourcesGrid');
+            grid.innerHTML = '';
+
+            const sources = filter === 'all' 
+                ? allData.sources 
+                : allData.sources.filter(s => s.name === filter);
+
+            sources.forEach(source => {
+                if (!source.items || source.items.length === 0) return;
+
+                const card = document.createElement('div');
+                card.className = 'source-card';
+
+                const icon = icons[source.name] || '📰';
+                const time = new Date(source.updated).toLocaleString('zh-CN', {
+                    month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+                });
+
+                let itemsHtml = source.items.map((item, idx) => {
+                    const rankClass = idx < 3 ? `rank-${idx + 1}` : 'rank-other';
+                    const tagHtml = item.tag ? `<span class="item-tag">${item.tag}</span>` : '';
+                    const hotHtml = item.hot ? `<span class="item-hot">🔥 ${formatNumber(item.hot)}</span>` : '';
+
+                    return `
+                        <a href="${item.url}" target="_blank" class="item">
+                            <div class="item-rank ${rankClass}">${item.rank || idx + 1}</div>
+                            <div class="item-content">
+                                <div class="item-title" title="${item.title}">${item.title}</div>
+                                <div class="item-meta">
+                                    ${tagHtml}
+                                    ${hotHtml}
+                                </div>
+                            </div>
+                        </a>
+                    `;
+                }).join('');
+
+                card.innerHTML = `
+                    <div class="source-header">
+                        <div>
+                            <div class="source-title">${icon} ${source.name}</div>
+                            <div class="source-time">${time}</div>
+                        </div>
+                        <span class="source-count">${source.items.length} 条</span>
+                    </div>
+                    <div class="items-list">
+                        ${itemsHtml}
+                    </div>
+                `;
+
+                grid.appendChild(card);
+            });
+        }
+
+        function formatNumber(num) {
+            if (num >= 10000) {
+                return (num / 10000).toFixed(1) + 'w';
+            }
+            if (num >= 1000) {
+                return (num / 1000).toFixed(1) + 'k';
+            }
+            return num.toString();
+        }
+
+        document.getElementById('tabs').addEventListener('click', (e) => {
+            if (e.target.classList.contains('tab')) {
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                e.target.classList.add('active');
+                renderSources(e.target.dataset.filter);
+            }
+        });
+
+        setInterval(() => {
+            loadData();
+        }, 300000);
+
+        loadData();
+    </script>
+</body>
+</html>
