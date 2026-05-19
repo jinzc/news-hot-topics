@@ -325,67 +325,75 @@ def fetch_douyin():
 
 # ==================== B站 ====================
 def fetch_bilibili():
-    """B站热门 - 多种渠道尝试"""
+    """B站热门 - 使用移动端API（限制更松）"""
     print("  抓取B站...")
-
-    # 渠道1: 官方API（有时能成功）
-    print("    尝试渠道1: 官方API")
+    
+    # 渠道1: 移动端API（使用iPhone UA）
+    print("    尝试渠道1: 移动端API")
     try:
         headers = {
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+            "Referer": "https://m.bilibili.com/",
+            "Accept": "application/json",
+        }
+        data = make_request("https://api.bilibili.com/x/web-interface/popular?ps=30", headers)
+        if data:
+            result = json.loads(data.decode("utf-8"))
+            if result.get("code") == 0:
+                items = []
+                for item in result.get("data", {}).get("list", [])[:30]:
+                    title = item.get("title", "")
+                    if not title:
+                        continue
+                    bvid = item.get("bvid", "")
+                    url_str = item.get("short_link", f"https://www.bilibili.com/video/{bvid}")
+                    items.append({
+                        "rank": len(items) + 1,
+                        "title": title,
+                        "url": url_str,
+                        "hot": item.get("stat", {}).get("view", 0),
+                        "tag": item.get("tname", ""),
+                    })
+                if items:
+                    print(f"    ✅ 移动端API成功: {len(items)}条")
+                    return {"name": "B站热门", "items": items, "updated": get_beijing_time().isoformat()}
+    except Exception as e:
+        print(f"    ❌ 移动端API失败: {e}")
+    
+    # 渠道2: PC端API（备用）
+    print("    尝试渠道2: PC端API")
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://www.bilibili.com/",
             "Accept": "application/json",
         }
         data = make_request("https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all", headers)
         if data:
             result = json.loads(data.decode("utf-8"))
-            items = []
-            for item in result.get("data", {}).get("list", [])[:30]:
-                title = item.get("title", "")
-                if not title:
-                    continue
-                bvid = item.get("bvid", "")
-                url_str = item.get("short_link", f"https://www.bilibili.com/video/{bvid}")
-                items.append({
-                    "rank": len(items) + 1,
-                    "title": title,
-                    "url": url_str,
-                    "hot": item.get("stat", {}).get("view", 0),
-                    "tag": item.get("tname", ""),
-                })
-            if items:
-                print(f"    ✅ 官方API成功: {len(items)}条")
-                return {"name": "B站热门", "items": items, "updated": get_beijing_time().isoformat()}
+            if result.get("code") == 0:
+                items = []
+                for item in result.get("data", {}).get("list", [])[:30]:
+                    title = item.get("title", "")
+                    if not title:
+                        continue
+                    bvid = item.get("bvid", "")
+                    url_str = item.get("short_link", f"https://www.bilibili.com/video/{bvid}")
+                    items.append({
+                        "rank": len(items) + 1,
+                        "title": title,
+                        "url": url_str,
+                        "hot": item.get("stat", {}).get("view", 0),
+                        "tag": item.get("tname", ""),
+                    })
+                if items:
+                    print(f"    ✅ PC端API成功: {len(items)}条")
+                    return {"name": "B站热门", "items": items, "updated": get_beijing_time().isoformat()}
     except Exception as e:
-        print(f"    ❌ 官方API失败: {e}")
-
-    # 渠道2: 第三方聚合API
-    print("    尝试渠道2: 第三方聚合API")
-    api_urls = [
-        "https://api.98dou.cn/api/hotlist?type=bilibili",
-    ]
-    for url in api_urls:
-        try:
-            data = make_request(url, timeout=10)
-            if data:
-                result = json.loads(data.decode("utf-8"))
-                if result.get("code") == 200 and result.get("data"):
-                    items = []
-                    for item in result["data"][:30]:
-                        items.append({
-                            "rank": len(items) + 1,
-                            "title": item.get("title", ""),
-                            "url": item.get("url", ""),
-                            "hot": item.get("hot", 0),
-                            "tag": "",
-                        })
-                    if items:
-                        print(f"    ✅ 第三方API成功: {len(items)}条")
-                        return {"name": "B站热门", "items": items, "updated": get_beijing_time().isoformat()}
-        except Exception as e:
-            print(f"    ❌ 第三方API失败: {e}")
-
+        print(f"    ❌ PC端API失败: {e}")
+    
     print("    所有渠道均失败")
-    return {"name": "B站热门", "items": [], "updated": get_beijing_time().isoformat(), "error": "所有渠道均失败"}
+    return {"name": "B站热门", "items": [], "updated": get_beijing_time().isoformat(), "error": "所有API均失败"}
 
 
 # ==================== IT之家 ====================
