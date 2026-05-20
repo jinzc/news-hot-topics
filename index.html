@@ -302,7 +302,11 @@
                 : allData.sources.filter(s => s.name === filter);
 
             sources.forEach(source => {
-                if (!source.items || source.items.length === 0) return;
+    // 如果平台没有数据，跳过不显示
+    if (!source.items || source.items.length === 0) {
+        console.log(`跳过空平台: ${source.name}`);
+        return;
+    }
 
                 const card = document.createElement('div');
                 card.className = 'source-card';
