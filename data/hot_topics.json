@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-27 07:58:34",
+  "update_time": "2026-05-27 08:01:26",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,6 +26,13 @@
           "tag": ""
         },
         {
+          "rank": 2,
+          "title": "全新问界M9系列正式发布",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%96%B0%E9%97%AE%E7%95%8CM9%E7%B3%BB%E5%88%97%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 3,
           "title": "雷军回应武契奇说小米车漂亮但买不起",
           "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7",
@@ -48,8 +55,8 @@
         },
         {
           "rank": 5,
-          "title": "柳州地震自救视频竟是AI伪造",
-          "url": "https://s.weibo.com/weibo?q=%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E8%87%AA%E6%95%91%E8%A7%86%E9%A2%91%E7%AB%9F%E6%98%AFAI%E4%BC%AA%E9%80%A0",
+          "title": "蔚来ES9正式上市",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5ES9%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82",
           "hot": 0,
           "tag": ""
         },
@@ -97,15 +104,15 @@
         },
         {
           "rank": 12,
-          "title": "于正回复余华",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%A4%8D%E4%BD%99%E5%8D%8E",
+          "title": "村民违规间种小麦31.7亩被刑拘",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%91%E6%B0%91%E8%BF%9D%E8%A7%84%E9%97%B4%E7%A7%8D%E5%B0%8F%E9%BA%A631.7%E4%BA%A9%E8%A2%AB%E5%88%91%E6%8B%98",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 13,
-          "title": "村民违规间种小麦31.7亩被刑拘",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%91%E6%B0%91%E8%BF%9D%E8%A7%84%E9%97%B4%E7%A7%8D%E5%B0%8F%E9%BA%A631.7%E4%BA%A9%E8%A2%AB%E5%88%91%E6%8B%98",
+          "title": "于正回复余华",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%A4%8D%E4%BD%99%E5%8D%8E",
           "hot": 0,
           "tag": ""
         },
@@ -118,15 +125,15 @@
         },
         {
           "rank": 15,
-          "title": "王鹤棣风波不该让棣爸油炸买单",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%A3%8E%E6%B3%A2%E4%B8%8D%E8%AF%A5%E8%AE%A9%E6%A3%A3%E7%88%B8%E6%B2%B9%E7%82%B8%E4%B9%B0%E5%8D%95",
+          "title": "张雪机车回复余华",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%A4%8D%E4%BD%99%E5%8D%8E",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 16,
-          "title": "张雪机车回复余华",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%A4%8D%E4%BD%99%E5%8D%8E",
+          "title": "王鹤棣风波不该让棣爸油炸买单",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%A3%8E%E6%B3%A2%E4%B8%8D%E8%AF%A5%E8%AE%A9%E6%A3%A3%E7%88%B8%E6%B2%B9%E7%82%B8%E4%B9%B0%E5%8D%95",
           "hot": 0,
           "tag": ""
         },
@@ -206,16 +213,9 @@
           "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E4%BA%91%E7%9B%B4%E4%B8%8A%20%E8%82%96%E6%88%98",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "浪姐四公小考排名",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E5%B0%8F%E8%80%83%E6%8E%92%E5%90%8D",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-05-27T07:58:22.177084+08:00"
+      "updated": "2026-05-27T08:00:10.882247+08:00"
     },
     {
       "name": "知乎热榜",
@@ -306,120 +306,120 @@
         },
         {
           "rank": 13,
-          "title": "如何评价comma.ai创始人George Hotz断言AI编程Agent无法真正编程？",
-          "url": "https://www.zhihu.com/question/2042336304244019752",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 14,
           "title": "洪涛直言《歌手 2026》请庾澄庆应是来「竖旗帜」的，第一期就淘汰纯属「难以理喻」，你认同这一观点吗？",
           "url": "https://www.zhihu.com/question/2042289258581287749",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 15,
+          "rank": 14,
           "title": "如何评价杨紫新剧《玉兰花开君再来》全阵容删除林志玲？",
           "url": "https://www.zhihu.com/question/2042249132945970226",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 16,
-          "title": "为什么绝大多数游戏的 BOSS 战场景，都仅有一个BOSS ，没有杂兵驻守护卫？",
-          "url": "https://www.zhihu.com/question/2042248229299941616",
+          "rank": 15,
+          "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
+          "url": "https://www.zhihu.com/question/2042171361179815968",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 17,
+          "rank": 16,
           "title": "印度最高气温超 47 摄氏度已致 16 死，用电峰值连破纪录，反映出哪些问题？会怎样影响日常生活？",
           "url": "https://www.zhihu.com/question/2042157033336657693",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 18,
+          "rank": 17,
           "title": "如何看待王鹤棣与沈月因综艺节目中的一句玩笑引发的公开冲突？",
           "url": "https://www.zhihu.com/question/2041919274411939599",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 19,
+          "rank": 18,
           "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和MV？",
           "url": "https://www.zhihu.com/question/2041893027963262258",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 20,
+          "rank": 19,
           "title": "如何评价《原神》「月之七」版本活动「幻友绮旅」？",
           "url": "https://www.zhihu.com/question/2041871231125905798",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 21,
+          "rank": 20,
           "title": "中国土地管理制度中「所有权」与「使用权」分离的深层逻辑是什么？",
           "url": "https://www.zhihu.com/question/2041843665132312239",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 22,
+          "rank": 21,
           "title": "为什么舆论会要求游戏策划打游戏？",
           "url": "https://www.zhihu.com/question/2041696670161844058",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 23,
+          "rank": 22,
           "title": "每天坚持走1万多步，真的有好处吗？",
           "url": "https://www.zhihu.com/question/2041137479844156563",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 24,
+          "rank": 23,
           "title": "英国高铁2号线再次超支延期，搞了 17 年未铺一寸轨道，成本暴增至最高 9370 亿元，如何看待此事？",
           "url": "https://www.zhihu.com/question/2040456555712230555",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 25,
+          "rank": 24,
           "title": "交警让我靠边停车，我不停直接开走了会怎么样？",
           "url": "https://www.zhihu.com/question/2040429095847253722",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 26,
+          "rank": 25,
           "title": "《黑袍纠察队》恶搞了那么多超英，为啥DC和漫威却都不生气呢？",
           "url": "https://www.zhihu.com/question/2038398155809625539",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 27,
+          "rank": 26,
           "title": "英国留学生拿过诺奖，而日本留学生没有，为什么日本硕士很少被称为「水硕」？",
           "url": "https://www.zhihu.com/question/2036349429955948911",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 28,
+          "rank": 27,
           "title": "为什么人类使用的坐标系都同胚于 R^n，能否使用不同胚于 R^n 的坐标系？",
           "url": "https://www.zhihu.com/question/11661167126",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 29,
+          "rank": 28,
           "title": "怎么看待赵姨娘教育贾环的方式？为啥不把贾环给王夫人养呢？",
           "url": "https://www.zhihu.com/question/659276498",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 29,
+          "title": "为什么感觉现在陶喆比王力宏受欢迎？",
+          "url": "https://www.zhihu.com/question/645669785",
           "hot": 0,
           "tag": ""
         },
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-05-27T07:58:24.557668+08:00"
+      "updated": "2026-05-27T08:00:19.515170+08:00"
     },
     {
       "name": "百度热搜",
@@ -487,15 +487,15 @@
         },
         {
           "rank": 8,
-          "title": "这3种二维码有陷阱 千万别乱扫",
-          "url": "https://www.baidu.com/s?wd=这3种二维码有陷阱 千万别乱扫",
+          "title": "全球爆单！抹茶出口暴涨700%",
+          "url": "https://www.baidu.com/s?wd=全球爆单！抹茶出口暴涨700%",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 9,
-          "title": "全球爆单！抹茶出口暴涨700%",
-          "url": "https://www.baidu.com/s?wd=全球爆单！抹茶出口暴涨700%",
+          "title": "芯片大佬朱一明11天套现超21亿",
+          "url": "https://www.baidu.com/s?wd=芯片大佬朱一明11天套现超21亿",
           "hot": 0,
           "tag": ""
         },
@@ -536,36 +536,36 @@
         },
         {
           "rank": 15,
-          "title": "芯片大佬朱一明11天套现超21亿",
-          "url": "https://www.baidu.com/s?wd=芯片大佬朱一明11天套现超21亿",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 16,
           "title": "杭州湿度90% “出门感觉被牛舔了”",
           "url": "https://www.baidu.com/s?wd=杭州湿度90% “出门感觉被牛舔了”",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 17,
+          "rank": 16,
           "title": "武契奇夫人试穿旗袍直呼太喜欢了",
           "url": "https://www.baidu.com/s?wd=武契奇夫人试穿旗袍直呼太喜欢了",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 18,
+          "rank": 17,
           "title": "男子吃完面加6勺辣椒酱被店主曝光",
           "url": "https://www.baidu.com/s?wd=男子吃完面加6勺辣椒酱被店主曝光",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 19,
+          "rank": 18,
           "title": "垃圾不够烧了？新华社调查",
           "url": "https://www.baidu.com/s?wd=垃圾不够烧了？新华社调查",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "夏天手上爱长的小水疱 到底是什么",
+          "url": "https://www.baidu.com/s?wd=夏天手上爱长的小水疱 到底是什么",
           "hot": 0,
           "tag": ""
         },
@@ -585,8 +585,8 @@
         },
         {
           "rank": 22,
-          "title": "夏天手上爱长的小水疱 到底是什么",
-          "url": "https://www.baidu.com/s?wd=夏天手上爱长的小水疱 到底是什么",
+          "title": "强风下40秒钟不眨眼 虫咬不动手",
+          "url": "https://www.baidu.com/s?wd=强风下40秒钟不眨眼 虫咬不动手",
           "hot": 0,
           "tag": ""
         },
@@ -613,8 +613,8 @@
         },
         {
           "rank": 26,
-          "title": "强风下40秒钟不眨眼 虫咬不动手",
-          "url": "https://www.baidu.com/s?wd=强风下40秒钟不眨眼 虫咬不动手",
+          "title": "女生减肥40斤后酷似王祖贤",
+          "url": "https://www.baidu.com/s?wd=女生减肥40斤后酷似王祖贤",
           "hot": 0,
           "tag": ""
         },
@@ -627,27 +627,27 @@
         },
         {
           "rank": 28,
+          "title": "女子被养2年猫攻击致颅部3级损伤",
+          "url": "https://www.baidu.com/s?wd=女子被养2年猫攻击致颅部3级损伤",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 29,
           "title": "五预警齐发 多地将有大暴雨",
           "url": "https://www.baidu.com/s?wd=五预警齐发 多地将有大暴雨",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 29,
+          "rank": 30,
           "title": "四川雅安现“猴子索道过河”",
           "url": "https://www.baidu.com/s?wd=四川雅安现“猴子索道过河”",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 30,
-          "title": "女子被养2年猫攻击致颅部3级损伤",
-          "url": "https://www.baidu.com/s?wd=女子被养2年猫攻击致颅部3级损伤",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-05-27T07:58:27.139849+08:00"
+      "updated": "2026-05-27T08:00:22.191397+08:00"
     },
     {
       "name": "抖音热点",
@@ -850,20 +850,20 @@
         },
         {
           "rank": 29,
-          "title": "世界杯海报我也拍上了",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B5%B7%E6%8A%A5%E6%88%91%E4%B9%9F%E6%8B%8D%E4%B8%8A%E4%BA%86",
-          "hot": 7725549,
+          "title": "我的一个普通下午",
+          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%B8%8B%E5%8D%88",
+          "hot": 7727074,
           "tag": ""
         },
         {
           "rank": 30,
-          "title": "光遇狼尾首次复刻",
-          "url": "https://www.douyin.com/search/%E5%85%89%E9%81%87%E7%8B%BC%E5%B0%BE%E9%A6%96%E6%AC%A1%E5%A4%8D%E5%88%BB",
-          "hot": 7720954,
+          "title": "世界杯海报我也拍上了",
+          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B5%B7%E6%8A%A5%E6%88%91%E4%B9%9F%E6%8B%8D%E4%B8%8A%E4%BA%86",
+          "hot": 7725549,
           "tag": ""
         }
       ],
-      "updated": "2026-05-27T07:58:28.733460+08:00"
+      "updated": "2026-05-27T08:00:23.175206+08:00"
     },
     {
       "name": "B站热门",
@@ -872,214 +872,214 @@
           "rank": 1,
           "title": "聪明的猫是要多承担一点的…",
           "url": "https://www.bilibili.com/video/BV1yVVw6EEBE",
-          "hot": 785341,
+          "hot": 787016,
           "tag": "喵星人"
         },
         {
           "rank": 2,
           "title": "《绝区零》星徽比利EP | Billy Mode",
           "url": "https://www.bilibili.com/video/BV16xVw6gEgu",
-          "hot": 976230,
+          "hot": 977249,
           "tag": "综合"
         },
         {
           "rank": 3,
           "title": "\"小麦，我一定会找到完美时间线的！”",
           "url": "https://www.bilibili.com/video/BV1d2Go6nEnj",
-          "hot": 3148685,
+          "hot": 3150816,
           "tag": "影视剪辑"
         },
         {
           "rank": 4,
           "title": "【萌黄一槽】你的查克拉归我了！大筒木浦式[异星钓者]全技能爆料！",
           "url": "https://www.bilibili.com/video/BV1vnVN63E19",
-          "hot": 798019,
+          "hot": 799278,
           "tag": "手机游戏"
         },
         {
           "rank": 5,
           "title": "【剧情】黑爵士 第一季（1983）01【罗温·艾金森 / 布耐恩·布莱塞得】",
           "url": "https://www.bilibili.com/video/BV1ZT5X6EEvA",
-          "hot": 253749,
+          "hot": 253889,
           "tag": "海外剧"
         },
         {
           "rank": 6,
           "title": "高市早苗的魅力外交",
           "url": "https://www.bilibili.com/video/BV1c8GR6sEu6",
-          "hot": 1487269,
+          "hot": 1488327,
           "tag": "人文历史"
         },
         {
           "rank": 7,
           "title": "《水调哥头》",
           "url": "https://www.bilibili.com/video/BV1vsGZ6sEkw",
-          "hot": 2565485,
+          "hot": 2568827,
           "tag": "搞笑"
         },
         {
           "rank": 8,
           "title": "【原创短剧】第二季01：飞升失败 开局成为人渣",
           "url": "https://www.bilibili.com/video/BV1vYVw6vEuE",
-          "hot": 590502,
+          "hot": 591066,
           "tag": "网络游戏"
         },
         {
           "rank": 9,
           "title": "豪の拯救",
           "url": "https://www.bilibili.com/video/BV1wCVA6mECT",
-          "hot": 763512,
+          "hot": 764654,
           "tag": "单机游戏"
         },
         {
           "rank": 10,
           "title": "旭阳小课堂第一期：AI Agent最危险的不是AI，而是“中间人”",
           "url": "https://www.bilibili.com/video/BV1HcVA6jE2R",
-          "hot": 847218,
+          "hot": 847948,
           "tag": "日常"
         },
         {
           "rank": 11,
           "title": "全世界笑点下降1000倍而我不变",
           "url": "https://www.bilibili.com/video/BV1K3Gz6pEoo",
-          "hot": 8688628,
+          "hot": 8689604,
           "tag": "搞笑"
         },
         {
           "rank": 12,
           "title": "取一个好的标题更能吸引观众哦～～",
           "url": "https://www.bilibili.com/video/BV1GPVP6PEdj",
-          "hot": 357821,
+          "hot": 359775,
           "tag": "电子竞技"
         },
         {
           "rank": 13,
           "title": "《阴阳师》天火命铃彦姬CG丨执火燎原（CV：小松未可子）",
           "url": "https://www.bilibili.com/video/BV1CVGx6kE7n",
-          "hot": 1987538,
+          "hot": 1987577,
           "tag": "手机游戏"
         },
         {
           "rank": 14,
           "title": "【明日方舟×怪物猎人】SideStory「泡影苍霆」活动宣传PV",
           "url": "https://www.bilibili.com/video/BV1t2Vw6dEiE",
-          "hot": 2020164,
+          "hot": 2020589,
           "tag": "手机游戏"
         },
         {
           "rank": 15,
           "title": "年度巨献《致爱弥斯》父亲离世后，我完成了这部作品……【不乐得·鸣潮细节盘点】",
           "url": "https://www.bilibili.com/video/BV1f9VN6mEYw",
-          "hot": 200508,
+          "hot": 200956,
           "tag": "手机游戏"
         },
         {
           "rank": 16,
           "title": "华强买瓜，但是GTA",
           "url": "https://www.bilibili.com/video/BV1yNGd68ENr",
-          "hot": 508459,
+          "hot": 509654,
           "tag": "日常"
         },
         {
           "rank": 17,
           "title": "第九季开播第一集就炸了！那位角色回归，上演世纪大战，主线彻底清零（瑞克和莫蒂第九季第一集·剧情）",
           "url": "https://www.bilibili.com/video/BV11NGZ6MEER",
-          "hot": 1505743,
+          "hot": 1506538,
           "tag": "动漫杂谈"
         },
         {
           "rank": 18,
           "title": "1000人海上木筏求生挑战 坚持7天瓜分10亿奖金！",
           "url": "https://www.bilibili.com/video/BV1eoLs6NE4C",
-          "hot": 6364864,
+          "hot": 6365883,
           "tag": "影视杂谈"
         },
         {
           "rank": 19,
           "title": "百万英镑，但是龙王归来",
           "url": "https://www.bilibili.com/video/BV1u5Go6VE2G",
-          "hot": 549997,
+          "hot": 551856,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 20,
           "title": "中美俄巴塞，红毯忙疯了，为什么大家接连访华？【岛岛连线x王立本】",
           "url": "https://www.bilibili.com/video/BV1fSVA6kE89",
-          "hot": 431547,
+          "hot": 433111,
           "tag": "人文历史"
         },
         {
           "rank": 21,
           "title": "【超人盾】疾疾深教学，教学➕实战，干货",
           "url": "https://www.bilibili.com/video/BV1xWGo6TEA9",
-          "hot": 1100719,
+          "hot": 1101082,
           "tag": "网络游戏"
         },
         {
           "rank": 22,
           "title": "鱼贩压价狠？东北老哥直接手起刀落，满肚子橙红鱼籽滚一冰面",
           "url": "https://www.bilibili.com/video/BV1oiGR6JEDb",
-          "hot": 1590627,
+          "hot": 1592292,
           "tag": "美食侦探"
         },
         {
           "rank": 23,
           "title": "槟榔阿俊：大果！没吃的赶紧戒！【网络狠人98】",
           "url": "https://www.bilibili.com/video/BV1meVA69ENv",
-          "hot": 315529,
+          "hot": 316263,
           "tag": "日常"
         },
         {
           "rank": 24,
           "title": "【钓鱼侠七月】我说本大师是今天最强路亚佬！没人反对吧！还好水不深希望孩子没事！",
           "url": "https://www.bilibili.com/video/BV1C1GH6NEEf",
-          "hot": 3917952,
+          "hot": 3918036,
           "tag": "日常"
         },
         {
           "rank": 25,
           "title": "当你的心理年龄超过父母，就能理解他们“犯下的错”！冷门宝藏电影",
           "url": "https://www.bilibili.com/video/BV1QZGi6pEJ3",
-          "hot": 1742367,
+          "hot": 1743045,
           "tag": "影视杂谈"
         },
         {
           "rank": 26,
           "title": "小明买瓜，老板给了他三万块",
           "url": "https://www.bilibili.com/video/BV1ZYVP6VESn",
-          "hot": 435602,
+          "hot": 437004,
           "tag": "校园学习"
         },
         {
           "rank": 27,
           "title": "耐拷打，耐电击，还有两条命，史上最强最神秘特工，任务竟然是...《真相捕捉3》下",
           "url": "https://www.bilibili.com/video/BV15jVA6KEES",
-          "hot": 398769,
+          "hot": 399881,
           "tag": "影视杂谈"
         },
         {
           "rank": 28,
           "title": "⚡功 夫 足 球⚡",
           "url": "https://www.bilibili.com/video/BV1K2Gq6SEQ3",
-          "hot": 3114564,
+          "hot": 3115713,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 29,
           "title": "歌剧老师锐评《乘风破浪的姐姐2026》三公（上）",
           "url": "https://www.bilibili.com/video/BV1h4VN6TEth",
-          "hot": 237679,
+          "hot": 238252,
           "tag": "乐评盘点"
         },
         {
           "rank": 30,
           "title": "强子，你甚至不愿意叫我一声教父",
           "url": "https://www.bilibili.com/video/BV16LGW6YE11",
-          "hot": 1246172,
+          "hot": 1246665,
           "tag": "鬼畜剧场"
         }
       ],
-      "updated": "2026-05-27T07:58:29.449934+08:00"
+      "updated": "2026-05-27T08:00:23.835295+08:00"
     },
     {
       "name": "IT之家",
@@ -1295,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-05-27T07:58:34.481427+08:00"
+      "updated": "2026-05-27T08:01:26.601106+08:00"
     }
   ]
 }
