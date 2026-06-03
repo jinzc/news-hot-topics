@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-03 23:00:49",
+  "update_time": "2026-06-03 23:01:35",
   "sources": [
     {
       "name": "微博热搜",
@@ -43,13 +43,6 @@
           "rank": 5,
           "title": "张宸逍夸王鹤棣 吴泽林捂耳朵",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B8%E9%80%8D%E5%A4%B8%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E5%90%B4%E6%B3%BD%E6%9E%97%E6%8D%82%E8%80%B3%E6%9C%B5",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "赵露思自由点新品发布会",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%87%AA%E7%94%B1%E7%82%B9%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
           "hot": 0,
           "tag": ""
         },
@@ -181,15 +174,15 @@
         },
         {
           "rank": 24,
-          "title": "家业热度",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%B6%E4%B8%9A%E7%83%AD%E5%BA%A6",
+          "title": "主角 死神来了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E8%A7%92%20%E6%AD%BB%E7%A5%9E%E6%9D%A5%E4%BA%86",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 25,
-          "title": "主角 死神来了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E8%A7%92%20%E6%AD%BB%E7%A5%9E%E6%9D%A5%E4%BA%86",
+          "title": "家业热度",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%B6%E4%B8%9A%E7%83%AD%E5%BA%A6",
           "hot": 0,
           "tag": ""
         },
@@ -213,15 +206,232 @@
           "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E8%89%B3%E5%8D%8E%E5%B9%B4%E4%BB%8536%E5%B2%81",
           "hot": 0,
           "tag": ""
+        },
+        {
+          "rank": 29,
+          "title": "日英意推销六代机",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E8%8B%B1%E6%84%8F%E6%8E%A8%E9%94%80%E5%85%AD%E4%BB%A3%E6%9C%BA",
+          "hot": 0,
+          "tag": ""
         }
       ],
-      "updated": "2026-06-03T23:00:20.238845+08:00"
+      "updated": "2026-06-03T23:01:20.266531+08:00"
     },
     {
       "name": "知乎热榜",
-      "items": [],
-      "updated": "2026-06-03T23:00:37.782323+08:00",
-      "error": "所有渠道均失败"
+      "items": [
+        {
+          "rank": 1,
+          "title": "如何看待FIFA发言人称与央视达成的世界杯及多项赛事协议金额创历史纪录？",
+          "url": "https://www.zhihu.com/question/2045547417521624977",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "title": "上海已开始「算力期货」研发，并推电力期货和期权上市，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2045423429898199803",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 3,
+          "title": "中国裁判马宁升任世界杯主裁，他的「卡牌大师」风格会给赛事带来哪些看点？",
+          "url": "https://www.zhihu.com/question/2045411005296005155",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "title": "孙正义重登亚洲首富，称AI才刚起步，体量有望达到互联网热潮50倍，怎么理解该判断？其首富位子能坐多久？",
+          "url": "https://www.zhihu.com/question/2045380781644763655",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "如何评价《崩坏：星穹铁道》4.3版本，归寂和姬子关系？",
+          "url": "https://www.zhihu.com/question/2045293214828082389",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "title": "父母离婚前妈妈将五岁儿子近 30 万存款取走，法院判其返还，如何从法律角度解读？这一判决有怎样的意义？",
+          "url": "https://www.zhihu.com/question/2045263892373140679",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "title": "山西煤矿爆炸致 82 死，当地县委书记被查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2045257311883454150",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "title": "比特币自 4 月以来首次跌破 7 万美元关口，以太坊跌破 2000 美元，后市可能会怎么走？",
+          "url": "https://www.zhihu.com/question/2045160987662321150",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "title": "阿迪文案「在城里办事」被玩梗，品牌回应adi办的都是das，该文案对品牌有何影响？如何评价其公关操作？",
+          "url": "https://www.zhihu.com/question/2045135455197161291",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 11,
+          "title": "中国为什么能提前预测到碳排放是一个局？",
+          "url": "https://www.zhihu.com/question/2044940702971336256",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 12,
+          "title": "如何评价原班人马回归的经典 IP 续作《灵魂摆渡・十年》？",
+          "url": "https://www.zhihu.com/question/2044923620594562023",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 13,
+          "title": "深圳商场工作人员讥讽顾客「穷逛」，称「K11 不是服务这类没钱的人」，反映出哪些问题？",
+          "url": "https://www.zhihu.com/question/2044770207110009136",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "title": "明明上班只是为了赚钱，为什么还要被迫投入情绪，责任感和忠诚度呢？",
+          "url": "https://www.zhihu.com/question/2044710576962672039",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "title": "《给阿嬷的情书》主题曲《月下煮茶》因填词稀烂被各大知名填词人吐槽，重新填词后焕发新机，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2044530953813545270",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 16,
+          "title": "如何看待黄石市铁山区仅4.1万人口却维持全套区级行政架构？这是否是部分地级市“寄生式”发展的缩影？",
+          "url": "https://www.zhihu.com/question/2044481174496621452",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 17,
+          "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
+          "url": "https://www.zhihu.com/question/2044389352550164119",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 18,
+          "title": "排除皇马的三连冠，那么多伟大的球队都没有实现连冠，为什么是巴黎这支球队实现了？",
+          "url": "https://www.zhihu.com/question/2044380147500024921",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "如何评价央视热播大剧《主角》出现「台热网冷」的反差现象？",
+          "url": "https://www.zhihu.com/question/2043479977333635030",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 20,
+          "title": "长大之后你最想补给小时候自己的东西是什么？",
+          "url": "https://www.zhihu.com/question/2042560822027740205",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 21,
+          "title": "东市买骏马、西市买鞍鞯、南市买辔头、北市买长鞭，古人为什么不在一个地方一次性买完全部东西？",
+          "url": "https://www.zhihu.com/question/2042094341930340714",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 22,
+          "title": "《武林外传》小郭属于顶级的家庭背景，为什么起了郭芙蓉这种比较俗的名字？",
+          "url": "https://www.zhihu.com/question/2021168298528650460",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 23,
+          "title": "同样是付费会员制，山姆成功了，盒马X会员失败了，两者差距究竟在哪里？",
+          "url": "https://www.zhihu.com/question/2012506163619595196",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 24,
+          "title": "为什么学医是「劝退专业」，却仍有大量学子前赴后继？",
+          "url": "https://www.zhihu.com/question/1971173932146074735",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 25,
+          "title": "高考后我们应该干些什么?",
+          "url": "https://www.zhihu.com/question/1918710967866491050",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 26,
+          "title": "为什么刘慈欣没拿到诺贝尔文学奖？",
+          "url": "https://www.zhihu.com/question/1902773003646923625",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
+          "title": "唐僧为什么不抠一块脚皮给妖怪吃？",
+          "url": "https://www.zhihu.com/question/13500139412",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 28,
+          "title": "纯电车到底能开多少年报废？能开20年吗？",
+          "url": "https://www.zhihu.com/question/661865290",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 29,
+          "title": "曾侯乙墓和海昏侯墓，哪一个意义更重大？",
+          "url": "https://www.zhihu.com/question/342588797",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 30,
+          "title": "赫敏让玛丽艾塔永久毁容，有没有太过分？",
+          "url": "https://www.zhihu.com/question/291735237",
+          "hot": 0,
+          "tag": ""
+        }
+      ],
+      "updated": "2026-06-03T23:01:22.765895+08:00"
     },
     {
       "name": "百度热搜",
@@ -437,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-03T23:00:40.724462+08:00"
+      "updated": "2026-06-03T23:01:25.571270+08:00"
     },
     {
       "name": "抖音热点",
@@ -446,214 +656,214 @@
           "rank": 1,
           "title": "中国女足1:2俄罗斯女足",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B31%3A2%E4%BF%84%E7%BD%97%E6%96%AF%E5%A5%B3%E8%B6%B3",
-          "hot": 12015991,
+          "hot": 12015240,
           "tag": ""
         },
         {
           "rank": 2,
           "title": "平陆运河全线通水",
           "url": "https://www.douyin.com/search/%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%85%A8%E7%BA%BF%E9%80%9A%E6%B0%B4",
-          "hot": 11570642,
+          "hot": 11609706,
           "tag": ""
         },
         {
           "rank": 3,
           "title": "从育儿到住房乐享民生红利",
           "url": "https://www.douyin.com/search/%E4%BB%8E%E8%82%B2%E5%84%BF%E5%88%B0%E4%BD%8F%E6%88%BF%E4%B9%90%E4%BA%AB%E6%B0%91%E7%94%9F%E7%BA%A2%E5%88%A9",
-          "hot": 11198592,
+          "hot": 11234555,
           "tag": ""
         },
         {
           "rank": 4,
           "title": "琵琶行里的中式穿搭美学",
           "url": "https://www.douyin.com/search/%E7%90%B5%E7%90%B6%E8%A1%8C%E9%87%8C%E7%9A%84%E4%B8%AD%E5%BC%8F%E7%A9%BF%E6%90%AD%E7%BE%8E%E5%AD%A6",
-          "hot": 10988591,
+          "hot": 10976631,
           "tag": ""
         },
         {
           "rank": 5,
           "title": "缅甸外长将访华",
           "url": "https://www.douyin.com/search/%E7%BC%85%E7%94%B8%E5%A4%96%E9%95%BF%E5%B0%86%E8%AE%BF%E5%8D%8E",
-          "hot": 10392538,
+          "hot": 10391151,
           "tag": ""
         },
         {
           "rank": 6,
           "title": "2026年全国高考报名人数1290万",
           "url": "https://www.douyin.com/search/2026%E5%B9%B4%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B01290%E4%B8%87",
-          "hot": 10304589,
+          "hot": 10306318,
           "tag": ""
         },
         {
           "rank": 7,
-          "title": "原来江西才是隐藏款文化大省",
-          "url": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%B1%9F%E8%A5%BF%E6%89%8D%E6%98%AF%E9%9A%90%E8%97%8F%E6%AC%BE%E6%96%87%E5%8C%96%E5%A4%A7%E7%9C%81",
-          "hot": 9195788,
+          "title": "BLG战胜EDG",
+          "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CEDG",
+          "hot": 9187977,
           "tag": ""
         },
         {
           "rank": 8,
-          "title": "高考生我们为你护航",
-          "url": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E7%94%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BD%A0%E6%8A%A4%E8%88%AA",
-          "hot": 9188114,
+          "title": "原来江西才是隐藏款文化大省",
+          "url": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%B1%9F%E8%A5%BF%E6%89%8D%E6%98%AF%E9%9A%90%E8%97%8F%E6%AC%BE%E6%96%87%E5%8C%96%E5%A4%A7%E7%9C%81",
+          "hot": 9187477,
           "tag": ""
         },
         {
           "rank": 9,
           "title": "中国足球小将发长文致谢",
           "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%8F%91%E9%95%BF%E6%96%87%E8%87%B4%E8%B0%A2",
-          "hot": 9170792,
+          "hot": 9171726,
           "tag": ""
         },
         {
           "rank": 10,
-          "title": "BLG战胜EDG",
-          "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CEDG",
-          "hot": 9120551,
+          "title": "高考生我们为你护航",
+          "url": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E7%94%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BD%A0%E6%8A%A4%E8%88%AA",
+          "hot": 9120192,
           "tag": ""
         },
         {
           "rank": 11,
           "title": "苏式绿豆汤到底是什么味",
           "url": "https://www.douyin.com/search/%E8%8B%8F%E5%BC%8F%E7%BB%BF%E8%B1%86%E6%B1%A4%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E5%91%B3",
-          "hot": 9053601,
+          "hot": 9055236,
           "tag": ""
         },
         {
           "rank": 12,
           "title": "德国队进城打工穿搭风",
           "url": "https://www.douyin.com/search/%E5%BE%B7%E5%9B%BD%E9%98%9F%E8%BF%9B%E5%9F%8E%E6%89%93%E5%B7%A5%E7%A9%BF%E6%90%AD%E9%A3%8E",
-          "hot": 9053501,
+          "hot": 9052552,
           "tag": ""
         },
         {
           "rank": 13,
           "title": "看翘楚根本舍不得开倍速",
           "url": "https://www.douyin.com/search/%E7%9C%8B%E7%BF%98%E6%A5%9A%E6%A0%B9%E6%9C%AC%E8%88%8D%E4%B8%8D%E5%BE%97%E5%BC%80%E5%80%8D%E9%80%9F",
-          "hot": 8937500,
+          "hot": 8940067,
           "tag": ""
         },
         {
           "rank": 14,
           "title": "穿adi办das",
           "url": "https://www.douyin.com/search/%E7%A9%BFadi%E5%8A%9Edas",
-          "hot": 8779846,
+          "hot": 8752246,
           "tag": ""
         },
         {
           "rank": 15,
           "title": "家业大结局",
           "url": "https://www.douyin.com/search/%E5%AE%B6%E4%B8%9A%E5%A4%A7%E7%BB%93%E5%B1%80",
-          "hot": 8725913,
+          "hot": 8710518,
           "tag": ""
         },
         {
           "rank": 16,
           "title": "NBA总决赛前瞻",
           "url": "https://www.douyin.com/search/NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E5%89%8D%E7%9E%BB",
-          "hot": 8621868,
+          "hot": 8605556,
           "tag": ""
         },
         {
           "rank": 17,
           "title": "不告诉男朋友拍kisskiss",
           "url": "https://www.douyin.com/search/%E4%B8%8D%E5%91%8A%E8%AF%89%E7%94%B7%E6%9C%8B%E5%8F%8B%E6%8B%8Dkisskiss",
-          "hot": 8520411,
+          "hot": 8580512,
           "tag": ""
         },
         {
           "rank": 18,
-          "title": "问你到底爱我有几分",
-          "url": "https://www.douyin.com/search/%E9%97%AE%E4%BD%A0%E5%88%B0%E5%BA%95%E7%88%B1%E6%88%91%E6%9C%89%E5%87%A0%E5%88%86",
-          "hot": 8438186,
+          "title": "老钱风怎么又火了",
+          "url": "https://www.douyin.com/search/%E8%80%81%E9%92%B1%E9%A3%8E%E6%80%8E%E4%B9%88%E5%8F%88%E7%81%AB%E4%BA%86",
+          "hot": 8474399,
           "tag": ""
         },
         {
           "rank": 19,
-          "title": "老钱风怎么又火了",
-          "url": "https://www.douyin.com/search/%E8%80%81%E9%92%B1%E9%A3%8E%E6%80%8E%E4%B9%88%E5%8F%88%E7%81%AB%E4%BA%86",
-          "hot": 8425925,
+          "title": "这口洋芋泥螺蛳粉夯爆了",
+          "url": "https://www.douyin.com/search/%E8%BF%99%E5%8F%A3%E6%B4%8B%E8%8A%8B%E6%B3%A5%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%A4%AF%E7%88%86%E4%BA%86",
+          "hot": 8422802,
           "tag": ""
         },
         {
           "rank": 20,
-          "title": "唐僧骑马太上头了",
-          "url": "https://www.douyin.com/search/%E5%94%90%E5%83%A7%E9%AA%91%E9%A9%AC%E5%A4%AA%E4%B8%8A%E5%A4%B4%E4%BA%86",
-          "hot": 8268755,
+          "title": "丁程鑫节目录制中手指受伤",
+          "url": "https://www.douyin.com/search/%E4%B8%81%E7%A8%8B%E9%91%AB%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4",
+          "hot": 8239333,
           "tag": ""
         },
         {
           "rank": 21,
-          "title": "丁程鑫节目录制中手指受伤",
-          "url": "https://www.douyin.com/search/%E4%B8%81%E7%A8%8B%E9%91%AB%E8%8A%82%E7%9B%AE%E5%BD%95%E5%88%B6%E4%B8%AD%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4",
-          "hot": 7863695,
+          "title": "问你到底爱我有几分",
+          "url": "https://www.douyin.com/search/%E9%97%AE%E4%BD%A0%E5%88%B0%E5%BA%95%E7%88%B1%E6%88%91%E6%9C%89%E5%87%A0%E5%88%86",
+          "hot": 7890985,
           "tag": ""
         },
         {
           "rank": 22,
           "title": "灵魂摆渡十年首播观后感",
           "url": "https://www.douyin.com/search/%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E5%8D%81%E5%B9%B4%E9%A6%96%E6%92%AD%E8%A7%82%E5%90%8E%E6%84%9F",
-          "hot": 7786753,
+          "hot": 7793101,
           "tag": ""
         },
         {
           "rank": 23,
           "title": "王橹杰海边金发氛围感",
           "url": "https://www.douyin.com/search/%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%B5%B7%E8%BE%B9%E9%87%91%E5%8F%91%E6%B0%9B%E5%9B%B4%E6%84%9F",
-          "hot": 7783002,
+          "hot": 7788544,
           "tag": ""
         },
         {
           "rank": 24,
           "title": "陈都灵周翊然官配发力了",
           "url": "https://www.douyin.com/search/%E9%99%88%E9%83%BD%E7%81%B5%E5%91%A8%E7%BF%8A%E7%84%B6%E5%AE%98%E9%85%8D%E5%8F%91%E5%8A%9B%E4%BA%86",
-          "hot": 7780939,
+          "hot": 7783421,
           "tag": ""
         },
         {
           "rank": 25,
           "title": "这个夏天的凉爽是冬瓜给的",
           "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%87%89%E7%88%BD%E6%98%AF%E5%86%AC%E7%93%9C%E7%BB%99%E7%9A%84",
-          "hot": 7778140,
+          "hot": 7777636,
           "tag": ""
         },
         {
           "rank": 26,
-          "title": "金饰克价已大降300元",
-          "url": "https://www.douyin.com/search/%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E5%A4%A7%E9%99%8D300%E5%85%83",
-          "hot": 7758842,
+          "title": "唐僧骑马太上头了",
+          "url": "https://www.douyin.com/search/%E5%94%90%E5%83%A7%E9%AA%91%E9%A9%AC%E5%A4%AA%E4%B8%8A%E5%A4%B4%E4%BA%86",
+          "hot": 7772510,
           "tag": ""
         },
         {
           "rank": 27,
-          "title": "satisfaction方言挑战",
-          "url": "https://www.douyin.com/search/satisfaction%E6%96%B9%E8%A8%80%E6%8C%91%E6%88%98",
-          "hot": 7747153,
+          "title": "金饰克价已大降300元",
+          "url": "https://www.douyin.com/search/%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E5%A4%A7%E9%99%8D300%E5%85%83",
+          "hot": 7764100,
           "tag": ""
         },
         {
           "rank": 28,
           "title": "这是谁的旅游运",
           "url": "https://www.douyin.com/search/%E8%BF%99%E6%98%AF%E8%B0%81%E7%9A%84%E6%97%85%E6%B8%B8%E8%BF%90",
-          "hot": 7744118,
+          "hot": 7747464,
           "tag": ""
         },
         {
           "rank": 29,
           "title": "于毅赵恒之吐槽赵吏",
           "url": "https://www.douyin.com/search/%E4%BA%8E%E6%AF%85%E8%B5%B5%E6%81%92%E4%B9%8B%E5%90%90%E6%A7%BD%E8%B5%B5%E5%90%8F",
-          "hot": 7738721,
+          "hot": 7741891,
           "tag": ""
         },
         {
           "rank": 30,
           "title": "迪丽热巴生日快乐",
           "url": "https://www.douyin.com/search/%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90",
-          "hot": 7738474,
+          "hot": 7741392,
           "tag": ""
         }
       ],
-      "updated": "2026-06-03T23:00:42.602936+08:00"
+      "updated": "2026-06-03T23:01:27.571857+08:00"
     },
     {
       "name": "B站热门",
@@ -662,7 +872,7 @@
           "rank": 1,
           "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
           "url": "https://www.bilibili.com/video/BV15wVB6YECT",
-          "hot": 1162096,
+          "hot": 1163791,
           "tag": "美食侦探"
         },
         {
@@ -676,7 +886,7 @@
           "rank": 3,
           "title": "此树扎根之时 便是沧海化桑田之始",
           "url": "https://www.bilibili.com/video/BV1YcVf69ECW",
-          "hot": 2585679,
+          "hot": 2586032,
           "tag": "科学科普"
         },
         {
@@ -697,7 +907,7 @@
           "rank": 6,
           "title": "1周年嘉年华，JAY伴同行",
           "url": "https://www.bilibili.com/video/BV18nVd6VEKk",
-          "hot": 2713898,
+          "hot": 2714253,
           "tag": "手机游戏"
         },
         {
@@ -711,14 +921,14 @@
           "rank": 8,
           "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
           "url": "https://www.bilibili.com/video/BV1jwV663EjR",
-          "hot": 2373459,
+          "hot": 2374811,
           "tag": "竞技体育"
         },
         {
           "rank": 9,
           "title": "朋克的扑满完整版！六一变身巴啦啦小魔丸！",
           "url": "https://www.bilibili.com/video/BV1WBVZ6zEZF",
-          "hot": 797075,
+          "hot": 798329,
           "tag": "音乐现场"
         },
         {
@@ -732,7 +942,7 @@
           "rank": 11,
           "title": "今天把我关于《丧尸清道夫》的创作思路分享给大家，如果能帮到你，我会很开心。",
           "url": "https://www.bilibili.com/video/BV1xuVC6AEbg",
-          "hot": 288257,
+          "hot": 289033,
           "tag": "影视剪辑"
         },
         {
@@ -746,70 +956,70 @@
           "rank": 13,
           "title": "下 一 个 抓 谁 ！！！",
           "url": "https://www.bilibili.com/video/BV1MG7961Efg",
-          "hot": 286938,
+          "hot": 288288,
           "tag": "搞笑"
         },
         {
           "rank": 14,
           "title": "回忆永远都是加分项",
           "url": "https://www.bilibili.com/video/BV1QzVR63E3L",
-          "hot": 2692858,
+          "hot": 2693511,
           "tag": "日常"
         },
         {
           "rank": 15,
           "title": "初代跑男团战力排行",
           "url": "https://www.bilibili.com/video/BV1cmVz6DEmi",
-          "hot": 871804,
+          "hot": 873198,
           "tag": "特摄"
         },
         {
           "rank": 16,
           "title": "理财PK两个月，6位UP主已经彻底疯狂...【理财王5月战绩汇报】",
           "url": "https://www.bilibili.com/video/BV1WgVC6YERr",
-          "hot": 607388,
+          "hot": 608662,
           "tag": "财经商业"
         },
         {
           "rank": 17,
           "title": "【IGN】《战神：劳菲（God of War Laufey）》深度玩法演示 |  State of Play",
           "url": "https://www.bilibili.com/video/BV1CYVy6vETT",
-          "hot": 932887,
+          "hot": 933879,
           "tag": "单机游戏"
         },
         {
           "rank": 18,
           "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
           "url": "https://www.bilibili.com/video/BV1B75w6zEG1",
-          "hot": 978106,
+          "hot": 978900,
           "tag": "仿妆cos"
         },
         {
           "rank": 19,
           "title": "终于有女主面对灭门之仇第一反应不是质问爱，而是直接杀了他，她真的用眼神演出了极致的恨！！！",
           "url": "https://www.bilibili.com/video/BV1R7Vq6YEEG",
-          "hot": 419816,
+          "hot": 420166,
           "tag": "影视剪辑"
         },
         {
           "rank": 20,
           "title": "金库测金，海峡测雷，万税爷进军测评赛道？",
           "url": "https://www.bilibili.com/video/BV1NoVm62EFd",
-          "hot": 428154,
+          "hot": 429695,
           "tag": "社科·法律·心理"
         },
         {
           "rank": 21,
           "title": "【速凌宇宙】第十九集：哈基蜂化身哈夫克安保队长？？准备摇人？",
           "url": "https://www.bilibili.com/video/BV1y8Vk6fEwn",
-          "hot": 823717,
+          "hot": 824358,
           "tag": "单机游戏"
         },
         {
           "rank": 22,
           "title": "带良子和花胖在华哥训练营偷吃，闷子、板面、大肠都安排上",
           "url": "https://www.bilibili.com/video/BV17pVC6WECy",
-          "hot": 511944,
+          "hot": 512962,
           "tag": "美食记录"
         },
         {
@@ -823,7 +1033,7 @@
           "rank": 24,
           "title": "竹丝镶嵌",
           "url": "https://www.bilibili.com/video/BV1jBVS6qEPK",
-          "hot": 505925,
+          "hot": 506293,
           "tag": "手工"
         },
         {
@@ -851,25 +1061,25 @@
           "rank": 28,
           "title": "地牢酒馆-12集 《蜕皮的蜥蜴人与神奇薄荷》",
           "url": "https://www.bilibili.com/video/BV1T2V161E6J",
-          "hot": 475437,
+          "hot": 475916,
           "tag": "单机游戏"
         },
         {
           "rank": 29,
           "title": "兄弟们，良子最后一顿面花了我4000多。后面看我怎么练他就完了。",
           "url": "https://www.bilibili.com/video/BV12XVi6SEwe",
-          "hot": 1326123,
+          "hot": 1326898,
           "tag": "运动综合"
         },
         {
           "rank": 30,
           "title": "老婆回家前5分钟，我把火锅打翻了...",
           "url": "https://www.bilibili.com/video/BV1M8Vq6sEdw",
-          "hot": 160936,
+          "hot": 161839,
           "tag": "数码"
         }
       ],
-      "updated": "2026-06-03T23:00:43.630819+08:00"
+      "updated": "2026-06-03T23:01:28.453102+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-03T23:00:49.164214+08:00"
+      "updated": "2026-06-03T23:01:35.724276+08:00"
     }
   ]
 }
