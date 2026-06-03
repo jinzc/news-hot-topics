@@ -232,6 +232,7 @@
             .header h1 { font-size: 22px; }
         }
     </style>
+<base target="_blank">
 </head>
 <body>
     <div class="header">
@@ -259,7 +260,20 @@
     </div>
 
     <div class="footer">
-        数据来源各平台公开接口 · 仅供学习交流使用
+        <div>数据来源各平台公开接口 · 仅供学习交流使用</div>
+        <div style="margin-top: 8px; font-size: 12px; color: #666;">
+            <span id="busuanzi_container_site_pv">
+                累计访问 <span id="busuanzi_value_site_pv"></span> 次
+            </span>
+            ·
+            <span id="busuanzi_container_site_uv">
+                访客 <span id="busuanzi_value_site_uv"></span> 人
+            </span>
+            ·
+            <span id="busuanzi_container_page_pv">
+                本页 <span id="busuanzi_value_page_pv"></span> 次
+            </span>
+        </div>
     </div>
 
     <script>
@@ -302,11 +316,7 @@
                 : allData.sources.filter(s => s.name === filter);
 
             sources.forEach(source => {
-    // 如果平台没有数据，跳过不显示
-    if (!source.items || source.items.length === 0) {
-        console.log(`跳过空平台: ${source.name}`);
-        return;
-    }
+                if (!source.items || source.items.length === 0) return;
 
                 const card = document.createElement('div');
                 card.className = 'source-card';
@@ -376,5 +386,6 @@
 
         loadData();
     </script>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </body>
 </html>
