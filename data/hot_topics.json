@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-06 13:00:24",
+  "update_time": "2026-06-06 13:01:28",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,6 +26,13 @@
           "tag": ""
         },
         {
+          "rank": 2,
+          "title": "京东请全网女生敷面膜",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E8%AF%B7%E5%85%A8%E7%BD%91%E5%A5%B3%E7%94%9F%E6%95%B7%E9%9D%A2%E8%86%9C",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 3,
           "title": "高考时间",
           "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4",
@@ -41,15 +48,8 @@
         },
         {
           "rank": 5,
-          "title": "李晨郑恺回应争议",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%A8%E9%83%91%E6%81%BA%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "种地吧第四届麦田音乐会今晚直播",
-          "url": "https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%E7%AC%AC%E5%9B%9B%E5%B1%8A%E9%BA%A6%E7%94%B0%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%BB%8A%E6%99%9A%E7%9B%B4%E6%92%AD",
+          "title": "范丞丞忘了郑恺也是初代跑男",
+          "url": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BF%98%E4%BA%86%E9%83%91%E6%81%BA%E4%B9%9F%E6%98%AF%E5%88%9D%E4%BB%A3%E8%B7%91%E7%94%B7",
           "hot": 0,
           "tag": ""
         },
@@ -83,29 +83,29 @@
         },
         {
           "rank": 10,
+          "title": "李晨郑恺回应争议",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%A8%E9%83%91%E6%81%BA%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 11,
           "title": "金泽去世",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E6%B3%BD%E5%8E%BB%E4%B8%96",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 11,
+          "rank": 12,
           "title": "重庆理工一副校长遇刺身亡",
           "url": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E7%90%86%E5%B7%A5%E4%B8%80%E5%89%AF%E6%A0%A1%E9%95%BF%E9%81%87%E5%88%BA%E8%BA%AB%E4%BA%A1",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 12,
+          "rank": 13,
           "title": "何超盈女儿在奚梦瑶婚礼上演讲",
           "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E8%B6%85%E7%9B%88%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%A9%9A%E7%A4%BC%E4%B8%8A%E6%BC%94%E8%AE%B2",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 13,
-          "title": "范丞丞忘了郑恺也是初代跑男",
-          "url": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%BF%98%E4%BA%86%E9%83%91%E6%81%BA%E4%B9%9F%E6%98%AF%E5%88%9D%E4%BB%A3%E8%B7%91%E7%94%B7",
           "hot": 0,
           "tag": ""
         },
@@ -125,22 +125,22 @@
         },
         {
           "rank": 16,
+          "title": "摄影师开黄腔被女子制止后P图报复",
+          "url": "https://s.weibo.com/weibo?q=%E6%91%84%E5%BD%B1%E5%B8%88%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E5%A5%B3%E5%AD%90%E5%88%B6%E6%AD%A2%E5%90%8EP%E5%9B%BE%E6%8A%A5%E5%A4%8D",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 17,
           "title": "谢娜发了和李心洁的聊天记录",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%8F%91%E4%BA%86%E5%92%8C%E6%9D%8E%E5%BF%83%E6%B4%81%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 17,
-          "title": "金泽曾透露为当演员拼命减肥",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E6%B3%BD%E6%9B%BE%E9%80%8F%E9%9C%B2%E4%B8%BA%E5%BD%93%E6%BC%94%E5%91%98%E6%8B%BC%E5%91%BD%E5%87%8F%E8%82%A5",
-          "hot": 0,
-          "tag": ""
-        },
-        {
           "rank": 18,
-          "title": "NBA总决赛马刺vs尼克斯",
-          "url": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A9%AC%E5%88%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF",
+          "title": "iPhone17续航有望改善",
+          "url": "https://s.weibo.com/weibo?q=iPhone17%E7%BB%AD%E8%88%AA%E6%9C%89%E6%9C%9B%E6%94%B9%E5%96%84",
           "hot": 0,
           "tag": ""
         },
@@ -160,29 +160,29 @@
         },
         {
           "rank": 21,
-          "title": "摄影师开黄腔被女子制止后P图报复",
-          "url": "https://s.weibo.com/weibo?q=%E6%91%84%E5%BD%B1%E5%B8%88%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E5%A5%B3%E5%AD%90%E5%88%B6%E6%AD%A2%E5%90%8EP%E5%9B%BE%E6%8A%A5%E5%A4%8D",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 22,
-          "title": "iPhone17续航有望改善",
-          "url": "https://s.weibo.com/weibo?q=iPhone17%E7%BB%AD%E8%88%AA%E6%9C%89%E6%9C%9B%E6%94%B9%E5%96%84",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
           "title": "王濛金牌含金量",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BF%9B%E9%87%91%E7%89%8C%E5%90%AB%E9%87%91%E9%87%8F",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 22,
+          "title": "金泽曾透露为当演员拼命减肥",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E6%B3%BD%E6%9B%BE%E9%80%8F%E9%9C%B2%E4%B8%BA%E5%BD%93%E6%BC%94%E5%91%98%E6%8B%BC%E5%91%BD%E5%87%8F%E8%82%A5",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 23,
+          "title": "NBA总决赛马刺vs尼克斯",
+          "url": "https://s.weibo.com/weibo?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A9%AC%E5%88%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 24,
-          "title": "黄灿灿失误后将影响降低最小了",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%E5%A4%B1%E8%AF%AF%E5%90%8E%E5%B0%86%E5%BD%B1%E5%93%8D%E9%99%8D%E4%BD%8E%E6%9C%80%E5%B0%8F%E4%BA%86",
+          "title": "王菲 我打牌的时候没空打她",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%20%E6%88%91%E6%89%93%E7%89%8C%E7%9A%84%E6%97%B6%E5%80%99%E6%B2%A1%E7%A9%BA%E6%89%93%E5%A5%B9",
           "hot": 0,
           "tag": ""
         },
@@ -202,8 +202,8 @@
         },
         {
           "rank": 27,
-          "title": "王菲 我打牌的时候没空打她",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%20%E6%88%91%E6%89%93%E7%89%8C%E7%9A%84%E6%97%B6%E5%80%99%E6%B2%A1%E7%A9%BA%E6%89%93%E5%A5%B9",
+          "title": "黄灿灿失误后将影响降低最小了",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%E5%A4%B1%E8%AF%AF%E5%90%8E%E5%B0%86%E5%BD%B1%E5%93%8D%E9%99%8D%E4%BD%8E%E6%9C%80%E5%B0%8F%E4%BA%86",
           "hot": 0,
           "tag": ""
         },
@@ -215,15 +215,15 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-06T13:00:13.210159+08:00"
+      "updated": "2026-06-06T13:01:18.213598+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [
         {
           "rank": 1,
-          "title": "2526赛季NBA总决赛尼克斯 105:104 马刺，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2046513184329277648",
+          "title": "男子胸痛前往医院就诊不幸离世，医生在挂号 13 分钟后才到达诊疗室，算延误治疗吗？医生和院方该担责吗？",
+          "url": "https://www.zhihu.com/question/2046521240890729314",
           "hot": 0,
           "tag": ""
         },
@@ -390,15 +390,15 @@
         },
         {
           "rank": 25,
-          "title": "美国如何一次性解决36万亿美债问题？",
-          "url": "https://www.zhihu.com/question/6607165102",
+          "title": "你认为好看的电影有哪些推荐？",
+          "url": "https://www.zhihu.com/question/666966671",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 26,
-          "title": "你认为好看的电影有哪些推荐？",
-          "url": "https://www.zhihu.com/question/666966671",
+          "title": "为什么哺乳动物往水里进化的有好多种，但朝天空进化的只有蝙蝠一种？",
+          "url": "https://www.zhihu.com/question/666508327",
           "hot": 0,
           "tag": ""
         },
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-06T13:00:14.875430+08:00"
+      "updated": "2026-06-06T13:01:20.175397+08:00"
     },
     {
       "name": "百度热搜",
@@ -647,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-06T13:00:17.782482+08:00"
+      "updated": "2026-06-06T13:01:22.412767+08:00"
     },
     {
       "name": "抖音热点",
@@ -863,7 +863,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-06T13:00:19.866458+08:00"
+      "updated": "2026-06-06T13:01:24.143529+08:00"
     },
     {
       "name": "B站热门",
@@ -872,7 +872,7 @@
           "rank": 1,
           "title": "公测定档7月 | 《遗忘之海》船员集结摇滚MV「燥」",
           "url": "https://www.bilibili.com/video/BV15C7k6REKC",
-          "hot": 1348706,
+          "hot": 1358463,
           "tag": "GMV"
         },
         {
@@ -886,105 +886,105 @@
           "rank": 3,
           "title": "一句“一氧化二氢”能钓出多少“读稿机”？",
           "url": "https://www.bilibili.com/video/BV1rg7C6TEUm",
-          "hot": 2177999,
+          "hot": 2184185,
           "tag": "科学科普"
         },
         {
           "rank": 4,
           "title": "【独家】《将夜》第8集 长夜将至【4月国创】",
           "url": "https://www.bilibili.com/video/BV1sL766KErd",
-          "hot": 791172,
+          "hot": 791501,
           "tag": "国产动画"
         },
         {
           "rank": 5,
           "title": "CF单机叙事续作——《穿越火线：潜伏》实机首曝",
           "url": "https://www.bilibili.com/video/BV1xU7f6xEjt",
-          "hot": 914866,
+          "hot": 919839,
           "tag": "单机游戏"
         },
         {
           "rank": 6,
           "title": "不降 |《归唐》夏日游戏节剧情初窥预告",
           "url": "https://www.bilibili.com/video/BV1F7716gE1d",
-          "hot": 1365718,
+          "hot": 1371345,
           "tag": "单机游戏"
         },
         {
           "rank": 7,
           "title": "路边一块，也能变废为宝，雕刻出大家想要的题材我不知道什么时候天才会亮，但我知道，跑着跑着，天就亮了。",
           "url": "https://www.bilibili.com/video/BV15iEc6VEfH",
-          "hot": 4672267,
+          "hot": 4675450,
           "tag": "手工"
         },
         {
           "rank": 8,
           "title": "英国，沦为印度殖民地",
           "url": "https://www.bilibili.com/video/BV1cu7r6FEPd",
-          "hot": 1417498,
+          "hot": 1420854,
           "tag": "日常"
         },
         {
           "rank": 9,
           "title": "假如高考什么都可以带",
           "url": "https://www.bilibili.com/video/BV15z766SE1A",
-          "hot": 1501478,
+          "hot": 1504962,
           "tag": "校园学习"
         },
         {
           "rank": 10,
           "title": "如何在家制造浓汤宝",
           "url": "https://www.bilibili.com/video/BV1df7r6REpB",
-          "hot": 1568602,
+          "hot": 1572818,
           "tag": "日常"
         },
         {
           "rank": 11,
           "title": "史上最骚特工(第二集)",
           "url": "https://www.bilibili.com/video/BV1hG7y69Ej2",
-          "hot": 163911,
+          "hot": 165118,
           "tag": "单机游戏"
         },
         {
           "rank": 12,
           "title": "当父母说出了正确答案：",
           "url": "https://www.bilibili.com/video/BV16kV26TES7",
-          "hot": 4175191,
+          "hot": 4178670,
           "tag": "搞笑"
         },
         {
           "rank": 13,
           "title": "猫 咪 的 花 语 是 老 吴🎵",
           "url": "https://www.bilibili.com/video/BV1WT7C6uEj8",
-          "hot": 855452,
+          "hot": 857263,
           "tag": "同人·手书"
         },
         {
           "rank": 14,
           "title": "《师》我回母校当老师",
           "url": "https://www.bilibili.com/video/BV1PP7C63E2J",
-          "hot": 665992,
+          "hot": 668780,
           "tag": "搞笑"
         },
         {
           "rank": 15,
           "title": "当爸爸找亲戚买手机",
           "url": "https://www.bilibili.com/video/BV1R7Ew65ERR",
-          "hot": 1816828,
+          "hot": 1818336,
           "tag": "小剧场"
         },
         {
           "rank": 16,
           "title": "【IGN】《生化危机 维罗妮卡 重制版》公布预告 | 夏日游戏节2026",
           "url": "https://www.bilibili.com/video/BV14x7U6hE8M",
-          "hot": 456098,
+          "hot": 457756,
           "tag": "单机游戏"
         },
         {
           "rank": 17,
           "title": "\"那些节奏感拉满的硬核BGM\"",
           "url": "https://www.bilibili.com/video/BV15nVz6uEyY",
-          "hot": 9169136,
+          "hot": 9180419,
           "tag": "音乐综合"
         },
         {
@@ -998,21 +998,21 @@
           "rank": 19,
           "title": "人在干坏事的时候是不怕苦不怕累的",
           "url": "https://www.bilibili.com/video/BV19ZEF6MEBV",
-          "hot": 1787448,
+          "hot": 1788370,
           "tag": "日常"
         },
         {
           "rank": 20,
           "title": "【本家投稿】请批准吧灯神先生! / 重音テト・音街ウナ",
           "url": "https://www.bilibili.com/video/BV1GzV36pE5h",
-          "hot": 2050663,
+          "hot": 2051554,
           "tag": "VOCALOID·UTAU"
         },
         {
           "rank": 21,
           "title": "如此仙音唯有挠臭",
           "url": "https://www.bilibili.com/video/BV168796PEv1",
-          "hot": 3314671,
+          "hot": 3318806,
           "tag": "喵星人"
         },
         {
@@ -1026,14 +1026,14 @@
           "rank": 23,
           "title": "在沙漠里种了1800万棵树，然后呢？",
           "url": "https://www.bilibili.com/video/BV1TR766zEvE",
-          "hot": 1032893,
+          "hot": 1036083,
           "tag": "娱乐粉丝创作"
         },
         {
           "rank": 24,
           "title": "最 不 物 质 之 人",
           "url": "https://www.bilibili.com/video/BV1DB7f6AEBK",
-          "hot": 1671828,
+          "hot": 1677438,
           "tag": "日常"
         },
         {
@@ -1047,39 +1047,39 @@
           "rank": 26,
           "title": "“超微距”下的瑞士长什么样？",
           "url": "https://www.bilibili.com/video/BV1vkVB6NEuR",
-          "hot": 3366486,
+          "hot": 3367878,
           "tag": "娱乐粉丝创作"
         },
         {
           "rank": 27,
           "title": "不儿，你俩来真的啊？！",
           "url": "https://www.bilibili.com/video/BV1RvVo6QEqo",
-          "hot": 5304374,
+          "hot": 5305295,
           "tag": "搞笑"
         },
         {
           "rank": 28,
           "title": "公司给粉丝安排了30万的水上宫殿...",
           "url": "https://www.bilibili.com/video/BV1kv7262EyU",
-          "hot": 102439,
+          "hot": 103235,
           "tag": "日常"
         },
         {
           "rank": 29,
           "title": "【战双帕弥什】剧情动画 | “最好的一日”",
           "url": "https://www.bilibili.com/video/BV1FNV26YEZo",
-          "hot": 1488121,
+          "hot": 1491005,
           "tag": "手机游戏"
         },
         {
           "rank": 30,
           "title": "把硬装的喊过来！",
           "url": "https://www.bilibili.com/video/BV1uX7k6UEPn",
-          "hot": 785773,
+          "hot": 787148,
           "tag": "小剧场"
         }
       ],
-      "updated": "2026-06-06T13:00:20.450870+08:00"
+      "updated": "2026-06-06T13:01:24.566772+08:00"
     },
     {
       "name": "IT之家",
@@ -1295,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-06T13:00:24.688925+08:00"
+      "updated": "2026-06-06T13:01:28.702753+08:00"
     }
   ]
 }
