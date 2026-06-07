@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-08 07:00:26",
+  "update_time": "2026-06-08 07:02:41",
   "sources": [
     {
       "name": "微博热搜",
@@ -13,8 +13,8 @@
         },
         {
           "rank": 1,
-          "title": "不要擅自回复外星人",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E6%93%85%E8%87%AA%E5%9B%9E%E5%A4%8D%E5%A4%96%E6%98%9F%E4%BA%BA",
+          "title": "兹维列夫首夺大满贯冠军",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E9%A6%96%E5%A4%BA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B",
           "hot": 0,
           "tag": ""
         },
@@ -26,16 +26,23 @@
           "tag": ""
         },
         {
+          "rank": 2,
+          "title": "小米17T系列今日发布",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B317T%E7%B3%BB%E5%88%97%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 3,
-          "title": "浪姐四公个喜人气排名",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E4%B8%AA%E5%96%9C%E4%BA%BA%E6%B0%94%E6%8E%92%E5%90%8D",
+          "title": "不要擅自回复外星人",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E6%93%85%E8%87%AA%E5%9B%9E%E5%A4%8D%E5%A4%96%E6%98%9F%E4%BA%BA",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 4,
-          "title": "兹维列夫首夺大满贯冠军",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%B9%E7%BB%B4%E5%88%97%E5%A4%AB%E9%A6%96%E5%A4%BA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B",
+          "title": "浪姐四公个喜人气排名",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC%E4%B8%AA%E5%96%9C%E4%BA%BA%E6%B0%94%E6%8E%92%E5%90%8D",
           "hot": 0,
           "tag": ""
         },
@@ -90,132 +97,125 @@
         },
         {
           "rank": 12,
-          "title": "张远演唱会主题押中高考作文",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E9%A2%98%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 13,
           "title": "齐思钧 雷霆雨露俱是天恩",
           "url": "https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%20%E9%9B%B7%E9%9C%86%E9%9B%A8%E9%9C%B2%E4%BF%B1%E6%98%AF%E5%A4%A9%E6%81%A9",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 14,
-          "title": "曾沛慈看到张慧雯淘汰泪崩了",
-          "url": "https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E7%9C%8B%E5%88%B0%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%B7%98%E6%B1%B0%E6%B3%AA%E5%B4%A9%E4%BA%86",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 15,
+          "rank": 13,
           "title": "朝鲜平壤街头挂起五星红旗",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%9D%E9%B2%9C%E5%B9%B3%E5%A3%A4%E8%A1%97%E5%A4%B4%E6%8C%82%E8%B5%B7%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 14,
+          "title": "张远演唱会主题押中高考作文",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E9%A2%98%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "title": "曾沛慈看到张慧雯淘汰泪崩了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88%E7%9C%8B%E5%88%B0%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%B7%98%E6%B1%B0%E6%B3%AA%E5%B4%A9%E4%BA%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 16,
-          "title": "谢娜新歌 四川人民不管管吗",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E6%96%B0%E6%AD%8C%20%E5%9B%9B%E5%B7%9D%E4%BA%BA%E6%B0%91%E4%B8%8D%E7%AE%A1%E7%AE%A1%E5%90%97",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 17,
-          "title": "江苏一考生8点59才发现走错考场",
-          "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E4%B8%80%E8%80%83%E7%94%9F8%E7%82%B959%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 18,
           "title": "央视曝光小作坊翻新牙刷",
           "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%B0%8F%E4%BD%9C%E5%9D%8A%E7%BF%BB%E6%96%B0%E7%89%99%E5%88%B7",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 17,
+          "title": "谢娜新歌 四川人民不管管吗",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E6%96%B0%E6%AD%8C%20%E5%9B%9B%E5%B7%9D%E4%BA%BA%E6%B0%91%E4%B8%8D%E7%AE%A1%E7%AE%A1%E5%90%97",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 18,
+          "title": "江苏一考生8点59才发现走错考场",
+          "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E4%B8%80%E8%80%83%E7%94%9F8%E7%82%B959%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 19,
+          "title": "华为昇腾910C完成训练",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE910C%E5%AE%8C%E6%88%90%E8%AE%AD%E7%BB%83",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 20,
           "title": "我军电子干扰让荷兰军舰变瞎变聋",
           "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%86%9B%E7%94%B5%E5%AD%90%E5%B9%B2%E6%89%B0%E8%AE%A9%E8%8D%B7%E5%85%B0%E5%86%9B%E8%88%B0%E5%8F%98%E7%9E%8E%E5%8F%98%E8%81%8B",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 20,
+          "rank": 21,
           "title": "孙怡一公队友全部淘汰",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%80%A1%E4%B8%80%E5%85%AC%E9%98%9F%E5%8F%8B%E5%85%A8%E9%83%A8%E6%B7%98%E6%B1%B0",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 21,
+          "rank": 22,
           "title": "49岁男子在香港至舟山货船上失踪",
           "url": "https://s.weibo.com/weibo?q=49%E5%B2%81%E7%94%B7%E5%AD%90%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%87%B3%E8%88%9F%E5%B1%B1%E8%B4%A7%E8%88%B9%E4%B8%8A%E5%A4%B1%E8%B8%AA",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 22,
+          "rank": 23,
           "title": "高考数学",
           "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 23,
+          "rank": 24,
           "title": "蔡明为王濛发声",
           "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E6%98%8E%E4%B8%BA%E7%8E%8B%E6%BF%9B%E5%8F%91%E5%A3%B0",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 24,
-          "title": "狗子回家高烧三天",
-          "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E5%AD%90%E5%9B%9E%E5%AE%B6%E9%AB%98%E7%83%A7%E4%B8%89%E5%A4%A9",
-          "hot": 0,
-          "tag": ""
-        },
-        {
           "rank": 25,
-          "title": "杰士邦又要被卖了",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%B0%E5%A3%AB%E9%82%A6%E5%8F%88%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 26,
-          "title": "葛军高考数学考了一百零几分",
-          "url": "https://s.weibo.com/weibo?q=%E8%91%9B%E5%86%9B%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%80%83%E4%BA%86%E4%B8%80%E7%99%BE%E9%9B%B6%E5%87%A0%E5%88%86",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 27,
           "title": "代斯 我再也不唱歌了",
           "url": "https://s.weibo.com/weibo?q=%E4%BB%A3%E6%96%AF%20%E6%88%91%E5%86%8D%E4%B9%9F%E4%B8%8D%E5%94%B1%E6%AD%8C%E4%BA%86",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 28,
+          "rank": 26,
+          "title": "杰士邦又要被卖了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%B0%E5%A3%AB%E9%82%A6%E5%8F%88%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
           "title": "陈瑶一直在哭",
           "url": "https://s.weibo.com/weibo?q=%E9%99%88%E7%91%B6%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%93%AD",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 29,
-          "title": "七根心简2",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%83%E6%A0%B9%E5%BF%83%E7%AE%802",
+          "rank": 28,
+          "title": "狗子回家高烧三天",
+          "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E5%AD%90%E5%9B%9E%E5%AE%B6%E9%AB%98%E7%83%A7%E4%B8%89%E5%A4%A9",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-06-08T07:00:10.407382+08:00"
+      "updated": "2026-06-08T07:02:30.115750+08:00"
     },
     {
       "name": "知乎热榜",
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-08T07:00:11.799311+08:00"
+      "updated": "2026-06-08T07:02:31.934378+08:00"
     },
     {
       "name": "百度热搜",
@@ -647,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-08T07:00:15.052588+08:00"
+      "updated": "2026-06-08T07:02:35.113487+08:00"
     },
     {
       "name": "抖音热点",
@@ -656,214 +656,214 @@
           "rank": 1,
           "title": "高考数学难不难",
           "url": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE",
-          "hot": 11523831,
+          "hot": 11569348,
           "tag": ""
         },
         {
           "rank": 2,
           "title": "印度或将成全球第四大经济体",
           "url": "https://www.douyin.com/search/%E5%8D%B0%E5%BA%A6%E6%88%96%E5%B0%86%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E7%BB%8F%E6%B5%8E%E4%BD%93",
-          "hot": 10946246,
+          "hot": 10923807,
           "tag": ""
         },
         {
           "rank": 3,
           "title": "清洁低碳氢煤混烧技术取得重大突破",
           "url": "https://www.douyin.com/search/%E6%B8%85%E6%B4%81%E4%BD%8E%E7%A2%B3%E6%B0%A2%E7%85%A4%E6%B7%B7%E7%83%A7%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
-          "hot": 10798832,
+          "hot": 10806823,
           "tag": ""
         },
         {
           "rank": 4,
           "title": "高考数学",
           "url": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
-          "hot": 10774056,
+          "hot": 10773296,
           "tag": ""
         },
         {
           "rank": 5,
           "title": "高考作文",
           "url": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "hot": 10222658,
+          "hot": 10223577,
           "tag": ""
         },
         {
           "rank": 6,
           "title": "高考语文",
           "url": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87",
-          "hot": 10050806,
+          "hot": 10042573,
           "tag": ""
         },
         {
           "rank": 7,
           "title": "TES 3:0战胜WE",
           "url": "https://www.douyin.com/search/TES%203%3A0%E6%88%98%E8%83%9CWE",
-          "hot": 8817816,
+          "hot": 8827041,
           "tag": ""
         },
         {
           "rank": 8,
           "title": "演员张治中逝世",
           "url": "https://www.douyin.com/search/%E6%BC%94%E5%91%98%E5%BC%A0%E6%B2%BB%E4%B8%AD%E9%80%9D%E4%B8%96",
-          "hot": 8219764,
+          "hot": 8201996,
           "tag": ""
         },
         {
           "rank": 9,
           "title": "成何体统2现代婚礼夯爆了",
           "url": "https://www.douyin.com/search/%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F2%E7%8E%B0%E4%BB%A3%E5%A9%9A%E7%A4%BC%E5%A4%AF%E7%88%86%E4%BA%86",
-          "hot": 8157724,
+          "hot": 8136225,
           "tag": ""
         },
         {
           "rank": 10,
           "title": "台军射击演习视频曝光引群嘲",
           "url": "https://www.douyin.com/search/%E5%8F%B0%E5%86%9B%E5%B0%84%E5%87%BB%E6%BC%94%E4%B9%A0%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%E5%BC%95%E7%BE%A4%E5%98%B2",
-          "hot": 8083965,
+          "hot": 8043089,
           "tag": ""
         },
         {
           "rank": 11,
           "title": "用向日葵见证高考瞬间",
           "url": "https://www.douyin.com/search/%E7%94%A8%E5%90%91%E6%97%A5%E8%91%B5%E8%A7%81%E8%AF%81%E9%AB%98%E8%80%83%E7%9E%AC%E9%97%B4",
-          "hot": 7794340,
+          "hot": 7791929,
           "tag": ""
         },
         {
           "rank": 12,
           "title": "专家辟谣外卖用的是人造大米",
           "url": "https://www.douyin.com/search/%E4%B8%93%E5%AE%B6%E8%BE%9F%E8%B0%A3%E5%A4%96%E5%8D%96%E7%94%A8%E7%9A%84%E6%98%AF%E4%BA%BA%E9%80%A0%E5%A4%A7%E7%B1%B3",
-          "hot": 7792688,
+          "hot": 7791582,
           "tag": ""
         },
         {
           "rank": 13,
           "title": "高考作文为何每年刷屏",
           "url": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E4%B8%BA%E4%BD%95%E6%AF%8F%E5%B9%B4%E5%88%B7%E5%B1%8F",
-          "hot": 7760577,
+          "hot": 7764967,
           "tag": ""
         },
         {
           "rank": 14,
           "title": "高考作文我来作答",
           "url": "https://www.douyin.com/search/%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E6%88%91%E6%9D%A5%E4%BD%9C%E7%AD%94",
-          "hot": 7754398,
+          "hot": 7758852,
           "tag": ""
         },
         {
           "rank": 15,
-          "title": "全国一卷 词语的变化",
-          "url": "https://www.douyin.com/search/%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%B7%20%E8%AF%8D%E8%AF%AD%E7%9A%84%E5%8F%98%E5%8C%96",
-          "hot": 7753494,
+          "title": "抖音直播群星绽放季",
+          "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E7%BE%A4%E6%98%9F%E7%BB%BD%E6%94%BE%E5%AD%A3",
+          "hot": 7751145,
           "tag": ""
         },
         {
           "rank": 16,
-          "title": "抖音直播群星绽放季",
-          "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E7%BE%A4%E6%98%9F%E7%BB%BD%E6%94%BE%E5%AD%A3",
-          "hot": 7745925,
+          "title": "全国一卷 词语的变化",
+          "url": "https://www.douyin.com/search/%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%B7%20%E8%AF%8D%E8%AF%AD%E7%9A%84%E5%8F%98%E5%8C%96",
+          "hot": 7748084,
           "tag": ""
         },
         {
           "rank": 17,
           "title": "黑熊NPC把漂流玩成了整活局",
           "url": "https://www.douyin.com/search/%E9%BB%91%E7%86%8ANPC%E6%8A%8A%E6%BC%82%E6%B5%81%E7%8E%A9%E6%88%90%E4%BA%86%E6%95%B4%E6%B4%BB%E5%B1%80",
-          "hot": 7743073,
+          "hot": 7746035,
           "tag": ""
         },
         {
           "rank": 18,
           "title": "跑男这期的推理可以给到一个夯",
           "url": "https://www.douyin.com/search/%E8%B7%91%E7%94%B7%E8%BF%99%E6%9C%9F%E7%9A%84%E6%8E%A8%E7%90%86%E5%8F%AF%E4%BB%A5%E7%BB%99%E5%88%B0%E4%B8%80%E4%B8%AA%E5%A4%AF",
-          "hot": 7736143,
+          "hot": 7729488,
           "tag": ""
         },
         {
           "rank": 19,
           "title": "名师学霸解高考数学压轴题",
           "url": "https://www.douyin.com/search/%E5%90%8D%E5%B8%88%E5%AD%A6%E9%9C%B8%E8%A7%A3%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%8E%8B%E8%BD%B4%E9%A2%98",
-          "hot": 7726594,
+          "hot": 7722539,
           "tag": ""
         },
         {
           "rank": 20,
           "title": "金榜题名高考顺利",
           "url": "https://www.douyin.com/search/%E9%87%91%E6%A6%9C%E9%A2%98%E5%90%8D%E9%AB%98%E8%80%83%E9%A1%BA%E5%88%A9",
-          "hot": 7717805,
+          "hot": 7716728,
           "tag": ""
         },
         {
           "rank": 21,
           "title": "今年高考作文题难不难写",
           "url": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%E9%9A%BE%E4%B8%8D%E9%9A%BE%E5%86%99",
-          "hot": 7700698,
+          "hot": 7700483,
           "tag": ""
         },
         {
           "rank": 22,
           "title": "这下董亮的手机真的“没有”了",
           "url": "https://www.douyin.com/search/%E8%BF%99%E4%B8%8B%E8%91%A3%E4%BA%AE%E7%9A%84%E6%89%8B%E6%9C%BA%E7%9C%9F%E7%9A%84%E2%80%9C%E6%B2%A1%E6%9C%89%E2%80%9D%E4%BA%86",
-          "hot": 7699770,
+          "hot": 7697583,
           "tag": ""
         },
         {
           "rank": 23,
           "title": "花小龙带林子聪自律的一天",
           "url": "https://www.douyin.com/search/%E8%8A%B1%E5%B0%8F%E9%BE%99%E5%B8%A6%E6%9E%97%E5%AD%90%E8%81%AA%E8%87%AA%E5%BE%8B%E7%9A%84%E4%B8%80%E5%A4%A9",
-          "hot": 7698442,
+          "hot": 7697467,
           "tag": ""
         },
         {
           "rank": 24,
           "title": "扛住了柴米油盐的麻烦转场挑战",
           "url": "https://www.douyin.com/search/%E6%89%9B%E4%BD%8F%E4%BA%86%E6%9F%B4%E7%B1%B3%E6%B2%B9%E7%9B%90%E7%9A%84%E9%BA%BB%E7%83%A6%E8%BD%AC%E5%9C%BA%E6%8C%91%E6%88%98",
-          "hot": 7689699,
+          "hot": 7690420,
           "tag": ""
         },
         {
           "rank": 25,
           "title": "范玮琪唐艺昕左边舞台",
           "url": "https://www.douyin.com/search/%E8%8C%83%E7%8E%AE%E7%90%AA%E5%94%90%E8%89%BA%E6%98%95%E5%B7%A6%E8%BE%B9%E8%88%9E%E5%8F%B0",
-          "hot": 7684912,
+          "hot": 7685550,
           "tag": ""
         },
         {
           "rank": 26,
           "title": "翘楚热度破10000",
           "url": "https://www.douyin.com/search/%E7%BF%98%E6%A5%9A%E7%83%AD%E5%BA%A6%E7%A0%B410000",
-          "hot": 7684564,
+          "hot": 7683399,
           "tag": ""
         },
         {
           "rank": 27,
           "title": "音乐一响富贵新疆小羊列队登场",
           "url": "https://www.douyin.com/search/%E9%9F%B3%E4%B9%90%E4%B8%80%E5%93%8D%E5%AF%8C%E8%B4%B5%E6%96%B0%E7%96%86%E5%B0%8F%E7%BE%8A%E5%88%97%E9%98%9F%E7%99%BB%E5%9C%BA",
-          "hot": 7676776,
+          "hot": 7680979,
           "tag": ""
         },
         {
           "rank": 28,
           "title": "名家点评高考作文题",
           "url": "https://www.douyin.com/search/%E5%90%8D%E5%AE%B6%E7%82%B9%E8%AF%84%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98",
-          "hot": 7674543,
+          "hot": 7675745,
           "tag": ""
         },
         {
           "rank": 29,
-          "title": "新疆小羊摊主爆火前后对比",
-          "url": "https://www.douyin.com/search/%E6%96%B0%E7%96%86%E5%B0%8F%E7%BE%8A%E6%91%8A%E4%B8%BB%E7%88%86%E7%81%AB%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94",
-          "hot": 7667124,
+          "title": "你怎么知道我刚买了智能眼镜",
+          "url": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E7%9F%A5%E9%81%93%E6%88%91%E5%88%9A%E4%B9%B0%E4%BA%86%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C",
+          "hot": 7671108,
           "tag": ""
         },
         {
           "rank": 30,
           "title": "抖音学霸解读高考作文",
           "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E5%AD%A6%E9%9C%B8%E8%A7%A3%E8%AF%BB%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "hot": 7665198,
+          "hot": 7663987,
           "tag": ""
         }
       ],
-      "updated": "2026-06-08T07:00:17.000302+08:00"
+      "updated": "2026-06-08T07:02:36.441313+08:00"
     },
     {
       "name": "B站热门",
@@ -872,214 +872,214 @@
           "rank": 1,
           "title": "信 |《归唐》19分钟完整实机演示",
           "url": "https://www.bilibili.com/video/BV1Uj7k6VEPU",
-          "hot": 6655890,
+          "hot": 6656491,
           "tag": "单机游戏"
         },
         {
           "rank": 2,
           "title": "公测定档7月 | 《遗忘之海》船员集结摇滚MV「燥」",
           "url": "https://www.bilibili.com/video/BV15C7k6REKC",
-          "hot": 6942522,
+          "hot": 6942616,
           "tag": "GMV"
         },
         {
           "rank": 3,
           "title": "人，握爪后就不要放开咯！——《伊莫》握爪测试招募开启",
           "url": "https://www.bilibili.com/video/BV1CQ7o61ERo",
-          "hot": 3296210,
+          "hot": 3297849,
           "tag": "手机游戏"
         },
         {
           "rank": 4,
           "title": "【独家】牧神记 第86集 祸国殃民",
           "url": "https://www.bilibili.com/video/BV1UQ7Q6gEcx",
-          "hot": 2301684,
+          "hot": 2302190,
           "tag": "国产动画"
         },
         {
           "rank": 5,
           "title": "参加了九次高考的考生采访",
           "url": "https://www.bilibili.com/video/BV1xkE46PE59",
-          "hot": 2175407,
+          "hot": 2179281,
           "tag": "日常"
         },
         {
           "rank": 6,
           "title": "CF单机叙事续作——《穿越火线：潜伏》实机首曝",
           "url": "https://www.bilibili.com/video/BV1xU7f6xEjt",
-          "hot": 5609499,
+          "hot": 5615403,
           "tag": "单机游戏"
         },
         {
           "rank": 7,
           "title": "锐评2026年数学高考，我雷霆大怒",
           "url": "https://www.bilibili.com/video/BV1ZvEt6oEWR",
-          "hot": 385806,
+          "hot": 391467,
           "tag": "日常"
         },
         {
           "rank": 8,
           "title": "评论区摄影大赛之火遍全网的佳作篇，本期有锐评系列也有破败与新生佳作，欢迎投稿好的作品会让更多人看到。",
           "url": "https://www.bilibili.com/video/BV1s7V46XEix",
-          "hot": 5005695,
+          "hot": 5006294,
           "tag": "日常"
         },
         {
           "rank": 9,
           "title": "《古剑》3分钟战斗实机 | 线下试玩招募开启",
           "url": "https://www.bilibili.com/video/BV1T9Vm6UE2N",
-          "hot": 5067165,
+          "hot": 5067206,
           "tag": "单机游戏"
         },
         {
           "rank": 10,
           "title": "最直接的伤害往往只需采用最简单的普通攻击 #超能力 #万万没想到 #反转 #劲大",
           "url": "https://www.bilibili.com/video/BV1JJ7m62ELC",
-          "hot": 2015405,
+          "hot": 2017361,
           "tag": "短片"
         },
         {
           "rank": 11,
           "title": "“我在成华大道「拼接遗憾」”",
           "url": "https://www.bilibili.com/video/BV1wE7m67EAF",
-          "hot": 682622,
+          "hot": 682726,
           "tag": "人力VOCALOID"
         },
         {
           "rank": 12,
           "title": "孤岛小夫 第二集",
           "url": "https://www.bilibili.com/video/BV1wPEs6pEMm",
-          "hot": 507399,
+          "hot": 509137,
           "tag": "同人·手书"
         },
         {
           "rank": 13,
           "title": "《鸣潮》× 《赛博朋克：边缘行者》 联动PV | 暗巷怪谈",
           "url": "https://www.bilibili.com/video/BV1g8Es6vEKZ",
-          "hot": 2308613,
+          "hot": 2308881,
           "tag": "手机游戏"
         },
         {
           "rank": 14,
           "title": "【微电影】人类文明的最后一届高考",
           "url": "https://www.bilibili.com/video/BV1WY7U6dEJ5",
-          "hot": 2151491,
+          "hot": 2151590,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 15,
           "title": "我给爱车打造了一套废土战甲",
           "url": "https://www.bilibili.com/video/BV19v7S65ESU",
-          "hot": 739870,
+          "hot": 741108,
           "tag": "手工"
         },
         {
           "rank": 16,
           "title": "Re：佩恩从零开始的异世界生活！！！【水门篇】",
           "url": "https://www.bilibili.com/video/BV1LR7D6JEV7",
-          "hot": 1065746,
+          "hot": 1066079,
           "tag": "综合"
         },
         {
           "rank": 17,
           "title": "那年你写下了什么？复盘1977—2025年高考作文题【大国之治·高考作文题】",
           "url": "https://www.bilibili.com/video/BV1s47y65E4g",
-          "hot": 1141290,
+          "hot": 1141697,
           "tag": "财经商业"
         },
         {
           "rank": 18,
           "title": "菲比：就你们寝室最吵！！",
           "url": "https://www.bilibili.com/video/BV1xR7S6hEkB",
-          "hot": 1073198,
+          "hot": 1073571,
           "tag": "音乐综合"
         },
         {
           "rank": 19,
           "title": "大哥豪刷10个爱神之箭！头开8个苹果全程揪心，接连翻车差点心态崩盘！",
           "url": "https://www.bilibili.com/video/BV13c7S6qE5a",
-          "hot": 1382275,
+          "hot": 1382667,
           "tag": "舞蹈综合"
         },
         {
           "rank": 20,
           "title": "那天真有其他人在场，但我没法证明。",
           "url": "https://www.bilibili.com/video/BV1YVEn6fEmZ",
-          "hot": 1598593,
+          "hot": 1599565,
           "tag": "人文历史"
         },
         {
           "rank": 21,
           "title": "这期谁能绷住",
           "url": "https://www.bilibili.com/video/BV1pW7Q68Emz",
-          "hot": 1478537,
+          "hot": 1480039,
           "tag": "搞笑"
         },
         {
           "rank": 22,
           "title": "“从来就没有什么意外 ”",
           "url": "https://www.bilibili.com/video/BV1Vz766DE6S",
-          "hot": 873838,
+          "hot": 874086,
           "tag": "GMV"
         },
         {
           "rank": 23,
           "title": "千里奔赴只为弥补40年前的遗憾",
           "url": "https://www.bilibili.com/video/BV1dY7Q6pEQZ",
-          "hot": 1058511,
+          "hot": 1058619,
           "tag": "出行"
         },
         {
           "rank": 24,
           "title": "2高中生屠杀同学，造成13人死亡后自杀，开启美国校园枪击案先河：科伦拜恩枪击案",
           "url": "https://www.bilibili.com/video/BV1yk7X6KEz4",
-          "hot": 2255842,
+          "hot": 2256374,
           "tag": "人文历史"
         },
         {
           "rank": 25,
           "title": "LV6有啥用?一个视频看懂LV6所有特权功能",
           "url": "https://www.bilibili.com/video/BV1bd7k62Epb",
-          "hot": 524473,
+          "hot": 524956,
           "tag": "搞笑"
         },
         {
           "rank": 26,
           "title": "邪恶的快乐，是一剂自愈的良药",
           "url": "https://www.bilibili.com/video/BV1QEEn6xEHK",
-          "hot": 1019879,
+          "hot": 1020366,
           "tag": "网络游戏"
         },
         {
           "rank": 27,
           "title": "2025年出货量370万台！激光雷达真成“安全气囊”了？",
           "url": "https://www.bilibili.com/video/BV1vEEP6HEFw",
-          "hot": 2159967,
+          "hot": 2160645,
           "tag": "新能源车"
         },
         {
           "rank": 28,
           "title": "可爱的安魂曲~",
           "url": "https://www.bilibili.com/video/BV17z7y6KEVT",
-          "hot": 1455436,
+          "hot": 1455675,
           "tag": "手工"
         },
         {
           "rank": 29,
           "title": "当父母说出了正确答案：",
           "url": "https://www.bilibili.com/video/BV16kV26TES7",
-          "hot": 6336247,
+          "hot": 6336707,
           "tag": "搞笑"
         },
         {
           "rank": 30,
           "title": "扫落叶全清洁100%速通39分03秒leaf it alone",
           "url": "https://www.bilibili.com/video/BV1ZREP6dEcU",
-          "hot": 1576877,
+          "hot": 1577059,
           "tag": "单机游戏"
         }
       ],
-      "updated": "2026-06-08T07:00:17.560431+08:00"
+      "updated": "2026-06-08T07:02:37.265293+08:00"
     },
     {
       "name": "IT之家",
@@ -1295,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-06-08T07:00:26.986407+08:00"
+      "updated": "2026-06-08T07:02:41.034440+08:00"
     }
   ]
 }
