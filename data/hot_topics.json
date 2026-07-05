@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-05 23:00:23",
+  "update_time": "2026-07-05 23:01:29",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,6 +26,13 @@
           "tag": ""
         },
         {
+          "rank": 2,
+          "title": "淘宝闪购健康卡1对1急送",
+          "url": "https://s.weibo.com/weibo?q=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E5%81%A5%E5%BA%B7%E5%8D%A11%E5%AF%B91%E6%80%A5%E9%80%81",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 3,
           "title": "张新成演唱会翻唱率",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BF%BB%E5%94%B1%E7%8E%87",
@@ -43,13 +50,6 @@
           "rank": 5,
           "title": "巴拉圭第99分钟了还在扒拉",
           "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%AC%AC99%E5%88%86%E9%92%9F%E4%BA%86%E8%BF%98%E5%9C%A8%E6%89%92%E6%8B%89",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "熬夜精力续航计划",
-          "url": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%B2%BE%E5%8A%9B%E7%BB%AD%E8%88%AA%E8%AE%A1%E5%88%92",
           "hot": 0,
           "tag": ""
         },
@@ -146,8 +146,8 @@
         },
         {
           "rank": 19,
-          "title": "智能体下线与责任之争",
-          "url": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%E4%B8%8E%E8%B4%A3%E4%BB%BB%E4%B9%8B%E4%BA%89",
+          "title": "微信读书 赛博赎罪",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%20%E8%B5%9B%E5%8D%9A%E8%B5%8E%E7%BD%AA",
           "hot": 0,
           "tag": ""
         },
@@ -167,8 +167,8 @@
         },
         {
           "rank": 22,
-          "title": "田曦薇黄明昊向王安宇道歉",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E9%BB%84%E6%98%8E%E6%98%8A%E5%90%91%E7%8E%8B%E5%AE%89%E5%AE%87%E9%81%93%E6%AD%89",
+          "title": "王橹杰第五名",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%AC%AC%E4%BA%94%E5%90%8D",
           "hot": 0,
           "tag": ""
         },
@@ -188,34 +188,34 @@
         },
         {
           "rank": 25,
-          "title": "王橹杰第五名",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E7%AC%AC%E4%BA%94%E5%90%8D",
+          "title": "智能体下线与责任之争",
+          "url": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%E4%B8%8E%E8%B4%A3%E4%BB%BB%E4%B9%8B%E4%BA%89",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 26,
+          "title": "田曦薇黄明昊向王安宇道歉",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E9%BB%84%E6%98%8E%E6%98%8A%E5%90%91%E7%8E%8B%E5%AE%89%E5%AE%87%E9%81%93%E6%AD%89",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
           "title": "丁程鑫好六镜头被剪",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%A5%BD%E5%85%AD%E9%95%9C%E5%A4%B4%E8%A2%AB%E5%89%AA",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 27,
+          "rank": 28,
           "title": "卫生巾应该分坐用跟躺用",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%BA%94%E8%AF%A5%E5%88%86%E5%9D%90%E7%94%A8%E8%B7%9F%E8%BA%BA%E7%94%A8",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "台风",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-07-05T23:00:12.318427+08:00"
+      "updated": "2026-07-05T23:01:19.098934+08:00"
     },
     {
       "name": "知乎热榜",
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-05T23:00:13.752754+08:00"
+      "updated": "2026-07-05T23:01:21.016388+08:00"
     },
     {
       "name": "百度热搜",
@@ -647,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-05T23:00:16.525609+08:00"
+      "updated": "2026-07-05T23:01:23.348519+08:00"
     },
     {
       "name": "抖音热点",
@@ -863,7 +863,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-05T23:00:18.222665+08:00"
+      "updated": "2026-07-05T23:01:25.609253+08:00"
     },
     {
       "name": "B站热门",
@@ -872,214 +872,214 @@
           "rank": 1,
           "title": "4月新番，这次我一定要拯救你啊啊啊！【泛式】",
           "url": "https://www.bilibili.com/video/BV1kmT16pEhL",
-          "hot": 263482,
+          "hot": 265440,
           "tag": "动漫杂谈"
         },
         {
           "rank": 2,
           "title": "阿伟创业记",
           "url": "https://www.bilibili.com/video/BV1pvMF6ZEYG",
-          "hot": 1695582,
+          "hot": 1698015,
           "tag": "影视剪辑"
         },
         {
           "rank": 3,
           "title": "麻醉：如何让你安全地进行一次时空穿梭？",
           "url": "https://www.bilibili.com/video/BV14oMT6dEyF",
-          "hot": 1054158,
+          "hot": 1057659,
           "tag": "科学科普"
         },
         {
           "rank": 4,
           "title": "【独家】牧神记 第90集 请道剑，斩真龙",
           "url": "https://www.bilibili.com/video/BV19oMw6nEgw",
-          "hot": 1918002,
+          "hot": 1919716,
           "tag": "国产动画"
         },
         {
           "rank": 5,
           "title": "【TF家族练习生】《突围II破局》EP02：这一刻，重新开始（下）",
           "url": "https://www.bilibili.com/video/BV1U7Mu6cEpy",
-          "hot": 820176,
+          "hot": 822168,
           "tag": "明星综合"
         },
         {
           "rank": 6,
           "title": "一滩水，为什么能让顶级显卡算不过来？",
           "url": "https://www.bilibili.com/video/BV1NoTk6SERz",
-          "hot": 438211,
+          "hot": 441008,
           "tag": "科学科普"
         },
         {
           "rank": 7,
           "title": "我的世界苦力怕追逐战之(力怕核电站)",
           "url": "https://www.bilibili.com/video/BV1vcTW6LEqY",
-          "hot": 598555,
+          "hot": 599951,
           "tag": "单机游戏"
         },
         {
           "rank": 8,
           "title": "我相信顽强的毅力可以征服世界上任何一座高峰#努力奋斗  #上热门挑战 #黄金蛋炒饭",
           "url": "https://www.bilibili.com/video/BV1sST46uEW1",
-          "hot": 312332,
+          "hot": 313286,
           "tag": "美食侦探"
         },
         {
           "rank": 9,
           "title": "我用旧报纸做了个门帘怎么样兄弟们",
           "url": "https://www.bilibili.com/video/BV1AeMF68EBg",
-          "hot": 3365077,
+          "hot": 3366205,
           "tag": "三农"
         },
         {
           "rank": 10,
           "title": "什么时候买内存？我找到了答案",
           "url": "https://www.bilibili.com/video/BV1W9T46iE8b",
-          "hot": 1076325,
+          "hot": 1076684,
           "tag": "科学科普"
         },
         {
           "rank": 11,
           "title": "【独家】《百日成王》第2集 原来学不会魔法竟因为是文盲【7月国创】",
           "url": "https://www.bilibili.com/video/BV1zTKZ6LEJv",
-          "hot": 413775,
+          "hot": 413882,
           "tag": "国产动画"
         },
         {
           "rank": 12,
           "title": "最后的守桥人",
           "url": "https://www.bilibili.com/video/BV1ghMK6REtX",
-          "hot": 1038751,
+          "hot": 1041723,
           "tag": "网络游戏"
         },
         {
           "rank": 13,
           "title": "沉浸式体验古井清理全过程",
           "url": "https://www.bilibili.com/video/BV1K1Tf6AEhN",
-          "hot": 1474231,
+          "hot": 1474903,
           "tag": "三农"
         },
         {
           "rank": 14,
           "title": "4扑梅西，2过劳塔罗，外国网友是怎么看佛得角vs阿根廷的，沃齐尼亚涨粉2000万",
           "url": "https://www.bilibili.com/video/BV1HBMF6dEcN",
-          "hot": 2646898,
+          "hot": 2648801,
           "tag": "搞笑"
         },
         {
           "rank": 15,
           "title": "【全网首杀】涤墨作战920分登顶 躲在合约顶层控制的两人",
           "url": "https://www.bilibili.com/video/BV1kUT16QErP",
-          "hot": 197967,
+          "hot": 199406,
           "tag": "手机游戏"
         },
         {
           "rank": 16,
           "title": "POV：江浙沪独生女想找黄毛男友的过来感受1.0",
           "url": "https://www.bilibili.com/video/BV1AqMw6NEge",
-          "hot": 1314349,
+          "hot": 1316337,
           "tag": "短片"
         },
         {
           "rank": 17,
           "title": "耗时上百小时！把经典漫画《父与子》手绘做成动画！",
           "url": "https://www.bilibili.com/video/BV15GTt6WETa",
-          "hot": 2522118,
+          "hot": 2522823,
           "tag": "同人·手书"
         },
         {
           "rank": 18,
           "title": "带着100万，我们见到了女巫…",
           "url": "https://www.bilibili.com/video/BV1WsTy6JEE8",
-          "hot": 433587,
+          "hot": 434742,
           "tag": "数码"
         },
         {
           "rank": 19,
           "title": "快来瞅瞅兄弟聚会都吃啥！",
           "url": "https://www.bilibili.com/video/BV1qTTt6oE6J",
-          "hot": 2805411,
+          "hot": 2805540,
           "tag": "美食记录"
         },
         {
           "rank": 20,
           "title": "【真实锐评】TSW 3比1战胜TES 开除！ 把TES开除LPL赛区，内战重拳出击，外站创造历史！",
           "url": "https://www.bilibili.com/video/BV1uhTC64EPT",
-          "hot": 604090,
+          "hot": 605790,
           "tag": "电子竞技"
         },
         {
           "rank": 21,
           "title": "哈哈哈哈哈水弹挑战",
           "url": "https://www.bilibili.com/video/BV1pdMc6AEA9",
-          "hot": 3275652,
+          "hot": 3277439,
           "tag": "搞笑"
         },
         {
           "rank": 22,
           "title": "本片放弃所有版权！",
           "url": "https://www.bilibili.com/video/BV1YgT26qETR",
-          "hot": 129846,
+          "hot": 130528,
           "tag": "三农"
         },
         {
           "rank": 23,
           "title": "一口气看完《末日山宿》4K 超清完整版，爆肝千小时耗资上万！",
           "url": "https://www.bilibili.com/video/BV1mwMc6uEdX",
-          "hot": 463966,
+          "hot": 464865,
           "tag": "影视剪辑"
         },
         {
           "rank": 24,
           "title": "中年职场女王：广东人诱捕器",
           "url": "https://www.bilibili.com/video/BV1qpT46oEmK",
-          "hot": 2164632,
+          "hot": 2165591,
           "tag": "搞笑"
         },
         {
           "rank": 25,
           "title": "【原神一条龙全收集】挪德卡莱月之八(成就数224/月神瞳79/摩拉68)杜南纳深坑+霜月/宝箱/摩拉堆/玉帛/月之印/探索度/原神6.7一条龙",
           "url": "https://www.bilibili.com/video/BV1uMTY6aEZv",
-          "hot": 5227761,
+          "hot": 5228834,
           "tag": "手机游戏"
         },
         {
           "rank": 26,
           "title": "锐评TSW战胜TES：我们又创造了新的历史！TES淘汰！",
           "url": "https://www.bilibili.com/video/BV1eATy6eEow",
-          "hot": 614969,
+          "hot": 616130,
           "tag": "电子竞技"
         },
         {
           "rank": 27,
           "title": "失踪八年的女儿，到底去哪了？",
           "url": "https://www.bilibili.com/video/BV18dMu6NE6R",
-          "hot": 508059,
+          "hot": 509266,
           "tag": "日常"
         },
         {
           "rank": 28,
           "title": "好生气啊！！太没有品味了！！怎么会有人喜欢xxx啊！！",
           "url": "https://www.bilibili.com/video/BV1ku7a6MEJC",
-          "hot": 4000967,
+          "hot": 4001832,
           "tag": "短片"
         },
         {
           "rank": 29,
           "title": "【TF家族练习生】《突围II破局》EP02：这一刻，重新开始（上）",
           "url": "https://www.bilibili.com/video/BV1KgMA6kEa7",
-          "hot": 2144294,
+          "hot": 2145097,
           "tag": "明星综合"
         },
         {
           "rank": 30,
           "title": "TES单曲《半岛陀螺》",
           "url": "https://www.bilibili.com/video/BV11NTf6bEV7",
-          "hot": 1447554,
+          "hot": 1448975,
           "tag": "音乐综合"
         }
       ],
-      "updated": "2026-07-05T23:00:18.764033+08:00"
+      "updated": "2026-07-05T23:01:26.210165+08:00"
     },
     {
       "name": "IT之家",
@@ -1295,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-05T23:00:23.861170+08:00"
+      "updated": "2026-07-05T23:01:29.382284+08:00"
     }
   ]
 }
