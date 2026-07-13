@@ -1,20 +1,20 @@
 {
-  "update_time": "2026-07-13 07:44:15",
+  "update_time": "2026-07-13 08:00:49",
   "sources": [
     {
       "name": "微博热搜",
       "items": [
         {
           "rank": 0,
-          "title": "中华人民共和国外交部郑重声明",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E",
+          "title": "宜宾地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 1,
-          "title": "灿如繁星热度未破8000",
-          "url": "https://s.weibo.com/weibo?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%83%AD%E5%BA%A6%E6%9C%AA%E7%A0%B48000",
+          "title": "中华人民共和国外交部郑重声明",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E",
           "hot": 0,
           "tag": ""
         },
@@ -55,22 +55,22 @@
         },
         {
           "rank": 7,
-          "title": "宜宾地震",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87",
+          "title": "灿如繁星热度未破8000",
+          "url": "https://s.weibo.com/weibo?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%83%AD%E5%BA%A6%E6%9C%AA%E7%A0%B48000",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 8,
-          "title": "火鸡面被台风孤立了",
-          "url": "https://s.weibo.com/weibo?q=%E7%81%AB%E9%B8%A1%E9%9D%A2%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%AD%A4%E7%AB%8B%E4%BA%86",
+          "title": "巴威发威青岛巨浪滔天",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E5%8F%91%E5%A8%81%E9%9D%92%E5%B2%9B%E5%B7%A8%E6%B5%AA%E6%BB%94%E5%A4%A9",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 9,
-          "title": "Bin",
-          "url": "https://s.weibo.com/weibo?q=Bin",
+          "title": "樊振东将解说世界杯决赛",
+          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
           "hot": 0,
           "tag": ""
         },
@@ -83,50 +83,50 @@
         },
         {
           "rank": 11,
+          "title": "下届世界杯居然有六个主办国",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8B%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B1%85%E7%84%B6%E6%9C%89%E5%85%AD%E4%B8%AA%E4%B8%BB%E5%8A%9E%E5%9B%BD",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 12,
           "title": "范志毅批哈兰德表现糟糕",
           "url": "https://s.weibo.com/weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E6%89%B9%E5%93%88%E5%85%B0%E5%BE%B7%E8%A1%A8%E7%8E%B0%E7%B3%9F%E7%B3%95",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 12,
+          "rank": 13,
+          "title": "火鸡面被台风孤立了",
+          "url": "https://s.weibo.com/weibo?q=%E7%81%AB%E9%B8%A1%E9%9D%A2%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%AD%A4%E7%AB%8B%E4%BA%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "title": "世界杯史上最强半决赛",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%8D%8A%E5%86%B3%E8%B5%9B",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 15,
           "title": "功夫女足票房破5亿",
           "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%A0%B45%E4%BA%BF",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 13,
-          "title": "高中生拍门玩闹何以酿成命案",
-          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E4%BD%95%E4%BB%A5%E9%85%BF%E6%88%90%E5%91%BD%E6%A1%88",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 14,
-          "title": "樊振东将解说世界杯决赛",
-          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 15,
-          "title": "辛纳卫冕温网男单冠军",
-          "url": "https://s.weibo.com/weibo?q=%E8%BE%9B%E7%BA%B3%E5%8D%AB%E5%86%95%E6%B8%A9%E7%BD%91%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B",
-          "hot": 0,
-          "tag": ""
-        },
-        {
           "rank": 16,
-          "title": "沈阳将在全市实行紧急避险措施",
-          "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E5%B0%86%E5%9C%A8%E5%85%A8%E5%B8%82%E5%AE%9E%E8%A1%8C%E7%B4%A7%E6%80%A5%E9%81%BF%E9%99%A9%E6%8E%AA%E6%96%BD",
+          "title": "Bin",
+          "url": "https://s.weibo.com/weibo?q=Bin",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 17,
-          "title": "巴威发威青岛巨浪滔天",
-          "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E5%8F%91%E5%A8%81%E9%9D%92%E5%B2%9B%E5%B7%A8%E6%B5%AA%E6%BB%94%E5%A4%A9",
+          "title": "高中生拍门玩闹何以酿成命案",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E4%BD%95%E4%BB%A5%E9%85%BF%E6%88%90%E5%91%BD%E6%A1%88",
           "hot": 0,
           "tag": ""
         },
@@ -146,76 +146,76 @@
         },
         {
           "rank": 20,
-          "title": "功夫女足票房",
-          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 21,
-          "title": "长期不换社交头像的人",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E6%8D%A2%E7%A4%BE%E4%BA%A4%E5%A4%B4%E5%83%8F%E7%9A%84%E4%BA%BA",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 22,
-          "title": "有没有体面一点的午休方式",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E5%8D%88%E4%BC%91%E6%96%B9%E5%BC%8F",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
           "title": "沈阳暴雨",
           "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E6%9A%B4%E9%9B%A8",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 21,
+          "title": "哈兰德女友晒挪威礼服",
+          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A5%B3%E5%8F%8B%E6%99%92%E6%8C%AA%E5%A8%81%E7%A4%BC%E6%9C%8D",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 22,
+          "title": "恨不得贝林厄姆是自己儿子",
+          "url": "https://s.weibo.com/weibo?q=%E6%81%A8%E4%B8%8D%E5%BE%97%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 23,
+          "title": "功夫女足票房",
+          "url": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 24,
-          "title": "外交部就日方恶劣言行提出严正交涉",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%97%A5%E6%96%B9%E6%81%B6%E5%8A%A3%E8%A8%80%E8%A1%8C%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+          "title": "有没有体面一点的午休方式",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E5%8D%88%E4%BC%91%E6%96%B9%E5%BC%8F",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 25,
-          "title": "丁程鑫最不吃王俊凯压力之人",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E6%9C%80%E4%B8%8D%E5%90%83%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8E%8B%E5%8A%9B%E4%B9%8B%E4%BA%BA",
+          "title": "施暴者咬掉见义勇为者鼻子吞入肚中",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%BD%E6%9A%B4%E8%80%85%E5%92%AC%E6%8E%89%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E8%80%85%E9%BC%BB%E5%AD%90%E5%90%9E%E5%85%A5%E8%82%9A%E4%B8%AD",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 26,
-          "title": "赛力斯预计半年净亏损15至18亿元",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E9%A2%84%E8%AE%A1%E5%8D%8A%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F15%E8%87%B318%E4%BA%BF%E5%85%83",
+          "title": "鹿晗范志毅直播",
+          "url": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%8C%83%E5%BF%97%E6%AF%85%E7%9B%B4%E6%92%AD",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 27,
-          "title": "世界杯史上最强半决赛",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E5%8D%8A%E5%86%B3%E8%B5%9B",
+          "title": "沈阳将在全市实行紧急避险措施",
+          "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E5%B0%86%E5%9C%A8%E5%85%A8%E5%B8%82%E5%AE%9E%E8%A1%8C%E7%B4%A7%E6%80%A5%E9%81%BF%E9%99%A9%E6%8E%AA%E6%96%BD",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 28,
-          "title": "哈兰德快哭了",
-          "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%BF%AB%E5%93%AD%E4%BA%86",
+          "title": "43岁王心凌和小蛮腰比腰",
+          "url": "https://s.weibo.com/weibo?q=43%E5%B2%81%E7%8E%8B%E5%BF%83%E5%87%8C%E5%92%8C%E5%B0%8F%E8%9B%AE%E8%85%B0%E6%AF%94%E8%85%B0",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 29,
-          "title": "张真源积极上课记录",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E7%A7%AF%E6%9E%81%E4%B8%8A%E8%AF%BE%E8%AE%B0%E5%BD%95",
+          "title": "赛力斯预计半年净亏损15至18亿元",
+          "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E9%A2%84%E8%AE%A1%E5%8D%8A%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F15%E8%87%B318%E4%BA%BF%E5%85%83",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-07-13T07:44:07.277033+08:00"
+      "updated": "2026-07-13T08:00:10.217852+08:00"
     },
     {
       "name": "知乎热榜",
@@ -243,8 +243,8 @@
         },
         {
           "rank": 4,
-          "title": "如何评价 Bin 在 2026 季中赛决赛除绝活武器外的糟糕表现？",
-          "url": "https://www.zhihu.com/question/2059724574866895892",
+          "title": "如何看待2026MSI总决赛BLG2:3不敌HLE？",
+          "url": "https://www.zhihu.com/question/2059723166767900155",
           "hot": 0,
           "tag": ""
         },
@@ -369,22 +369,22 @@
         },
         {
           "rank": 22,
-          "title": "你如何看待每天在通勤的地铁上读书的那群人？",
-          "url": "https://www.zhihu.com/question/2057863050372151176",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
           "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
           "url": "https://www.zhihu.com/question/2057515225566242609",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 24,
+          "rank": 23,
           "title": "为什么现在分享个人经历，很多人会用「创伤」来定义自己的感受？「创伤叙事」是不是被滥用了？",
           "url": "https://www.zhihu.com/question/2057492254889964985",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 24,
+          "title": "《水浒传》戴宗的能力平平，是不是被高估了？",
+          "url": "https://www.zhihu.com/question/2057377369963468673",
           "hot": 0,
           "tag": ""
         },
@@ -404,8 +404,8 @@
         },
         {
           "rank": 27,
-          "title": "量子力学中为何那么关注本征值和本征函数？",
-          "url": "https://www.zhihu.com/question/3223916122",
+          "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
+          "url": "https://www.zhihu.com/question/1941257398313551370",
           "hot": 0,
           "tag": ""
         },
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-13T07:44:08.083958+08:00"
+      "updated": "2026-07-13T08:00:11.485638+08:00"
     },
     {
       "name": "百度热搜",
@@ -445,15 +445,15 @@
         },
         {
           "rank": 2,
-          "title": "巴威接下来携暴雨大暴雨去哪儿",
-          "url": "https://www.baidu.com/s?wd=巴威接下来携暴雨大暴雨去哪儿",
+          "title": "大桥被淹没 巴威外围已开始影响东北",
+          "url": "https://www.baidu.com/s?wd=大桥被淹没 巴威外围已开始影响东北",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 3,
-          "title": "台风把瀑布吹到倒流",
-          "url": "https://www.baidu.com/s?wd=台风把瀑布吹到倒流",
+          "title": "中华人民共和国外交部郑重声明",
+          "url": "https://www.baidu.com/s?wd=中华人民共和国外交部郑重声明",
           "hot": 0,
           "tag": ""
         },
@@ -466,8 +466,8 @@
         },
         {
           "rank": 5,
-          "title": "外交部就日方恶劣言行提出严正交涉",
-          "url": "https://www.baidu.com/s?wd=外交部就日方恶劣言行提出严正交涉",
+          "title": "沈阳将在全市实行紧急避险措施",
+          "url": "https://www.baidu.com/s?wd=沈阳将在全市实行紧急避险措施",
           "hot": 0,
           "tag": ""
         },
@@ -487,29 +487,29 @@
         },
         {
           "rank": 8,
-          "title": "中华人民共和国外交部郑重声明",
-          "url": "https://www.baidu.com/s?wd=中华人民共和国外交部郑重声明",
+          "title": "没传球给哈兰德 挪威球员被骂7万条",
+          "url": "https://www.baidu.com/s?wd=没传球给哈兰德 挪威球员被骂7万条",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 9,
-          "title": "中央考核巡查组：您懂得怎么操作吗",
-          "url": "https://www.baidu.com/s?wd=中央考核巡查组：您懂得怎么操作吗",
+          "title": "辽宁严肃追责问责24名公职人员",
+          "url": "https://www.baidu.com/s?wd=辽宁严肃追责问责24名公职人员",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 10,
-          "title": "沈阳将在全市实行紧急避险措施",
-          "url": "https://www.baidu.com/s?wd=沈阳将在全市实行紧急避险措施",
+          "title": "青岛沿海掀巨浪 海水涌上岸淹没道路",
+          "url": "https://www.baidu.com/s?wd=青岛沿海掀巨浪 海水涌上岸淹没道路",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 11,
-          "title": "辽宁严肃追责问责24名公职人员",
-          "url": "https://www.baidu.com/s?wd=辽宁严肃追责问责24名公职人员",
+          "title": "四川宜宾高县发生3.8级地震",
+          "url": "https://www.baidu.com/s?wd=四川宜宾高县发生3.8级地震",
           "hot": 0,
           "tag": ""
         },
@@ -522,8 +522,8 @@
         },
         {
           "rank": 13,
-          "title": "新能源车平均车龄仅1.8年",
-          "url": "https://www.baidu.com/s?wd=新能源车平均车龄仅1.8年",
+          "title": "冉莹颖：把北京贵阳美国的房子都卖了",
+          "url": "https://www.baidu.com/s?wd=冉莹颖：把北京贵阳美国的房子都卖了",
           "hot": 0,
           "tag": ""
         },
@@ -536,15 +536,15 @@
         },
         {
           "rank": 15,
-          "title": "冉莹颖：把北京贵阳美国的房子都卖了",
-          "url": "https://www.baidu.com/s?wd=冉莹颖：把北京贵阳美国的房子都卖了",
+          "title": "新能源车平均车龄仅1.8年",
+          "url": "https://www.baidu.com/s?wd=新能源车平均车龄仅1.8年",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 16,
-          "title": "没传球给哈兰德 挪威球员被骂7万条",
-          "url": "https://www.baidu.com/s?wd=没传球给哈兰德 挪威球员被骂7万条",
+          "title": "《功夫女足》票房破5亿 预测直冲20亿",
+          "url": "https://www.baidu.com/s?wd=《功夫女足》票房破5亿 预测直冲20亿",
           "hot": 0,
           "tag": ""
         },
@@ -557,15 +557,15 @@
         },
         {
           "rank": 18,
-          "title": "青岛沿海掀巨浪 海水涌上岸淹没道路",
-          "url": "https://www.baidu.com/s?wd=青岛沿海掀巨浪 海水涌上岸淹没道路",
+          "title": "外交部就日方恶劣言行提出严正交涉",
+          "url": "https://www.baidu.com/s?wd=外交部就日方恶劣言行提出严正交涉",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 19,
-          "title": "“哈哈”高铁出发了",
-          "url": "https://www.baidu.com/s?wd=“哈哈”高铁出发了",
+          "title": "中央考核巡查组：您懂得怎么操作吗",
+          "url": "https://www.baidu.com/s?wd=中央考核巡查组：您懂得怎么操作吗",
           "hot": 0,
           "tag": ""
         },
@@ -578,29 +578,29 @@
         },
         {
           "rank": 21,
-          "title": "台风巴威风力持续减小 最新预测",
-          "url": "https://www.baidu.com/s?wd=台风巴威风力持续减小 最新预测",
+          "title": "“哈哈”高铁出发了",
+          "url": "https://www.baidu.com/s?wd=“哈哈”高铁出发了",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 22,
-          "title": "《功夫女足》票房破5亿 预测直冲20亿",
-          "url": "https://www.baidu.com/s?wd=《功夫女足》票房破5亿 预测直冲20亿",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
           "title": "50岁男子洗牙洗出活虫",
           "url": "https://www.baidu.com/s?wd=50岁男子洗牙洗出活虫",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 24,
+          "rank": 23,
           "title": "女子被误认怀孕后取出50颗子宫肌瘤",
           "url": "https://www.baidu.com/s?wd=女子被误认怀孕后取出50颗子宫肌瘤",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 24,
+          "title": "台风巴威风力持续减小 最新预测",
+          "url": "https://www.baidu.com/s?wd=台风巴威风力持续减小 最新预测",
           "hot": 0,
           "tag": ""
         },
@@ -620,34 +620,34 @@
         },
         {
           "rank": 27,
+          "title": "《功夫女足》票仓排行",
+          "url": "https://www.baidu.com/s?wd=《功夫女足》票仓排行",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 28,
           "title": "山东也要迎战台风了",
           "url": "https://www.baidu.com/s?wd=山东也要迎战台风了",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 28,
+          "rank": 29,
           "title": "刘建宏重提飞猫悬案",
           "url": "https://www.baidu.com/s?wd=刘建宏重提飞猫悬案",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 29,
+          "rank": 30,
           "title": "伊朗导弹打击中东美军目标 画面公布",
           "url": "https://www.baidu.com/s?wd=伊朗导弹打击中东美军目标 画面公布",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 30,
-          "title": "央视曝光家电直播测评骗局",
-          "url": "https://www.baidu.com/s?wd=央视曝光家电直播测评骗局",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-07-13T07:44:10.116678+08:00"
+      "updated": "2026-07-13T08:00:14.101864+08:00"
     },
     {
       "name": "抖音热点",
@@ -656,214 +656,214 @@
           "rank": 1,
           "title": "贵州火把节已经准备就绪了",
           "url": "https://www.douyin.com/search/%E8%B4%B5%E5%B7%9E%E7%81%AB%E6%8A%8A%E8%8A%82%E5%B7%B2%E7%BB%8F%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA%E4%BA%86",
-          "hot": 12096731,
+          "hot": 12074492,
           "tag": ""
         },
         {
           "rank": 2,
           "title": "火烧云落进千里江山图美到窒息",
           "url": "https://www.douyin.com/search/%E7%81%AB%E7%83%A7%E4%BA%91%E8%90%BD%E8%BF%9B%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E7%BE%8E%E5%88%B0%E7%AA%92%E6%81%AF",
-          "hot": 12033594,
+          "hot": 12038005,
           "tag": ""
         },
         {
           "rank": 3,
           "title": "一组数据看中国经济稳中向优",
           "url": "https://www.douyin.com/search/%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A8%B3%E4%B8%AD%E5%90%91%E4%BC%98",
-          "hot": 11943047,
+          "hot": 11915076,
           "tag": ""
         },
         {
           "rank": 4,
           "title": "用旧凉席打造岳武穆战甲",
           "url": "https://www.douyin.com/search/%E7%94%A8%E6%97%A7%E5%87%89%E5%B8%AD%E6%89%93%E9%80%A0%E5%B2%B3%E6%AD%A6%E7%A9%86%E6%88%98%E7%94%B2",
-          "hot": 11693035,
+          "hot": 11821626,
           "tag": ""
         },
         {
           "rank": 5,
           "title": "酱油洗洁精拉花练习",
           "url": "https://www.douyin.com/search/%E9%85%B1%E6%B2%B9%E6%B4%97%E6%B4%81%E7%B2%BE%E6%8B%89%E8%8A%B1%E7%BB%83%E4%B9%A0",
-          "hot": 10918421,
+          "hot": 10894376,
           "tag": ""
         },
         {
           "rank": 6,
-          "title": "沈阳发布停课通知",
-          "url": "https://www.douyin.com/search/%E6%B2%88%E9%98%B3%E5%8F%91%E5%B8%83%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5",
-          "hot": 10493567,
+          "title": "街霸得丹尼者得冠军",
+          "url": "https://www.douyin.com/search/%E8%A1%97%E9%9C%B8%E5%BE%97%E4%B8%B9%E5%B0%BC%E8%80%85%E5%BE%97%E5%86%A0%E5%86%9B",
+          "hot": 10655232,
           "tag": ""
         },
         {
           "rank": 7,
-          "title": "网友实拍台风登陆画面",
-          "url": "https://www.douyin.com/search/%E7%BD%91%E5%8F%8B%E5%AE%9E%E6%8B%8D%E5%8F%B0%E9%A3%8E%E7%99%BB%E9%99%86%E7%94%BB%E9%9D%A2",
-          "hot": 9323992,
+          "title": "沈阳发布停课通知",
+          "url": "https://www.douyin.com/search/%E6%B2%88%E9%98%B3%E5%8F%91%E5%B8%83%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5",
+          "hot": 9350563,
           "tag": ""
         },
         {
           "rank": 8,
           "title": "昆明版水上闯关太好玩了",
           "url": "https://www.douyin.com/search/%E6%98%86%E6%98%8E%E7%89%88%E6%B0%B4%E4%B8%8A%E9%97%AF%E5%85%B3%E5%A4%AA%E5%A5%BD%E7%8E%A9%E4%BA%86",
-          "hot": 9220664,
+          "hot": 9246232,
           "tag": ""
         },
         {
           "rank": 9,
-          "title": "王聪赛后叫阵子弹姐",
-          "url": "https://www.douyin.com/search/%E7%8E%8B%E8%81%AA%E8%B5%9B%E5%90%8E%E5%8F%AB%E9%98%B5%E5%AD%90%E5%BC%B9%E5%A7%90",
-          "hot": 8848676,
+          "title": "黄健翔刘建宏告别哈兰德",
+          "url": "https://www.douyin.com/search/%E9%BB%84%E5%81%A5%E7%BF%94%E5%88%98%E5%BB%BA%E5%AE%8F%E5%91%8A%E5%88%AB%E5%93%88%E5%85%B0%E5%BE%B7",
+          "hot": 9215245,
           "tag": ""
         },
         {
           "rank": 10,
           "title": "康纳回归失利输在哪",
           "url": "https://www.douyin.com/search/%E5%BA%B7%E7%BA%B3%E5%9B%9E%E5%BD%92%E5%A4%B1%E5%88%A9%E8%BE%93%E5%9C%A8%E5%93%AA",
-          "hot": 8740152,
+          "hot": 8822898,
           "tag": ""
         },
         {
           "rank": 11,
-          "title": "世界前四齐聚世界杯四强",
-          "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E5%89%8D%E5%9B%9B%E9%BD%90%E8%81%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA",
-          "hot": 8624128,
+          "title": "铁三角要来第五人格了",
+          "url": "https://www.douyin.com/search/%E9%93%81%E4%B8%89%E8%A7%92%E8%A6%81%E6%9D%A5%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%BA%86",
+          "hot": 8797429,
           "tag": ""
         },
         {
           "rank": 12,
           "title": "英阿大战要来了",
           "url": "https://www.douyin.com/search/%E8%8B%B1%E9%98%BF%E5%A4%A7%E6%88%98%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "hot": 7890929,
+          "hot": 7841184,
           "tag": ""
         },
         {
           "rank": 13,
           "title": "28人借巴威造谣被查处",
           "url": "https://www.douyin.com/search/28%E4%BA%BA%E5%80%9F%E5%B7%B4%E5%A8%81%E9%80%A0%E8%B0%A3%E8%A2%AB%E6%9F%A5%E5%A4%84",
-          "hot": 7828519,
+          "hot": 7826868,
           "tag": ""
         },
         {
           "rank": 14,
           "title": "90后的回忆全在这了",
           "url": "https://www.douyin.com/search/90%E5%90%8E%E7%9A%84%E5%9B%9E%E5%BF%86%E5%85%A8%E5%9C%A8%E8%BF%99%E4%BA%86",
-          "hot": 7805669,
+          "hot": 7801900,
           "tag": ""
         },
         {
           "rank": 15,
-          "title": "花式助力功夫女足",
-          "url": "https://www.douyin.com/search/%E8%8A%B1%E5%BC%8F%E5%8A%A9%E5%8A%9B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
-          "hot": 7795775,
+          "title": "LOL怀旧服7月30日上线",
+          "url": "https://www.douyin.com/search/LOL%E6%80%80%E6%97%A7%E6%9C%8D7%E6%9C%8830%E6%97%A5%E4%B8%8A%E7%BA%BF",
+          "hot": 7793943,
           "tag": ""
         },
         {
           "rank": 16,
-          "title": "黄健翔刘建宏告别哈兰德",
-          "url": "https://www.douyin.com/search/%E9%BB%84%E5%81%A5%E7%BF%94%E5%88%98%E5%BB%BA%E5%AE%8F%E5%91%8A%E5%88%AB%E5%93%88%E5%85%B0%E5%BE%B7",
-          "hot": 7790691,
+          "title": "花式助力功夫女足",
+          "url": "https://www.douyin.com/search/%E8%8A%B1%E5%BC%8F%E5%8A%A9%E5%8A%9B%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "hot": 7793535,
           "tag": ""
         },
         {
           "rank": 17,
-          "title": "吹吹山顶的风",
-          "url": "https://www.douyin.com/search/%E5%90%B9%E5%90%B9%E5%B1%B1%E9%A1%B6%E7%9A%84%E9%A3%8E",
-          "hot": 7786967,
+          "title": "我和我的洲搭子",
+          "url": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E6%B4%B2%E6%90%AD%E5%AD%90",
+          "hot": 7790017,
           "tag": ""
         },
         {
           "rank": 18,
-          "title": "LOL怀旧服7月30日上线",
-          "url": "https://www.douyin.com/search/LOL%E6%80%80%E6%97%A7%E6%9C%8D7%E6%9C%8830%E6%97%A5%E4%B8%8A%E7%BA%BF",
-          "hot": 7783594,
+          "title": "吹吹山顶的风",
+          "url": "https://www.douyin.com/search/%E5%90%B9%E5%90%B9%E5%B1%B1%E9%A1%B6%E7%9A%84%E9%A3%8E",
+          "hot": 7783395,
           "tag": ""
         },
         {
           "rank": 19,
-          "title": "我和我的洲搭子",
-          "url": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E6%B4%B2%E6%90%AD%E5%AD%90",
-          "hot": 7776994,
+          "title": "直击巴威实况",
+          "url": "https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E5%B7%B4%E5%A8%81%E5%AE%9E%E5%86%B5",
+          "hot": 7779777,
           "tag": ""
         },
         {
           "rank": 20,
           "title": "功夫女足长沙路演",
           "url": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%95%BF%E6%B2%99%E8%B7%AF%E6%BC%94",
-          "hot": 7771971,
+          "hot": 7778890,
           "tag": ""
         },
         {
           "rank": 21,
-          "title": "旧路上的晚风 吹不散心里的人",
-          "url": "https://www.douyin.com/search/%E6%97%A7%E8%B7%AF%E4%B8%8A%E7%9A%84%E6%99%9A%E9%A3%8E%20%E5%90%B9%E4%B8%8D%E6%95%A3%E5%BF%83%E9%87%8C%E7%9A%84%E4%BA%BA",
-          "hot": 7764620,
+          "title": "善良真的会代代相传",
+          "url": "https://www.douyin.com/search/%E5%96%84%E8%89%AF%E7%9C%9F%E7%9A%84%E4%BC%9A%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0",
+          "hot": 7772114,
           "tag": ""
         },
         {
           "rank": 22,
-          "title": "HLE击败BLG夺冠",
-          "url": "https://www.douyin.com/search/HLE%E5%87%BB%E8%B4%A5BLG%E5%A4%BA%E5%86%A0",
-          "hot": 7762529,
+          "title": "旧路上的晚风 吹不散心里的人",
+          "url": "https://www.douyin.com/search/%E6%97%A7%E8%B7%AF%E4%B8%8A%E7%9A%84%E6%99%9A%E9%A3%8E%20%E5%90%B9%E4%B8%8D%E6%95%A3%E5%BF%83%E9%87%8C%E7%9A%84%E4%BA%BA",
+          "hot": 7768686,
           "tag": ""
         },
         {
           "rank": 23,
-          "title": "善良真的会代代相传",
-          "url": "https://www.douyin.com/search/%E5%96%84%E8%89%AF%E7%9C%9F%E7%9A%84%E4%BC%9A%E4%BB%A3%E4%BB%A3%E7%9B%B8%E4%BC%A0",
-          "hot": 7761188,
+          "title": "HLE击败BLG夺冠",
+          "url": "https://www.douyin.com/search/HLE%E5%87%BB%E8%B4%A5BLG%E5%A4%BA%E5%86%A0",
+          "hot": 7767150,
           "tag": ""
         },
         {
           "rank": 24,
-          "title": "孙悦东北超现场表演夯爆了",
-          "url": "https://www.douyin.com/search/%E5%AD%99%E6%82%A6%E4%B8%9C%E5%8C%97%E8%B6%85%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E5%A4%AF%E7%88%86%E4%BA%86",
-          "hot": 7745479,
+          "title": "太原理工勇夺第28届CUBAL冠军",
+          "url": "https://www.douyin.com/search/%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%8B%87%E5%A4%BA%E7%AC%AC28%E5%B1%8ACUBAL%E5%86%A0%E5%86%9B",
+          "hot": 7756894,
           "tag": ""
         },
         {
           "rank": 25,
-          "title": "忍不住化身一条搁浅的美人鱼",
-          "url": "https://www.douyin.com/search/%E5%BF%8D%E4%B8%8D%E4%BD%8F%E5%8C%96%E8%BA%AB%E4%B8%80%E6%9D%A1%E6%90%81%E6%B5%85%E7%9A%84%E7%BE%8E%E4%BA%BA%E9%B1%BC",
-          "hot": 7744170,
+          "title": "功夫女足豆瓣开分6.6分",
+          "url": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%866.6%E5%88%86",
+          "hot": 7742717,
           "tag": ""
         },
         {
           "rank": 26,
-          "title": "一人一句和哈兰德说再见",
-          "url": "https://www.douyin.com/search/%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E5%92%8C%E5%93%88%E5%85%B0%E5%BE%B7%E8%AF%B4%E5%86%8D%E8%A7%81",
-          "hot": 7740581,
+          "title": "孙悦东北超现场表演夯爆了",
+          "url": "https://www.douyin.com/search/%E5%AD%99%E6%82%A6%E4%B8%9C%E5%8C%97%E8%B6%85%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E5%A4%AF%E7%88%86%E4%BA%86",
+          "hot": 7740836,
           "tag": ""
         },
         {
           "rank": 27,
-          "title": "沉浸式体验功夫女足幕后",
-          "url": "https://www.douyin.com/search/%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BD%93%E9%AA%8C%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%B9%95%E5%90%8E",
-          "hot": 7734803,
+          "title": "忍不住化身一条搁浅的美人鱼",
+          "url": "https://www.douyin.com/search/%E5%BF%8D%E4%B8%8D%E4%BD%8F%E5%8C%96%E8%BA%AB%E4%B8%80%E6%9D%A1%E6%90%81%E6%B5%85%E7%9A%84%E7%BE%8E%E4%BA%BA%E9%B1%BC",
+          "hot": 7739171,
           "tag": ""
         },
         {
           "rank": 28,
-          "title": "维金斯抖音直播谈字母哥加盟",
-          "url": "https://www.douyin.com/search/%E7%BB%B4%E9%87%91%E6%96%AF%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E8%B0%88%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8A%A0%E7%9B%9F",
-          "hot": 7732221,
+          "title": "一人一句和哈兰德说再见",
+          "url": "https://www.douyin.com/search/%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E5%92%8C%E5%93%88%E5%85%B0%E5%BE%B7%E8%AF%B4%E5%86%8D%E8%A7%81",
+          "hot": 7738068,
           "tag": ""
         },
         {
           "rank": 29,
-          "title": "谁还没上jumpstyle舞蹈末班车",
-          "url": "https://www.douyin.com/search/%E8%B0%81%E8%BF%98%E6%B2%A1%E4%B8%8Ajumpstyle%E8%88%9E%E8%B9%88%E6%9C%AB%E7%8F%AD%E8%BD%A6",
-          "hot": 7724280,
+          "title": "维金斯抖音直播谈字母哥加盟",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E9%87%91%E6%96%AF%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E8%B0%88%E5%AD%97%E6%AF%8D%E5%93%A5%E5%8A%A0%E7%9B%9F",
+          "hot": 7734039,
           "tag": ""
         },
         {
           "rank": 30,
-          "title": "功夫女足片尾彩蛋空出的座位",
-          "url": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%89%87%E5%B0%BE%E5%BD%A9%E8%9B%8B%E7%A9%BA%E5%87%BA%E7%9A%84%E5%BA%A7%E4%BD%8D",
-          "hot": 7723225,
+          "title": "谁还没上jumpstyle舞蹈末班车",
+          "url": "https://www.douyin.com/search/%E8%B0%81%E8%BF%98%E6%B2%A1%E4%B8%8Ajumpstyle%E8%88%9E%E8%B9%88%E6%9C%AB%E7%8F%AD%E8%BD%A6",
+          "hot": 7733369,
           "tag": ""
         }
       ],
-      "updated": "2026-07-13T07:44:11.038940+08:00"
+      "updated": "2026-07-13T08:00:15.595533+08:00"
     },
     {
       "name": "B站热门",
@@ -872,430 +872,220 @@
           "rank": 1,
           "title": "《崩坏：星穹铁道》动画短片——「你的终点，我的起点」",
           "url": "https://www.bilibili.com/video/BV1kZNN6iEPq",
-          "hot": 3410220,
+          "hot": 3414488,
           "tag": "手机游戏"
         },
         {
           "rank": 2,
           "title": "假如你生活在十万人的宿舍营",
           "url": "https://www.bilibili.com/video/BV1FhNn63E52",
-          "hot": 3475124,
+          "hot": 3507408,
           "tag": "日常"
         },
         {
           "rank": 3,
           "title": "世界纪录",
           "url": "https://www.bilibili.com/video/BV1qLNg66ExY",
-          "hot": 729736,
+          "hot": 759495,
           "tag": "小剧场"
         },
         {
           "rank": 4,
           "title": "【独家】牧神记 第91集 皇帝，道主，侞莱",
           "url": "https://www.bilibili.com/video/BV1DFNt6yED1",
-          "hot": 2160649,
+          "hot": 2164786,
           "tag": "国产动画"
         },
         {
           "rank": 5,
           "title": "“雷霆动物集体蹦迪，汽车光头百万撤离”【天堂的彼端-变速】【顶级智斗の小曲】",
           "url": "https://www.bilibili.com/video/BV1DFNt6yE9G",
-          "hot": 1935501,
+          "hot": 1965386,
           "tag": "音乐综合"
         },
         {
           "rank": 6,
           "title": "网络热传生物鉴定 第62期",
           "url": "https://www.bilibili.com/video/BV1FmMi6xEgb",
-          "hot": 1370058,
+          "hot": 1387484,
           "tag": "搞笑"
         },
         {
           "rank": 7,
           "title": "这才是《The Other Side Of Paradise》原版MV！",
           "url": "https://www.bilibili.com/video/BV1beM76pEBL",
-          "hot": 3261673,
+          "hot": 3275408,
           "tag": "MV"
         },
         {
           "rank": 8,
           "title": "狼 鬼 情 未 了",
           "url": "https://www.bilibili.com/video/BV1CmNc6oEXt",
-          "hot": 2377201,
+          "hot": 2387920,
           "tag": "小剧场"
         },
         {
           "rank": 9,
           "title": "吾从人族来，自当为人族竭尽全力！",
           "url": "https://www.bilibili.com/video/BV1R9N76oEXy",
-          "hot": 3484435,
+          "hot": 3488630,
           "tag": "日常"
         },
         {
           "rank": 10,
           "title": "bw漫展神级现场！无耳返全开麦无修音稳如CD！！",
           "url": "https://www.bilibili.com/video/BV1B6Nw6HE4N",
-          "hot": 587472,
+          "hot": 608360,
           "tag": "翻唱"
         },
         {
           "rank": 11,
           "title": "荒野大啾比",
           "url": "https://www.bilibili.com/video/BV1NoNN6MEse",
-          "hot": 547109,
+          "hot": 560476,
           "tag": "音乐综合"
         },
         {
           "rank": 12,
           "title": "当我两只手弹两架琴并同时弹不同的曲子，左右脑互搏式弹琴法",
           "url": "https://www.bilibili.com/video/BV1VjNL6LEEm",
-          "hot": 4416171,
+          "hot": 4428037,
           "tag": "演奏"
         },
         {
           "rank": 13,
           "title": "《和最讨厌的人灵魂互换了》完整版",
           "url": "https://www.bilibili.com/video/BV1cNML6eEsg",
-          "hot": 3039752,
+          "hot": 3049677,
           "tag": "MMD·3D"
         },
         {
           "rank": 14,
           "title": "ChiliChill乐团×花玲宴宁×回声少年，森林说《我不曾忘记》【BML-PLAY! 2026】",
           "url": "https://www.bilibili.com/video/BV1TjTd6sEGZ",
-          "hot": 283313,
+          "hot": 295189,
           "tag": "娱乐粉丝创作"
         },
         {
           "rank": 15,
           "title": "巴威北上：东北警惕极端特大暴雨，南方大范围高温将转移",
           "url": "https://www.bilibili.com/video/BV1R2N36MEzc",
-          "hot": 492903,
+          "hot": 509107,
           "tag": "科学科普"
         },
         {
           "rank": 16,
           "title": "消毒：如何在手术室构建一座无菌要塞",
           "url": "https://www.bilibili.com/video/BV1HzNK6BEdD",
-          "hot": 897238,
+          "hot": 912614,
           "tag": "科学科普"
         },
         {
           "rank": 17,
           "title": "路怒症被反杀，真的很解气",
           "url": "https://www.bilibili.com/video/BV1ZvME66EbK",
-          "hot": 12260693,
+          "hot": 12272372,
           "tag": "汽车生活"
         },
         {
           "rank": 18,
           "title": "小时候带你打游戏的表哥",
           "url": "https://www.bilibili.com/video/BV196NT6dEf1",
-          "hot": 804476,
+          "hot": 814120,
           "tag": "搞笑"
         },
         {
           "rank": 19,
           "title": "《明日方舟》集成战略「沉沦者的黑流树海」宣传PV · 玩法介绍",
           "url": "https://www.bilibili.com/video/BV19GNP6EE7e",
-          "hot": 1649837,
+          "hot": 1653893,
           "tag": "手机游戏"
         },
         {
           "rank": 20,
           "title": "为了营造出夏日的氛围🍃，我玩了两年半的“赛博拼豆”...",
           "url": "https://www.bilibili.com/video/BV1jtNx6mExF",
-          "hot": 1037255,
+          "hot": 1084385,
           "tag": "日常"
         },
         {
           "rank": 21,
           "title": "“我不在的日子里，你们很嚣张啊”",
           "url": "https://www.bilibili.com/video/BV1WhNw6tEyD",
-          "hot": 1406938,
+          "hot": 1410073,
           "tag": "MAD·AMV"
         },
         {
           "rank": 22,
           "title": "我----问你为什么要折断奥特钥匙！大结局！（中）",
           "url": "https://www.bilibili.com/video/BV1kANJ66Ex5",
-          "hot": 1563407,
+          "hot": 1567562,
           "tag": "特摄"
         },
         {
           "rank": 23,
           "title": "《我推的孩子》",
           "url": "https://www.bilibili.com/video/BV13qNA6VEiv",
-          "hot": 1430960,
+          "hot": 1438695,
           "tag": "搞笑"
         },
         {
           "rank": 24,
           "title": "足坛真神TOP：哈兰德！离开世界杯！他就是最凶猛最可爱的超级魔人！",
           "url": "https://www.bilibili.com/video/BV1PoNN6MEjb",
-          "hot": 1871184,
+          "hot": 1892558,
           "tag": "足球"
         },
         {
           "rank": 25,
           "title": "【一拳超人】原作160话：终极机神杰诺斯，大战埼玉！",
           "url": "https://www.bilibili.com/video/BV1JvN362E7Z",
-          "hot": 258701,
+          "hot": 270293,
           "tag": "动漫杂谈"
         },
         {
           "rank": 26,
           "title": "锐评HLE战胜BLG夺冠：重蹈覆辙.....",
           "url": "https://www.bilibili.com/video/BV1oyNV67EZT",
-          "hot": 304293,
+          "hot": 324536,
           "tag": "电子竞技"
         },
         {
           "rank": 27,
           "title": "【小爱的日常】第二集｜“爱弥斯，你鬼鬼祟祟的干什么呢？”",
           "url": "https://www.bilibili.com/video/BV1rcNK6eEVj",
-          "hot": 278987,
+          "hot": 283224,
           "tag": "国产原创相关"
         },
         {
           "rank": 28,
           "title": "霓虹褪去，让《原色》展露！【BML-PLAY! 2026】",
           "url": "https://www.bilibili.com/video/BV1NJTd6pEXj",
-          "hot": 288489,
+          "hot": 297640,
           "tag": "娱乐粉丝创作"
         },
         {
           "rank": 29,
           "title": "日漫凯尔吸 闻香识基米",
           "url": "https://www.bilibili.com/video/BV1bDNE6UE7m",
-          "hot": 1629935,
+          "hot": 1650345,
           "tag": "搞笑"
         },
         {
           "rank": 30,
           "title": "【垃圾站】EP01 今天这车垃圾，有点不对劲【UP动画】",
           "url": "https://www.bilibili.com/video/BV1RANn6bEAW",
-          "hot": 4281013,
+          "hot": 4288054,
           "tag": "影视剪辑"
         }
       ],
-      "updated": "2026-07-13T07:44:11.484912+08:00"
+      "updated": "2026-07-13T08:00:16.114373+08:00"
     },
     {
       "name": "IT之家",
-      "items": [
-        {
-          "rank": 1,
-          "title": "汽油“夹带”甲醇，我国完成首次成品油管道顺序输送甲醇试验",
-          "url": "https://www.ithome.com/0/975/846.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 2,
-          "title": "福特新功能可远程阻止被盗车辆二次启动，订阅费 7.99 美元 / 月",
-          "url": "https://www.ithome.com/0/975/845.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 3,
-          "title": "几乎无折痕，三星 Galaxy Z Fold 8 Ultra 折叠屏手机实拍视频流出",
-          "url": "https://www.ithome.com/0/975/844.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 4,
-          "title": "IT早报 0713：央视曝家电测评造假链条；金山 WPS 宣布已改善 C 盘占用；GPT-5.6 一小时破解 50 年难题；电力部门回应多起台风期间涉电谣言...",
-          "url": "https://www.ithome.com/0/975/843.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "分析：社交媒体超四分之一长文为 AI 生成，LinkedIn 成重灾区",
-          "url": "https://www.ithome.com/0/975/842.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 6,
-          "title": "家长花 3 万打造“少年马斯克”，有研学营标榜让孩子“6 天创办 AI 公司”",
-          "url": "https://www.ithome.com/0/975/841.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 7,
-          "title": "消息称 HBM4 价格明年有望翻倍，产能瓶颈与长期合同加剧供应紧张",
-          "url": "https://www.ithome.com/0/975/840.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 8,
-          "title": "OpenAI Codex、ChatGPT Work 暂时取消 Plus / Pro / Business 订阅 5 小时使用限制",
-          "url": "https://www.ithome.com/0/975/839.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 9,
-          "title": "特斯拉 Robotaxi 枢纽清洁机器人已投入运行，配套设施逐步完善",
-          "url": "https://www.ithome.com/0/975/838.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 10,
-          "title": "1000℃ 烧透后还能徒手拿：中国隔热材料跻身世界第一梯队，攻破回收火箭核心难点",
-          "url": "https://www.ithome.com/0/975/837.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 11,
-          "title": "苹果开始向更多直营店员工配发 iPhone 16，优化“Tap to Pay”体验",
-          "url": "https://www.ithome.com/0/975/836.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 12,
-          "title": "古尔曼：苹果将跳过 M6 Pro / Max 芯片，全力押注 AI 导向的 M7 系列",
-          "url": "https://www.ithome.com/0/975/835.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 13,
-          "title": "华硕 ROG“XG32UQWMS”31.5 英寸显示器发售：4K 240Hz / FHD 480Hz 双模 Tandem WOLED 面板，5999 元",
-          "url": "https://www.ithome.com/0/975/834.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 14,
-          "title": "古尔曼：苹果 M7 Ultra 芯片最高支持 1.5TB 内存，是 M5 Ultra 的两倍",
-          "url": "https://www.ithome.com/0/975/833.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 15,
-          "title": "Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力",
-          "url": "https://www.ithome.com/0/975/832.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 16,
-          "title": "酷冷至尊推出雷霆金系列金牌全模组电源：可选 750/850W，499 元起",
-          "url": "https://www.ithome.com/0/975/831.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 17,
-          "title": "Epic 喜加一：原价 8 元平台跳跃闯关游戏《NoRush！》免费领",
-          "url": "https://www.ithome.com/0/975/830.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 18,
-          "title": "大众、小鹏合作第二款车型与众 09 下半年上市，号称“智能化水平跻身第一梯队”",
-          "url": "https://www.ithome.com/0/975/828.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 19,
-          "title": "古尔曼：苹果明年春季推出新款 Apple Pencil，与下一代 iPad Pro 同步发布",
-          "url": "https://www.ithome.com/0/975/827.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 20,
-          "title": "小米米家定时燃气灶 3 白色 5200W 开售：一级能效、双边定时，1199 元",
-          "url": "https://www.ithome.com/0/975/826.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 21,
-          "title": "七彩虹橘宝 R16 Ultra 笔记本新增“R9 9850HX + 16G + 1T + RTX5070”规格，12299 元",
-          "url": "https://www.ithome.com/0/975/825.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 22,
-          "title": "蔚来李斌：新能源技术路线很明显在往纯电上收敛",
-          "url": "https://www.ithome.com/0/975/824.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
-          "title": "优派推出 QD-OLED Penta Tandem 显示器 VG2782Z-4K，支持 120Hz",
-          "url": "https://www.ithome.com/0/975/822.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 24,
-          "title": "张雪机车德比斯 2026 WSBK 英国站第二回合第 10 名完赛",
-          "url": "https://www.ithome.com/0/975/821.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 25,
-          "title": "机械师 14 Ultra 轻薄笔记本电脑实机展出：酷睿 Ultra X7 358H、70Wh、1.1kg",
-          "url": "https://www.ithome.com/0/975/820.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 26,
-          "title": "末日题材即时战略游戏《机械末日》Steam 发售，国区首发价 50.15 元",
-          "url": "https://www.ithome.com/0/975/627.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 27,
-          "title": "零刻 ME Pro 两盘位 NAS 新增英特尔奔腾银牌 J5005 款，准系统 999 元",
-          "url": "https://www.ithome.com/0/975/819.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "工信部：针对台风对通信网络造成的影响，启动 5G 异网漫游服务",
-          "url": "https://www.ithome.com/0/975/817.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 29,
-          "title": "吉利银河 TT Ultra 全球竞速版预热：采用双叉臂 + 五连杆、预瞄魔毯 +CCD+ 液压衬套",
-          "url": "https://www.ithome.com/0/975/815.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 30,
-          "title": "上汽名爵 MG 07 更多细节公布：五档可调电动尾翼、调光全景天幕，7 月 29 日预售",
-          "url": "https://www.ithome.com/0/975/814.htm",
-          "hot": 0,
-          "tag": ""
-        }
-      ],
-      "updated": "2026-07-13T07:44:15.599130+08:00"
+      "items": [],
+      "updated": "2026-07-13T08:00:49.567651+08:00",
+      "error": "所有渠道均失败"
     }
   ]
 }
