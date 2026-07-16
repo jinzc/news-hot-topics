@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-16 11:57:53",
+  "update_time": "2026-07-16 12:00:41",
   "sources": [
     {
       "name": "微博热搜",
@@ -47,6 +47,13 @@
           "tag": ""
         },
         {
+          "rank": 5,
+          "title": "网络辟谣标签",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BB%9C%E8%BE%9F%E8%B0%A3%E6%A0%87%E7%AD%BE",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 6,
           "title": "仅两千人想看逐玉演唱会",
           "url": "https://s.weibo.com/weibo?q=%E4%BB%85%E4%B8%A4%E5%8D%83%E4%BA%BA%E6%83%B3%E7%9C%8B%E9%80%90%E7%8E%89%E6%BC%94%E5%94%B1%E4%BC%9A",
@@ -76,8 +83,8 @@
         },
         {
           "rank": 10,
-          "title": "阿根廷救命神球被王濛神预测",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%95%91%E5%91%BD%E7%A5%9E%E7%90%83%E8%A2%AB%E7%8E%8B%E6%BF%9B%E7%A5%9E%E9%A2%84%E6%B5%8B",
+          "title": "贝林厄姆打人疑似被西语脏话激怒",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%89%93%E4%BA%BA%E7%96%91%E4%BC%BC%E8%A2%AB%E8%A5%BF%E8%AF%AD%E8%84%8F%E8%AF%9D%E6%BF%80%E6%80%92",
           "hot": 0,
           "tag": ""
         },
@@ -97,8 +104,8 @@
         },
         {
           "rank": 13,
-          "title": "英媒列举阿根廷31宗罪",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E5%AA%92%E5%88%97%E4%B8%BE%E9%98%BF%E6%A0%B9%E5%BB%B731%E5%AE%97%E7%BD%AA",
+          "title": "阿根廷救命神球被王濛神预测",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%95%91%E5%91%BD%E7%A5%9E%E7%90%83%E8%A2%AB%E7%8E%8B%E6%BF%9B%E7%A5%9E%E9%A2%84%E6%B5%8B",
           "hot": 0,
           "tag": ""
         },
@@ -125,8 +132,8 @@
         },
         {
           "rank": 17,
-          "title": "开到荼蘼",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC",
+          "title": "英媒列举阿根廷31宗罪",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E5%AA%92%E5%88%97%E4%B8%BE%E9%98%BF%E6%A0%B9%E5%BB%B731%E5%AE%97%E7%BD%AA",
           "hot": 0,
           "tag": ""
         },
@@ -146,8 +153,8 @@
         },
         {
           "rank": 20,
-          "title": "歌手复仇者联盟",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F",
+          "title": "陈伟霆MV女主是章若楠",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86MV%E5%A5%B3%E4%B8%BB%E6%98%AF%E7%AB%A0%E8%8B%A5%E6%A5%A0",
           "hot": 0,
           "tag": ""
         },
@@ -167,61 +174,257 @@
         },
         {
           "rank": 23,
-          "title": "陈伟霆MV女主是章若楠",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86MV%E5%A5%B3%E4%B8%BB%E6%98%AF%E7%AB%A0%E8%8B%A5%E6%A5%A0",
+          "title": "开到荼蘼",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 24,
-          "title": "TF运动会",
-          "url": "https://s.weibo.com/weibo?q=TF%E8%BF%90%E5%8A%A8%E4%BC%9A",
+          "title": "韩娱限薪令",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%A8%B1%E9%99%90%E8%96%AA%E4%BB%A4",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 25,
-          "title": "吉利星愿累计销量突破80万辆",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%89%E5%88%A9%E6%98%9F%E6%84%BF%E7%B4%AF%E8%AE%A1%E9%94%80%E9%87%8F%E7%AA%81%E7%A0%B480%E4%B8%87%E8%BE%86",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 26,
-          "title": "肖战十日终焉将杀青",
-          "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%B0%86%E6%9D%80%E9%9D%92",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 27,
           "title": "中国用户终于迎来满血iPhone",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 28,
-          "title": "来武汉渡江与热爱共奔赴",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%A5%E6%AD%A6%E6%B1%89%E6%B8%A1%E6%B1%9F%E4%B8%8E%E7%83%AD%E7%88%B1%E5%85%B1%E5%A5%94%E8%B5%B4",
+          "rank": 26,
+          "title": "吉利星愿累计销量突破80万辆",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%89%E5%88%A9%E6%98%9F%E6%84%BF%E7%B4%AF%E8%AE%A1%E9%94%80%E9%87%8F%E7%AA%81%E7%A0%B480%E4%B8%87%E8%BE%86",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 29,
+          "rank": 27,
+          "title": "肖战十日终焉将杀青",
+          "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E5%B0%86%E6%9D%80%E9%9D%92",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 28,
           "title": "LV起诉国家知识产权局案开庭",
           "url": "https://s.weibo.com/weibo?q=LV%E8%B5%B7%E8%AF%89%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E6%A1%88%E5%BC%80%E5%BA%AD",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-07-16T11:57:28.062314+08:00"
+      "updated": "2026-07-16T12:00:10.153864+08:00"
     },
     {
       "name": "知乎热榜",
-      "items": [],
-      "updated": "2026-07-16T11:57:45.494439+08:00",
-      "error": "所有渠道均失败"
+      "items": [
+        {
+          "rank": 1,
+          "title": "阿根廷球员赛后亮出「马岛属于阿根廷」横幅，或面临国际足联处罚，如何看待这种行为？可能受到什么处罚？",
+          "url": "https://www.zhihu.com/question/2061016973601765273",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "title": "英格兰1-2不敌阿根廷，图赫尔还剩50分钟就死守+换2后卫，如何评价这种战术？是输球的主要原因吗？",
+          "url": "https://www.zhihu.com/question/2060986883639698691",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 3,
+          "title": "怎么评价英格兰教练图赫尔在对阵阿根廷时的排兵布阵？",
+          "url": "https://www.zhihu.com/question/2060957181042806901",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "title": "邹市明夫妇七年亏损近 2 亿后还清债务，他称「花了很多不该花的钱」，这背后有哪些商业教训？",
+          "url": "https://www.zhihu.com/question/2060774906619601068",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "《功夫女足》将在 7 月 17 日（上映第 7 天）更换片源，为什么会出现这种情况？剧情会改动吗？",
+          "url": "https://www.zhihu.com/question/2060771091736425253",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "title": "87 版《红楼梦》刘姥姥扮演者沙玉华去世，享年 95 岁，你对她塑造的经典角色还有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2060747242655281535",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 绝杀英格兰，劳塔罗恩佐破门，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2060732712101716234",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 11,
+          "title": "苏州将推出外卖新政，骑手等红灯时间会自动剔除，有哪些利好？值得在更多城市推广吗？",
+          "url": "https://www.zhihu.com/question/2060721448994300660",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 12,
+          "title": "读中国当代作家作品时，你最常遇到的困惑是什么？",
+          "url": "https://www.zhihu.com/question/2060694315228206505",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 13,
+          "title": "20城新建商品住宅销售价格环比上涨，为2025年5月以来最多，如何解读这一数据？释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2060672322651083786",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "title": "西班牙世界杯目前为止仅丢一球，如何看待他们的钢铁防线？",
+          "url": "https://www.zhihu.com/question/2060665738398888475",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "title": "韩国股市大反弹，SK海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
+          "url": "https://www.zhihu.com/question/2060658036918719165",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 16,
+          "title": "曝拼多多请假已精准到分钟，反映了哪些问题？你怎么看待能精准到分的这一请假形式？",
+          "url": "https://www.zhihu.com/question/2060477471263122436",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 17,
+          "title": "17 岁男孩敌敌畏溅到裤子上，数小时后被下达病危通知书，这是什么原因？如何做紧急处理？",
+          "url": "https://www.zhihu.com/question/2060390753055123000",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 18,
+          "title": "基因为什么走向了繁殖，而不是永生？",
+          "url": "https://www.zhihu.com/question/2060328828980011019",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "如果吴孟达健在，会在周星驰《功夫女足》中担任什么角色？",
+          "url": "https://www.zhihu.com/question/2059894582096270775",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 20,
+          "title": "为什么北京文学特别喜欢写「饭局」？",
+          "url": "https://www.zhihu.com/question/2057822216587326181",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 21,
+          "title": "我很清楚离职后可能找不到更好的工作，甚至是找不到工作，但我就是不想干了，这种感觉有人懂吗？",
+          "url": "https://www.zhihu.com/question/2055261098841052943",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 22,
+          "title": "为什么建设人民大会堂的时候，没有采用中国本土的建筑风格？",
+          "url": "https://www.zhihu.com/question/2052009717355090086",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 23,
+          "title": "在中国，带鸿蒙系统的鸿蒙电脑销量大概什么时候能超越苹果电脑？",
+          "url": "https://www.zhihu.com/question/2051704373202497897",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 24,
+          "title": "RTX 5080被称为「智商卡」，是定价问题还是性能提升确实不够？",
+          "url": "https://www.zhihu.com/question/2048040799431038451",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 25,
+          "title": "如何评价《神探狄仁杰》里的武则天？",
+          "url": "https://www.zhihu.com/question/2043253227672555990",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 26,
+          "title": "如果孩子考上普通的大学，但学费比较贵，你会让孩子继续上学，还是让他早早找工作？",
+          "url": "https://www.zhihu.com/question/2042283855277733129",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
+          "title": "文字是否具有恐怖谷效应？如果有的话能举几个例子吗？",
+          "url": "https://www.zhihu.com/question/1898832691358589494",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 28,
+          "title": "38 岁的中年妇女有种无力感，不求上进的老公、不爱学习的孩子、无能为力的自己，大家都有这个感觉嘛？",
+          "url": "https://www.zhihu.com/question/666689112",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 29,
+          "title": "猫为什么可以「瞬间清醒」又「瞬间入睡」？",
+          "url": "https://www.zhihu.com/question/657777049",
+          "hot": 0,
+          "tag": ""
+        }
+      ],
+      "updated": "2026-07-16T12:00:11.311250+08:00"
     },
     {
       "name": "百度热搜",
@@ -242,8 +445,8 @@
         },
         {
           "rank": 3,
-          "title": "贝林厄姆赛后暴怒",
-          "url": "https://www.baidu.com/s?wd=贝林厄姆赛后暴怒",
+          "title": "上海今早热到“全国第一”",
+          "url": "https://www.baidu.com/s?wd=上海今早热到“全国第一”",
           "hot": 0,
           "tag": ""
         },
@@ -256,15 +459,15 @@
         },
         {
           "rank": 5,
-          "title": "教师博士毕业前去世 妻子一夜白头",
-          "url": "https://www.baidu.com/s?wd=教师博士毕业前去世 妻子一夜白头",
+          "title": "贝林厄姆赛后暴怒",
+          "url": "https://www.baidu.com/s?wd=贝林厄姆赛后暴怒",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 6,
-          "title": "上海今早热到“全国第一”",
-          "url": "https://www.baidu.com/s?wd=上海今早热到“全国第一”",
+          "title": "教师博士毕业前去世 妻子一夜白头",
+          "url": "https://www.baidu.com/s?wd=教师博士毕业前去世 妻子一夜白头",
           "hot": 0,
           "tag": ""
         },
@@ -382,15 +585,15 @@
         },
         {
           "rank": 23,
-          "title": "泽连斯基拧个瓶盖 引发巨大争议",
-          "url": "https://www.baidu.com/s?wd=泽连斯基拧个瓶盖 引发巨大争议",
+          "title": "周星驰《功夫女足》上映5天票房8亿",
+          "url": "https://www.baidu.com/s?wd=周星驰《功夫女足》上映5天票房8亿",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 24,
-          "title": "周星驰《功夫女足》上映5天票房8亿",
-          "url": "https://www.baidu.com/s?wd=周星驰《功夫女足》上映5天票房8亿",
+          "title": "泽连斯基拧个瓶盖 引发巨大争议",
+          "url": "https://www.baidu.com/s?wd=泽连斯基拧个瓶盖 引发巨大争议",
           "hot": 0,
           "tag": ""
         },
@@ -437,7 +640,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-16T11:57:47.970559+08:00"
+      "updated": "2026-07-16T12:00:14.396949+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +856,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-16T11:57:49.488339+08:00"
+      "updated": "2026-07-16T12:00:16.182666+08:00"
     },
     {
       "name": "B站热门",
@@ -662,430 +865,430 @@
           "rank": 1,
           "title": "路边摊吃盒饭 吃成摊主",
           "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
-          "hot": 3075684,
+          "hot": 3081481,
           "tag": "运动综合"
         },
         {
           "rank": 2,
           "title": "郝 哥 连 线 勇 哥",
           "url": "https://www.bilibili.com/video/BV1Y3Ne6hENH",
-          "hot": 4984864,
+          "hot": 4991263,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 3,
           "title": "我宁愿在这个世界里，永远做一个你“尚未到来”的传说",
           "url": "https://www.bilibili.com/video/BV1LeNt6HEBp",
-          "hot": 2024969,
+          "hot": 2031100,
           "tag": "综合"
         },
         {
           "rank": 4,
           "title": "耗时9999小时！一口气看完熊出没末路大合集！",
           "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
-          "hot": 2256835,
+          "hot": 2259669,
           "tag": "综合"
         },
         {
           "rank": 5,
           "title": "哭着剪完这条视频…",
           "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
-          "hot": 3737439,
+          "hot": 3741260,
           "tag": "网络游戏"
         },
         {
           "rank": 6,
           "title": "【幼稚园TV】建材王哥大闹天宫",
           "url": "https://www.bilibili.com/video/BV1uCNq6TEND",
-          "hot": 1566663,
+          "hot": 1570577,
           "tag": "小剧场"
         },
         {
           "rank": 7,
           "title": "搞强拆能惹多大祸？【奇葩小国53】",
           "url": "https://www.bilibili.com/video/BV1xdNt6TEP3",
-          "hot": 1630020,
+          "hot": 1632575,
           "tag": "人文历史"
         },
         {
           "rank": 8,
           "title": "The Verity Cast Plays The REAL Verity Mod",
           "url": "https://www.bilibili.com/video/BV1vRN66xE1W",
-          "hot": 169309,
+          "hot": 170669,
           "tag": "单机游戏"
         },
         {
           "rank": 9,
           "title": "这下真的能住了哈",
           "url": "https://www.bilibili.com/video/BV1PNNg6EEi9",
-          "hot": 3445310,
+          "hot": 3453017,
           "tag": "家居房产"
         },
         {
           "rank": 10,
           "title": "破冰挑战！3小时摆摊PK，赚得多的获胜！！",
           "url": "https://www.bilibili.com/video/BV1j2Ni6LEkW",
-          "hot": 1140197,
+          "hot": 1141549,
           "tag": "日常"
         },
         {
           "rank": 11,
           "title": "09年高中生带全家勇闯北京",
           "url": "https://www.bilibili.com/video/BV1UtNb65EUd",
-          "hot": 1507111,
+          "hot": 1512752,
           "tag": "亲子"
         },
         {
           "rank": 12,
           "title": "《兄弟有个妹妹》3",
           "url": "https://www.bilibili.com/video/BV1oxNq6mExB",
-          "hot": 1187659,
+          "hot": 1196729,
           "tag": "搞笑"
         },
         {
           "rank": 13,
           "title": "今天不讲教学 想跟兄弟们聊聊",
           "url": "https://www.bilibili.com/video/BV11uNq68E5J",
-          "hot": 400307,
+          "hot": 401173,
           "tag": "手机游戏"
         },
         {
           "rank": 14,
           "title": "\"自古英雄出少年.\"",
           "url": "https://www.bilibili.com/video/BV133NC6pET2",
-          "hot": 2765779,
+          "hot": 2767680,
           "tag": "音乐综合"
         },
         {
           "rank": 15,
           "title": "这都能还原！！？【MC姬子篇】",
           "url": "https://www.bilibili.com/video/BV1e4NY6aEAD",
-          "hot": 578566,
+          "hot": 579696,
           "tag": "单机游戏"
         },
         {
           "rank": 16,
           "title": "三角洲转盘挑战赛今日挑战者:5级头，嫂子护甲#三角洲 #三角洲行动",
           "url": "https://www.bilibili.com/video/BV1PCN963EvT",
-          "hot": 1086949,
+          "hot": 1092293,
           "tag": "网络游戏"
         },
         {
           "rank": 17,
           "title": "根据真实事件改编",
           "url": "https://www.bilibili.com/video/BV1ieNE68EH4",
-          "hot": 1380865,
+          "hot": 1381111,
           "tag": "日常"
         },
         {
           "rank": 18,
           "title": "直播间飙升10万+！大司马玩怀旧服老版AP塞恩，瞪谁谁怀孕来了",
           "url": "https://www.bilibili.com/video/BV1TKNq6aEoZ",
-          "hot": 812961,
+          "hot": 815957,
           "tag": "电子竞技"
         },
         {
           "rank": 19,
           "title": "有没有一种可能，烈阳巨灵真的就长这样【更好的MC】",
           "url": "https://www.bilibili.com/video/BV1NhNi64Eih",
-          "hot": 221271,
+          "hot": 224176,
           "tag": "单机游戏"
         },
         {
           "rank": 20,
           "title": "烧一桌中式家常菜，款待十年没见的法国老友！",
           "url": "https://www.bilibili.com/video/BV1SSNX67E8P",
-          "hot": 1459863,
+          "hot": 1462011,
           "tag": "美食制作"
         },
         {
           "rank": 21,
           "title": "回 旋 彪",
           "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
-          "hot": 2366237,
+          "hot": 2367663,
           "tag": "影视剪辑"
         },
         {
           "rank": 22,
           "title": "如果你可以随时缩小，十二星座决定你的专属休息小屋 （上） ASMR",
           "url": "https://www.bilibili.com/video/BV1esN96WE7v",
-          "hot": 1863268,
+          "hot": 1866202,
           "tag": "手工"
         },
         {
           "rank": 23,
           "title": "属于我们的开拓之旅",
           "url": "https://www.bilibili.com/video/BV1x6NY6XEhU",
-          "hot": 433957,
+          "hot": 435738,
           "tag": "MMD·3D"
         },
         {
           "rank": 24,
           "title": "【货币战争攻略】A850竟是有史以来最简单的一个版本？末法时代三体人诸神黄昏！货币战争癫疯之作 上场千冶刃想要多少分自己填",
           "url": "https://www.bilibili.com/video/BV1jJNY6TEHz",
-          "hot": 686423,
+          "hot": 688030,
           "tag": "手机游戏"
         },
         {
           "rank": 25,
           "title": "矿石战争重制版一口气看完大合集",
           "url": "https://www.bilibili.com/video/BV1KZNT6LEGn",
-          "hot": 3489615,
+          "hot": 3494816,
           "tag": "手机游戏"
         },
         {
           "rank": 26,
           "title": "如何正确安慰兄弟",
           "url": "https://www.bilibili.com/video/BV1gVN16fEs5",
-          "hot": 5692991,
+          "hot": 5695457,
           "tag": "搞笑"
         },
         {
           "rank": 27,
           "title": "探秘美国最老钱餐厅！世界杯期间，纽约有多贵？",
           "url": "https://www.bilibili.com/video/BV1ATNY6LEMy",
-          "hot": 1040829,
+          "hot": 1043125,
           "tag": "美食侦探"
         },
         {
           "rank": 28,
           "title": "日服堵桥被全图围剿！鲁鲁正义の制裁",
           "url": "https://www.bilibili.com/video/BV12vNb6zE7w",
-          "hot": 2464313,
+          "hot": 2471091,
           "tag": "网络游戏"
         },
         {
           "rank": 29,
           "title": "我这视频看完没啥感觉，但是暖暖的！",
           "url": "https://www.bilibili.com/video/BV1XENb6nEUh",
-          "hot": 1916932,
+          "hot": 1917822,
           "tag": "亲子"
         },
         {
           "rank": 30,
           "title": "怀旧服冥火狐狸秒人，大司马这也太丝滑了，22杀吓哭现场观众",
           "url": "https://www.bilibili.com/video/BV1GoNi6BEne",
-          "hot": 631986,
+          "hot": 634216,
           "tag": "电子竞技"
         }
       ],
-      "updated": "2026-07-16T11:57:50.082334+08:00"
+      "updated": "2026-07-16T12:00:16.853257+08:00"
     },
     {
       "name": "IT之家",
       "items": [
         {
           "rank": 1,
+          "title": "NVIDIA 扩展 Jetson Thor 计算机家族，新增 T3000、T2000 模组",
+          "url": "https://www.ithome.com/0/977/455.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "title": "小米推出“开箱即用”机器人基座模型 Xiaomi-Robotics-1，基于 10 万小时数据训练",
+          "url": "https://www.ithome.com/0/977/453.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 3,
+          "title": "小米语音首席科学家 Daniel Povey 当选 2026 ISCA Fellow，全球仅 100 余人获此殊荣",
+          "url": "https://www.ithome.com/0/977/452.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 4,
           "title": "美光 LPDDR5X 新增 6GB、12GB、24GB 非二进制容量，最高 10.7Gbps",
           "url": "https://www.ithome.com/0/977/449.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 2,
+          "rank": 5,
           "title": "美国众议院通过法案淘汰冬夏令时切换，我国曾在 40 年前短暂试行",
           "url": "https://www.ithome.com/0/977/448.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 3,
+          "rank": 6,
           "title": "6 月国内动力电池装车量 76.5GWh，同比大增 31.5%",
           "url": "https://www.ithome.com/0/977/447.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 4,
+          "rank": 7,
           "title": "集邦咨询：预估陪伴型人形机器人 2030 年产值达 11 亿美元",
           "url": "https://www.ithome.com/0/977/445.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 5,
+          "rank": 8,
           "title": "121.8 万元宝马 7 系熠影臻藏版发售：全球限量 700 台",
           "url": "https://www.ithome.com/0/977/444.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "打造 AI 网安“红队”：OpenAI 介绍内部漏洞检测模型 GPT-Red",
           "url": "https://www.ithome.com/0/977/443.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 7,
+          "rank": 10,
           "title": "Steam Machine 装上 Win11 后 GeekBench 6 多核较 SteamOS 高 22.1%，游戏测试互有胜负",
           "url": "https://www.ithome.com/0/977/440.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 8,
+          "rank": 11,
           "title": "澜起科技回应韩检方突击搜查：积极配合，目前公司运行正常",
           "url": "https://www.ithome.com/0/977/435.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 9,
+          "rank": 12,
           "title": "长安汽车高管谈“电车锁电”：内部会议上从来没要求过，公司成立 164 年来都是靠实事求是",
           "url": "https://www.ithome.com/0/977/431.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 10,
+          "rank": 13,
           "title": "Cervoz 推出 M.2 无线网卡位固态硬盘，PCIe Gen4 ×2 规格",
           "url": "https://www.ithome.com/0/977/422.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 11,
+          "rank": 14,
           "title": "美国 ITC 对三星电子、谷歌、英伟达、博通等七家公司启动 337 调查",
           "url": "https://www.ithome.com/0/977/420.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 12,
+          "rank": 15,
           "title": "古尔曼：苹果和 PrismML 在量化 AI 技术上合作可能性较低",
           "url": "https://www.ithome.com/0/977/401.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 13,
+          "rank": 16,
           "title": "努比亚全球首款 AI 智能体手机 NaviX Ultra 官宣，内置豆包手机助手",
           "url": "https://www.ithome.com/0/977/393.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 14,
+          "rank": 17,
           "title": "中式民俗解谜游戏《纸嫁衣 9 罗浮梦》登陆苹果 iOS 与安卓，双主角视角 + 虚实双世界",
           "url": "https://www.ithome.com/0/977/385.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 15,
+          "rank": 18,
           "title": "B站被指给未成年人新号推荐擦边视频，客服回应称可开启未成年人模式、涉违规可举报",
           "url": "https://www.ithome.com/0/977/361.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 16,
+          "rank": 19,
           "title": "供应问题解决，iFixit 将恢复出售 Valve Steam Deck LCD 掌机电池",
           "url": "https://www.ithome.com/0/977/360.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 17,
+          "rank": 20,
           "title": "绿联 Max5s 头戴式蓝牙耳机上架预约：号称双金标音质、AI 功能终身免费，到手 169 元",
           "url": "https://www.ithome.com/0/977/359.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 18,
+          "rank": 21,
           "title": "约 40% 降幅，DigiTimes 下调 2026 苹果 MacBook Neo 笔记本出货量预期至 600~700 万台",
           "url": "https://www.ithome.com/0/977/357.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 19,
+          "rank": 22,
           "title": "OpenAI GPT-5.6 智商首破 130 天才线，比 99% 人类都聪明",
           "url": "https://www.ithome.com/0/977/353.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 20,
+          "rank": 23,
           "title": "索尼专利暗示 PS6 弃用液态金属方案，改为密封液体汽化散热",
           "url": "https://www.ithome.com/0/977/350.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 21,
+          "rank": 24,
           "title": "专为 MacBook Neo 笔电打造：Satechi 推出多色可选扩展坞与鼠标",
           "url": "https://www.ithome.com/0/977/347.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 22,
+          "rank": 25,
           "title": "淘宝、京东、拼多多等 12 家网络平台承诺：坚决清理侵权盗版出版物",
           "url": "https://www.ithome.com/0/977/340.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 23,
+          "rank": 26,
           "title": "NASA 阿波罗 11 号“救命笔”拍出 85.76 万美元，奥尔德林 40 余件藏品总成交额超 286 万美元",
           "url": "https://www.ithome.com/0/977/337.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 24,
+          "rank": 27,
           "title": "教育部增设 27 个职业教育新专业：明年开始招生，涉人形机器人、车联网等领域",
           "url": "https://www.ithome.com/0/977/336.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 25,
+          "rank": 28,
           "title": "Omdia：2030 年全球录制音乐市场规模将突破 560 亿美元，中国有望跃居全球第二",
           "url": "https://www.ithome.com/0/977/335.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 26,
+          "rank": 29,
           "title": "慧荣称已启动研发 PCIe Gen7 SSD 主控，目标 2027 年推出样品",
           "url": "https://www.ithome.com/0/977/334.htm",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 27,
+          "rank": 30,
           "title": "极氪 9X 五座版官宣 7 月 28 日直接开启大定，不举办上市发布会",
           "url": "https://www.ithome.com/0/977/333.htm",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "小米汽车：澎程系列全系 CLTC 纯电续航最长 505km，电池最大 76kWh",
-          "url": "https://www.ithome.com/0/977/332.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 29,
-          "title": "网友改造 128GB SSD 成 Steam 游戏卡带，插入后直接启动游戏",
-          "url": "https://www.ithome.com/0/977/328.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 30,
-          "title": "韩国团队开发出可拉拽变形的屏幕，显示内容不受影响",
-          "url": "https://www.ithome.com/0/977/327.htm",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-07-16T11:57:53.244270+08:00"
+      "updated": "2026-07-16T12:00:41.201854+08:00"
     }
   ]
 }
