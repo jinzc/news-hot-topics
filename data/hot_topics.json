@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-21 03:00:43",
+  "update_time": "2026-07-21 03:01:24",
   "sources": [
     {
       "name": "微博热搜",
@@ -43,6 +43,13 @@
           "rank": 5,
           "title": "过度依赖另一半会失去自我吗",
           "url": "https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E4%BE%9D%E8%B5%96%E5%8F%A6%E4%B8%80%E5%8D%8A%E4%BC%9A%E5%A4%B1%E5%8E%BB%E8%87%AA%E6%88%91%E5%90%97",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "圣罗兰中国形象大使陈哲远",
+          "url": "https://s.weibo.com/weibo?q=%E5%9C%A3%E7%BD%97%E5%85%B0%E4%B8%AD%E5%9B%BD%E5%BD%A2%E8%B1%A1%E5%A4%A7%E4%BD%BF%E9%99%88%E5%93%B2%E8%BF%9C",
           "hot": 0,
           "tag": ""
         },
@@ -167,22 +174,22 @@
         },
         {
           "rank": 23,
-          "title": "最古老的降温方式",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E9%99%8D%E6%B8%A9%E6%96%B9%E5%BC%8F",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 24,
           "title": "人一旦找到热爱",
           "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E6%89%BE%E5%88%B0%E7%83%AD%E7%88%B1",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 25,
+          "rank": 24,
           "title": "爱穿洞洞鞋的广东人天塌了",
           "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%9A%84%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 25,
+          "title": "最古老的降温方式",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E9%99%8D%E6%B8%A9%E6%96%B9%E5%BC%8F",
           "hot": 0,
           "tag": ""
         },
@@ -206,22 +213,225 @@
           "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E8%B6%8A%E6%B2%A1%E9%92%B1%E8%B6%8A%E8%A6%81%E5%AF%B9%E9%92%B1%E6%9C%89%E6%A6%82%E5%BF%B5",
           "hot": 0,
           "tag": ""
+        }
+      ],
+      "updated": "2026-07-21T03:01:15.473707+08:00"
+    },
+    {
+      "name": "知乎热榜",
+      "items": [
+        {
+          "rank": 1,
+          "title": "谢贤遗嘱将 90% 遗产留给两个孙子，剩下 10% 由其儿女平均分配，如何看这一分配？",
+          "url": "https://www.zhihu.com/question/2062582137845278413",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "title": "香港演员、谢霆锋父亲谢贤去世，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2062563035739156529",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 3,
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "title": "余文乐宣布离婚，其 2017 年与妻子结婚育有一儿一女，怎样看待他们的婚姻？",
+          "url": "https://www.zhihu.com/question/2062540964820772002",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被AI证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "title": "米哈游运营重心转向抖音的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2062512152049727113",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "title": "如何评价 ShowMaker 在 EWC 面对现场观众嘘声时的回应？",
+          "url": "https://www.zhihu.com/question/2062508338517169153",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "title": "中国肯德基「炸鸡配西瓜」促销引发美国网友热议，品牌本土化营销需要考虑其他国家的文化禁忌吗？",
+          "url": "https://www.zhihu.com/question/2062469683769336787",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2062469292113891730",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "title": "如何看待诺兰新片《奥德赛》首周全球票房2.631亿，拿下诺兰职业生涯最佳成绩？",
+          "url": "https://www.zhihu.com/question/2062461673827480992",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 11,
+          "title": "姆巴佩 10 球夺世界杯金靴，并以 22 球登顶世界杯历史总射手榜，想超越他有多难？",
+          "url": "https://www.zhihu.com/question/2062431941387710588",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 12,
+          "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
+          "url": "https://www.zhihu.com/question/2062428579145540871",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 13,
+          "title": "2026年世界杯决赛，阿根廷队吃了那么多牌，判罚合理吗？",
+          "url": "https://www.zhihu.com/question/2062425652234565249",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "title": "19 岁亚马尔本届世界杯一进球、一造点，怎样评价他的表现？已包揽欧洲杯+世界杯冠军，他的上限在哪？",
+          "url": "https://www.zhihu.com/question/2062423493048623288",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "title": "「甲亢哥」居然成为了世界杯闭幕式的表演嘉宾，这是否让你感到意外，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2062352638771818951",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 16,
+          "title": "中国国新、中国诚通深夜发声，增持中国股票资产，释放什么信号？",
+          "url": "https://www.zhihu.com/question/2062331320521450737",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 17,
+          "title": "《古剑》新实机评论区下，有大量玩家斥责其为类魂游戏。所以古剑真的又是一个类魂么？",
+          "url": "https://www.zhihu.com/question/2062285324462602186",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 18,
+          "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
+          "url": "https://www.zhihu.com/question/2062096553184120966",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
+          "url": "https://www.zhihu.com/question/2061953789863654753",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 20,
+          "title": "如何评价《明日方舟终末地》1.4版本的基建？",
+          "url": "https://www.zhihu.com/question/2061914151312799192",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 21,
+          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了DeepSeek的建议?",
+          "url": "https://www.zhihu.com/question/2061868472049652679",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 22,
+          "title": "山姆朝日全开盖啤酒上架十分钟即售罄，大批年轻人专程驱车蹲货抢购，如何看待啤酒「稀缺式消费」的热潮？",
+          "url": "https://www.zhihu.com/question/2061761575296546408",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 23,
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 24,
+          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
+          "url": "https://www.zhihu.com/question/2061405940272960418",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 25,
+          "title": "《功夫女足》观众看了都说好，为什么影评人说烂大街？",
+          "url": "https://www.zhihu.com/question/2061061982518764560",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 26,
+          "title": "韩国博主在日本探店遇阴阳菜单，英文菜单标价远高于日文，这在日本是普遍现象吗？如何避免旅游时遇阴阳菜单？",
+          "url": "https://www.zhihu.com/question/2060752007808250546",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
+          "title": "世界杯要扩军到 64 队，名额大增，国足这次会有希望吗？",
+          "url": "https://www.zhihu.com/question/2060140311075098977",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 28,
+          "title": "如何看待最近网传的DeepSeek v4正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "hot": 0,
+          "tag": ""
         },
         {
           "rank": 29,
-          "title": "乒超名单",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%92%E8%B6%85%E5%90%8D%E5%8D%95",
+          "title": "为什么我开始不害怕领导了，说什么都不反驳，只淡淡一笑，看到主要领导也就这样？",
+          "url": "https://www.zhihu.com/question/4714962638",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 30,
+          "title": "为什么在极限运动视频中多数是外国人？",
+          "url": "https://www.zhihu.com/question/37668903",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-07-21T03:00:17.132823+08:00"
-    },
-    {
-      "name": "知乎热榜",
-      "items": [],
-      "updated": "2026-07-21T03:00:34.692397+08:00",
-      "error": "所有渠道均失败"
+      "updated": "2026-07-21T03:01:16.597758+08:00"
     },
     {
       "name": "百度热搜",
@@ -437,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-21T03:00:38.013814+08:00"
+      "updated": "2026-07-21T03:01:18.678903+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +863,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-21T03:00:38.937391+08:00"
+      "updated": "2026-07-21T03:01:19.775679+08:00"
     },
     {
       "name": "B站热门",
@@ -669,21 +879,21 @@
           "rank": 2,
           "title": "无骨草鱼 无骨草鱼教学，十年老师傅无保留教大家，简单易学。",
           "url": "https://www.bilibili.com/video/BV1P6KA6NEDq",
-          "hot": 1993123,
+          "hot": 1994271,
           "tag": "日常"
         },
         {
           "rank": 3,
           "title": "《鸣潮》巡回演唱会「致予新世界」官方录播",
           "url": "https://www.bilibili.com/video/BV1XhKr69EDd",
-          "hot": 2622547,
+          "hot": 2622671,
           "tag": "音乐现场"
         },
         {
           "rank": 4,
           "title": "沉浸式感受清朝御厨制作摔不碎的豆腐",
           "url": "https://www.bilibili.com/video/BV1EpKr6cEAx",
-          "hot": 1928730,
+          "hot": 1929643,
           "tag": "AI影像"
         },
         {
@@ -711,7 +921,7 @@
           "rank": 8,
           "title": "新乐器！订书钉演奏《千本樱》",
           "url": "https://www.bilibili.com/video/BV13YNd6dEb9",
-          "hot": 9258545,
+          "hot": 9258894,
           "tag": "演奏"
         },
         {
@@ -732,7 +942,7 @@
           "rank": 11,
           "title": "【蓝牙耳机推荐2026】 7月大合集！含音质和降噪测试！百元蓝牙耳机/入耳式蓝牙耳机/降噪蓝牙耳机/手机厂/HIFI厂耳机推荐！全价位各大品牌对比！",
           "url": "https://www.bilibili.com/video/BV11jKm6bE61",
-          "hot": 723267,
+          "hot": 723736,
           "tag": "数码"
         },
         {
@@ -746,7 +956,7 @@
           "rank": 13,
           "title": "全 网 最 幸 运 的 动 画 教 程   3.5",
           "url": "https://www.bilibili.com/video/BV1BfKr6vEQr",
-          "hot": 1284880,
+          "hot": 1285019,
           "tag": "同人·手书"
         },
         {
@@ -760,28 +970,28 @@
           "rank": 15,
           "title": "⚡MC史上最强附魔⚡",
           "url": "https://www.bilibili.com/video/BV1N1Kr6LEQD",
-          "hot": 1478348,
+          "hot": 1478959,
           "tag": "单机游戏"
         },
         {
           "rank": 16,
           "title": "寻找卢本伟",
           "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
-          "hot": 10129044,
+          "hot": 10129427,
           "tag": "预告·资讯"
         },
         {
           "rank": 17,
           "title": "挑战坐“绿皮火车”穿越美国！七天六夜，横穿美国11个州",
           "url": "https://www.bilibili.com/video/BV17YKP6ZECa",
-          "hot": 1999817,
+          "hot": 1999856,
           "tag": "出行"
         },
         {
           "rank": 18,
           "title": "“坑农民的钱我一分不赚”，商家邀请朱之文代言除草剂，他在自家田地实测 结果荒草长1米多高，朱之文果断拒绝：赚钱咱得凭良心",
           "url": "https://www.bilibili.com/video/BV1SbK26hEmC",
-          "hot": 1290159,
+          "hot": 1290909,
           "tag": "社会"
         },
         {
@@ -809,14 +1019,14 @@
           "rank": 22,
           "title": "【世界杯终局之战】复仇者，集结！",
           "url": "https://www.bilibili.com/video/BV1dpKz6HEd4",
-          "hot": 659288,
+          "hot": 659618,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 23,
           "title": "完全看不懂中国网络梗的日本人，再也不怕了！",
           "url": "https://www.bilibili.com/video/BV1prK26pEiK",
-          "hot": 795735,
+          "hot": 795938,
           "tag": "音乐综合"
         },
         {
@@ -830,46 +1040,46 @@
           "rank": 25,
           "title": "四个一起冒烟！狂！大司马杯最搞笑一幕：导播可以开摄像头了。",
           "url": "https://www.bilibili.com/video/BV1mBKN65Ew4",
-          "hot": 2920936,
+          "hot": 2921230,
           "tag": "电子竞技"
         },
         {
           "rank": 26,
           "title": "把你照片留评论区给你变帅建议，没有丑男人，只有懒男人#男生发型#男生四六分发型#男生化妆教程#素颜霜#男生素颜 fb",
           "url": "https://www.bilibili.com/video/BV1aHKG6MEk5",
-          "hot": 858327,
+          "hot": 858609,
           "tag": "美妆护肤"
         },
         {
           "rank": 27,
           "title": "鬼压床：全人类为何共享着同一个噩梦？",
           "url": "https://www.bilibili.com/video/BV1ovKm6jE8U",
-          "hot": 718454,
+          "hot": 718678,
           "tag": "科学科普"
         },
         {
           "rank": 28,
           "title": "颁奖嘉宾赖着不下台怎么办？在线等挺急的",
           "url": "https://www.bilibili.com/video/BV18yKp6AEFL",
-          "hot": 431034,
+          "hot": 431356,
           "tag": "社科·法律·心理"
         },
         {
           "rank": 29,
           "title": "椰子把自己演化的那么好喝，对它有什么好处？",
           "url": "https://www.bilibili.com/video/BV1v9Kv6yEou",
-          "hot": 1632568,
+          "hot": 1632832,
           "tag": "科学科普"
         },
         {
           "rank": 30,
           "title": "赛后情书：一切结束了，西班牙夺得美加墨冠军！这届世界杯真的拉完了。",
           "url": "https://www.bilibili.com/video/BV1ojKU67EkX",
-          "hot": 583313,
+          "hot": 583507,
           "tag": "足球"
         }
       ],
-      "updated": "2026-07-21T03:00:39.348678+08:00"
+      "updated": "2026-07-21T03:01:20.114162+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-07-21T03:00:43.252580+08:00"
+      "updated": "2026-07-21T03:01:24.428719+08:00"
     }
   ]
 }
