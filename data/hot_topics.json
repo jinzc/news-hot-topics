@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-06 15:00:40",
+  "update_time": "2026-08-06 15:01:44",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,13 +26,6 @@
           "tag": ""
         },
         {
-          "rank": 2,
-          "title": "别克至境L7纯电预售16.99万起",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%85%8B%E8%87%B3%E5%A2%83L7%E7%BA%AF%E7%94%B5%E9%A2%84%E5%94%AE16.99%E4%B8%87%E8%B5%B7",
-          "hot": 0,
-          "tag": ""
-        },
-        {
           "rank": 3,
           "title": "直播自杀日本女网红已身亡",
           "url": "https://s.weibo.com/weibo?q=%E7%9B%B4%E6%92%AD%E8%87%AA%E6%9D%80%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%B7%B2%E8%BA%AB%E4%BA%A1",
@@ -55,8 +48,8 @@
         },
         {
           "rank": 5,
-          "title": "魔兽周年送10大坐骑百万福利",
-          "url": "https://s.weibo.com/weibo?q=%E9%AD%94%E5%85%BD%E5%91%A8%E5%B9%B4%E9%80%8110%E5%A4%A7%E5%9D%90%E9%AA%91%E7%99%BE%E4%B8%87%E7%A6%8F%E5%88%A9",
+          "title": "8月12日地球将失去引力7秒系谣言",
+          "url": "https://s.weibo.com/weibo?q=8%E6%9C%8812%E6%97%A5%E5%9C%B0%E7%90%83%E5%B0%86%E5%A4%B1%E5%8E%BB%E5%BC%95%E5%8A%9B7%E7%A7%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "hot": 0,
           "tag": ""
         },
@@ -167,36 +160,36 @@
         },
         {
           "rank": 21,
-          "title": "呵呵力挺白鹿",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%B5%E5%91%B5%E5%8A%9B%E6%8C%BA%E7%99%BD%E9%B9%BF",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 22,
           "title": "王者夏日奇幻副本生存实录",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E5%A4%8F%E6%97%A5%E5%A5%87%E5%B9%BB%E5%89%AF%E6%9C%AC%E7%94%9F%E5%AD%98%E5%AE%9E%E5%BD%95",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 23,
-          "title": "BLCKPINK十周年见面会部分成员出席",
-          "url": "https://s.weibo.com/weibo?q=BLCKPINK%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A7%81%E9%9D%A2%E4%BC%9A%E9%83%A8%E5%88%86%E6%88%90%E5%91%98%E5%87%BA%E5%B8%AD",
+          "rank": 22,
+          "title": "呵呵力挺白鹿",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%B5%E5%91%B5%E5%8A%9B%E6%8C%BA%E7%99%BD%E9%B9%BF",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 24,
+          "rank": 23,
           "title": "关之琳模特新男友才27岁",
           "url": "https://s.weibo.com/weibo?q=%E5%85%B3%E4%B9%8B%E7%90%B3%E6%A8%A1%E7%89%B9%E6%96%B0%E7%94%B7%E5%8F%8B%E6%89%8D27%E5%B2%81",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 25,
+          "rank": 24,
           "title": "妈妈偷改女儿高考志愿",
           "url": "https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%81%B7%E6%94%B9%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 25,
+          "title": "BLCKPINK十周年见面会部分成员出席",
+          "url": "https://s.weibo.com/weibo?q=BLCKPINK%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A7%81%E9%9D%A2%E4%BC%9A%E9%83%A8%E5%88%86%E6%88%90%E5%91%98%E5%87%BA%E5%B8%AD",
           "hot": 0,
           "tag": ""
         },
@@ -209,13 +202,20 @@
         },
         {
           "rank": 27,
+          "title": "姆巴佩女友是迪奥宝格丽双代言人",
+          "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A5%B3%E5%8F%8B%E6%98%AF%E8%BF%AA%E5%A5%A5%E5%AE%9D%E6%A0%BC%E4%B8%BD%E5%8F%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 28,
           "title": "肖战练习室跳舞",
           "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%BB%83%E4%B9%A0%E5%AE%A4%E8%B7%B3%E8%88%9E",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-08-06T15:00:21.147408+08:00"
+      "updated": "2026-08-06T15:01:18.239610+08:00"
     },
     {
       "name": "知乎热榜",
@@ -431,12 +431,12 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-06T15:00:22.830930+08:00"
+      "updated": "2026-08-06T15:01:32.781410+08:00"
     },
     {
       "name": "百度热搜",
       "items": [],
-      "updated": "2026-08-06T15:00:26.706280+08:00",
+      "updated": "2026-08-06T15:01:37.153066+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -653,7 +653,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-06T15:00:28.195555+08:00"
+      "updated": "2026-08-06T15:01:38.382370+08:00"
     },
     {
       "name": "B站热门",
@@ -662,175 +662,175 @@
           "rank": 1,
           "title": "《原神》奥黛塔角色PV——「柔雪的幻象」",
           "url": "https://www.bilibili.com/video/BV1wZMy6DE31",
-          "hot": 722893,
+          "hot": 725255,
           "tag": "手机游戏"
         },
         {
           "rank": 2,
           "title": "欢迎来到研究生的世界",
           "url": "https://www.bilibili.com/video/BV1R53R6rE7a",
-          "hot": 3695781,
+          "hot": 3702307,
           "tag": "搞笑"
         },
         {
           "rank": 3,
           "title": "《别接我，我改！》",
           "url": "https://www.bilibili.com/video/BV1v1Mr6wEiP",
-          "hot": 3380798,
+          "hot": 3385832,
           "tag": "日常"
         },
         {
           "rank": 4,
           "title": "【独家】《将夜》第17集 痛其不通【4月国创】",
           "url": "https://www.bilibili.com/video/BV1LDM16LEfU",
-          "hot": 280828,
+          "hot": 282350,
           "tag": "国产动画"
         },
         {
           "rank": 5,
           "title": "周 处 除 三 害 现实版",
           "url": "https://www.bilibili.com/video/BV1bpM16eEAk",
-          "hot": 1848411,
+          "hot": 1850309,
           "tag": "社科·法律·心理"
         },
         {
           "rank": 6,
           "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
           "url": "https://www.bilibili.com/video/BV17vuw68E58",
-          "hot": 5282027,
+          "hot": 5286094,
           "tag": "手机游戏"
         },
         {
           "rank": 7,
           "title": "柯洁VS党毅飞（不可能的逆转）",
           "url": "https://www.bilibili.com/video/BV1kxuw6iEb2",
-          "hot": 3900951,
+          "hot": 3902189,
           "tag": "桌游棋牌"
         },
         {
           "rank": 8,
           "title": "我最爱吃黄焖鸡了！",
           "url": "https://www.bilibili.com/video/BV1zEMk6zEJk",
-          "hot": 910726,
+          "hot": 911528,
           "tag": "搞笑"
         },
         {
           "rank": 9,
           "title": "完蛋！我被男同学包围了",
           "url": "https://www.bilibili.com/video/BV1uPMZ6NEBb",
-          "hot": 5221363,
+          "hot": 5223603,
           "tag": "日常"
         },
         {
           "rank": 10,
           "title": "你说偷吃零食被发现会死是吗？",
           "url": "https://www.bilibili.com/video/BV1fGuc6xEmp",
-          "hot": 5649769,
+          "hot": 5651345,
           "tag": "单机游戏"
         },
         {
           "rank": 11,
           "title": "拍铃铛四人版~",
           "url": "https://www.bilibili.com/video/BV13eMk6bESU",
-          "hot": 1041699,
+          "hot": 1043917,
           "tag": "搞笑"
         },
         {
           "rank": 12,
           "title": "“这照片是你吗”",
           "url": "https://www.bilibili.com/video/BV1S5Mr6pEgE",
-          "hot": 829102,
+          "hot": 831028,
           "tag": "综合"
         },
         {
           "rank": 13,
           "title": "卢本伟的打牌日记3|巴旦木公主请“开”牌",
           "url": "https://www.bilibili.com/video/BV1ZFuP6wEPW",
-          "hot": 1389654,
+          "hot": 1390611,
           "tag": "桌游棋牌"
         },
         {
           "rank": 14,
           "title": "看完7月新番，我走火入魔！浑身燥热！【泛式】",
           "url": "https://www.bilibili.com/video/BV1tcMy6fEEU",
-          "hot": 986897,
+          "hot": 987592,
           "tag": "动漫杂谈"
         },
         {
           "rank": 15,
           "title": "抓小三，但超燃上海话",
           "url": "https://www.bilibili.com/video/BV1GLM16uEf6",
-          "hot": 1719347,
+          "hot": 1721355,
           "tag": "小剧场"
         },
         {
           "rank": 16,
           "title": "赢出定义，我即定义｜烽火职业联赛夏季赛宣传片",
           "url": "https://www.bilibili.com/video/BV1MEMr6DEu3",
-          "hot": 1587972,
+          "hot": 1589077,
           "tag": "电子竞技"
         },
         {
           "rank": 17,
           "title": "哥哥升入高三后离奇去世，这所无人毕业的高中到底藏了什么？",
           "url": "https://www.bilibili.com/video/BV1pAMB6PEv3",
-          "hot": 1747100,
+          "hot": 1749082,
           "tag": "单机游戏"
         },
         {
           "rank": 18,
           "title": "生活中最阴的概念神实力排行（2）",
           "url": "https://www.bilibili.com/video/BV1LcMr6AESQ",
-          "hot": 1846479,
+          "hot": 1851538,
           "tag": "特摄"
         },
         {
           "rank": 19,
           "title": "老师：逼疯我，就你这题足以…【小学生作业】",
           "url": "https://www.bilibili.com/video/BV1oA3t6PEAK",
-          "hot": 787734,
+          "hot": 789782,
           "tag": "搞笑"
         },
         {
           "rank": 20,
           "title": "本想简单吃个见手青小炒，却被云南厨师火焰魔法吓晕了...",
           "url": "https://www.bilibili.com/video/BV1e8Mk6wEWZ",
-          "hot": 1002319,
+          "hot": 1004179,
           "tag": "美食侦探"
         },
         {
           "rank": 21,
           "title": "沉浸在自己的艺术中无法自拔",
           "url": "https://www.bilibili.com/video/BV1K63f6gEcr",
-          "hot": 761054,
+          "hot": 763308,
           "tag": "绘画"
         },
         {
           "rank": 22,
           "title": "速通第一VS绿袍尊者",
           "url": "https://www.bilibili.com/video/BV1TgMZ6cEdL",
-          "hot": 908592,
+          "hot": 910784,
           "tag": "单机游戏"
         },
         {
           "rank": 23,
           "title": "当和你一起玩的那个兄弟延迟过高：",
           "url": "https://www.bilibili.com/video/BV1JQuc6fEsA",
-          "hot": 2161362,
+          "hot": 2164754,
           "tag": "单机游戏"
         },
         {
           "rank": 24,
           "title": "太卷了！改变视频行业的AI又迭代了什么？",
           "url": "https://www.bilibili.com/video/BV1teuc63E6D",
-          "hot": 1203726,
+          "hot": 1204367,
           "tag": "数码"
         },
         {
           "rank": 25,
           "title": "大家还想看我搬空什么店",
           "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
-          "hot": 7604018,
+          "hot": 7605477,
           "tag": "搞笑"
         },
         {
@@ -844,32 +844,32 @@
           "rank": 27,
           "title": "尝试打的比最菜的2个还要菜，结果当初就被逮捕了",
           "url": "https://www.bilibili.com/video/BV1muM26wEvk",
-          "hot": 441890,
+          "hot": 442872,
           "tag": "单机游戏"
         },
         {
           "rank": 28,
           "title": "5位本科生vs5位研究生\"电竞大赛\"！谁能获胜！？",
           "url": "https://www.bilibili.com/video/BV1HXMk6jESk",
-          "hot": 455337,
+          "hot": 455886,
           "tag": "单机游戏"
         },
         {
           "rank": 29,
           "title": "一朝悟道见真我，何惧昔日旧加锁",
           "url": "https://www.bilibili.com/video/BV1FDMB6wEt5",
-          "hot": 1092939,
+          "hot": 1093491,
           "tag": "汽车生活"
         },
         {
           "rank": 30,
           "title": "孤身骑行穿越罗布泊失联，2009妙淡罗布泊失踪事件",
           "url": "https://www.bilibili.com/video/BV152Mr6aEum",
-          "hot": 796256,
+          "hot": 796923,
           "tag": "影视杂谈"
         }
       ],
-      "updated": "2026-08-06T15:00:28.883954+08:00"
+      "updated": "2026-08-06T15:01:39.056523+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1085,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-06T15:00:40.981517+08:00"
+      "updated": "2026-08-06T15:01:44.753891+08:00"
     }
   ]
 }
