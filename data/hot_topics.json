@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-09 23:00:37",
+  "update_time": "2026-08-09 23:01:42",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,13 +26,6 @@
           "tag": ""
         },
         {
-          "rank": 2,
-          "title": "张凌赫座驾阿维塔07L上市",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BA%A7%E9%A9%BE%E9%98%BF%E7%BB%B4%E5%A1%9407L%E4%B8%8A%E5%B8%82",
-          "hot": 0,
-          "tag": ""
-        },
-        {
           "rank": 3,
           "title": "沈腾 影帝",
           "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D",
@@ -55,8 +48,8 @@
         },
         {
           "rank": 5,
-          "title": "伯爵熠眼心动",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%AF%E7%88%B5%E7%86%A0%E7%9C%BC%E5%BF%83%E5%8A%A8",
+          "title": "任嘉伦终于来泰国了",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%E7%BB%88%E4%BA%8E%E6%9D%A5%E6%B3%B0%E5%9B%BD%E4%BA%86",
           "hot": 0,
           "tag": ""
         },
@@ -132,36 +125,36 @@
         },
         {
           "rank": 16,
+          "title": "白海豚提前登陆",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 17,
           "title": "耳机左右耳电量未解之谜",
           "url": "https://s.weibo.com/weibo?q=%E8%80%B3%E6%9C%BA%E5%B7%A6%E5%8F%B3%E8%80%B3%E7%94%B5%E9%87%8F%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 17,
+          "rank": 18,
           "title": "伊朗婉转回应最高领袖病危传闻",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%A9%89%E8%BD%AC%E5%9B%9E%E5%BA%94%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%97%85%E5%8D%B1%E4%BC%A0%E9%97%BB",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 18,
+          "rank": 19,
           "title": "白海豚 居家办公",
           "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%20%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 19,
+          "rank": 20,
           "title": "4.2平卫生间补漏注胶花1.55万",
           "url": "https://s.weibo.com/weibo?q=4.2%E5%B9%B3%E5%8D%AB%E7%94%9F%E9%97%B4%E8%A1%A5%E6%BC%8F%E6%B3%A8%E8%83%B6%E8%8A%B11.55%E4%B8%87",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 20,
-          "title": "白海豚提前登陆",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86",
           "hot": 0,
           "tag": ""
         },
@@ -213,20 +206,27 @@
           "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%A0%E9%A2%9C%E9%A6%99%E6%B8%AFplog",
           "hot": 0,
           "tag": ""
+        },
+        {
+          "rank": 28,
+          "title": "张凌赫直播",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9B%B4%E6%92%AD",
+          "hot": 0,
+          "tag": ""
         }
       ],
-      "updated": "2026-08-09T23:00:11.731758+08:00"
+      "updated": "2026-08-09T23:01:13.862134+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [],
-      "updated": "2026-08-09T23:00:26.840256+08:00",
+      "updated": "2026-08-09T23:01:31.084314+08:00",
       "error": "所有渠道均失败"
     },
     {
       "name": "百度热搜",
       "items": [],
-      "updated": "2026-08-09T23:00:31.212726+08:00",
+      "updated": "2026-08-09T23:01:36.347482+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -443,7 +443,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-09T23:00:32.779666+08:00"
+      "updated": "2026-08-09T23:01:37.436908+08:00"
     },
     {
       "name": "B站热门",
@@ -452,14 +452,14 @@
           "rank": 1,
           "title": "【TF家族练习生】《突围II破局》EP07：破局（下）",
           "url": "https://www.bilibili.com/video/BV1CWum6eEmZ",
-          "hot": 956921,
+          "hot": 958777,
           "tag": "明星综合"
         },
         {
           "rank": 2,
           "title": "王从天降",
           "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
-          "hot": 5002256,
+          "hot": 5005886,
           "tag": "电子竞技"
         },
         {
@@ -473,140 +473,140 @@
           "rank": 4,
           "title": "【独家】牧神记 第95集 皇帝“驾崩”",
           "url": "https://www.bilibili.com/video/BV1dSuM6VERb",
-          "hot": 2063395,
+          "hot": 2065236,
           "tag": "国产动画"
         },
         {
           "rank": 5,
           "title": "四代同框",
           "url": "https://www.bilibili.com/video/BV1Bqum6dET6",
-          "hot": 585411,
+          "hot": 587741,
           "tag": "小剧场"
         },
         {
           "rank": 6,
           "title": "【大鸣王潮1566】致最爱的轮椅",
           "url": "https://www.bilibili.com/video/BV1syu26wEJS",
-          "hot": 136961,
+          "hot": 137741,
           "tag": "同人·手书"
         },
         {
           "rank": 7,
           "title": "直到梨诺变成一个败犬",
           "url": "https://www.bilibili.com/video/BV1Rouy65E2L",
-          "hot": 363110,
+          "hot": 363658,
           "tag": "同人·手书"
         },
         {
           "rank": 8,
           "title": "大润发超市1000款食品大测评，究竟谁才是低卡美食？",
           "url": "https://www.bilibili.com/video/BV12wuj6EEtu",
-          "hot": 411019,
+          "hot": 413155,
           "tag": "美食测评"
         },
         {
           "rank": 9,
           "title": "在贵州按猪遇见羡慕的婚礼",
           "url": "https://www.bilibili.com/video/BV1Bbun6jEaJ",
-          "hot": 3030408,
+          "hot": 3031693,
           "tag": "日常"
         },
         {
           "rank": 10,
           "title": "《光与夜之恋》全新活动PV：金港往事",
           "url": "https://www.bilibili.com/video/BV1Btuu67EA2",
-          "hot": 1227350,
+          "hot": 1227453,
           "tag": "手机游戏"
         },
         {
           "rank": 11,
           "title": "【独家】《记忆管理局》第4集 燃灯与灰火【8月国创】",
           "url": "https://www.bilibili.com/video/BV1FdMk65EY2",
-          "hot": 631074,
+          "hot": 631574,
           "tag": "国产动画"
         },
         {
           "rank": 12,
           "title": "发烧梗",
           "url": "https://www.bilibili.com/video/BV1Unub69EpX",
-          "hot": 3499291,
+          "hot": 3499931,
           "tag": "单机游戏"
         },
         {
           "rank": 13,
           "title": "评分8.7！我们奥特曼有救啦！提欧奥特曼开播吐槽！",
           "url": "https://www.bilibili.com/video/BV1Cnu16ZEnP",
-          "hot": 351198,
+          "hot": 352688,
           "tag": "特摄"
         },
         {
           "rank": 14,
           "title": "😨\"后室里的乌鲁鲁\"😰",
           "url": "https://www.bilibili.com/video/BV1YYuN6tEWC",
-          "hot": 1953868,
+          "hot": 1954551,
           "tag": "影视剪辑"
         },
         {
           "rank": 15,
           "title": "👊一 拳 超 人👊",
           "url": "https://www.bilibili.com/video/BV19Fu365EqG",
-          "hot": 959557,
+          "hot": 960875,
           "tag": "鬼畜调教"
         },
         {
           "rank": 16,
           "title": "假如你是小馒头",
           "url": "https://www.bilibili.com/video/BV1XJMm6VEHC",
-          "hot": 3215390,
+          "hot": 3216826,
           "tag": "软件应用"
         },
         {
           "rank": 17,
           "title": "球球了，我平时好像不长这样啊啊！！",
           "url": "https://www.bilibili.com/video/BV1EVu26pEj3",
-          "hot": 1989807,
+          "hot": 1993314,
           "tag": "影视剪辑"
         },
         {
           "rank": 18,
           "title": "最虚构的一集",
           "url": "https://www.bilibili.com/video/BV1sZu36vEeP",
-          "hot": 1727322,
+          "hot": 1728801,
           "tag": "搞笑"
         },
         {
           "rank": 19,
           "title": "【三角洲】零号大坝1-11藏宝图/宝藏箱所有位置 保姆级教学 全程贴心领跑",
           "url": "https://www.bilibili.com/video/BV1EwuK6BEir",
-          "hot": 1724266,
+          "hot": 1725437,
           "tag": "网络游戏"
         },
         {
           "rank": 20,
           "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
           "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
-          "hot": 4229863,
+          "hot": 4231232,
           "tag": "出行"
         },
         {
           "rank": 21,
           "title": "哈哈哈哈哈哈哈！！！",
           "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
-          "hot": 3042649,
+          "hot": 3043751,
           "tag": "亲子"
         },
         {
           "rank": 22,
           "title": "【2026LPL第三赛段】8月9日 IG vs LNG",
           "url": "https://www.bilibili.com/video/BV1cyuy6WEvF",
-          "hot": 628214,
+          "hot": 629687,
           "tag": "电子竞技"
         },
         {
           "rank": 23,
           "title": "三年之期已到，恭迎世一上归位！",
           "url": "https://www.bilibili.com/video/BV1dvu36nEzG",
-          "hot": 1229783,
+          "hot": 1231132,
           "tag": "电子竞技"
         },
         {
@@ -620,7 +620,7 @@
           "rank": 25,
           "title": "这下没人比我更苟了",
           "url": "https://www.bilibili.com/video/BV1qRuy62EXk",
-          "hot": 181803,
+          "hot": 182023,
           "tag": "鬼畜调教"
         },
         {
@@ -641,25 +641,25 @@
           "rank": 28,
           "title": "在东方明珠玩100人躲猫猫！奖金10万元",
           "url": "https://www.bilibili.com/video/BV1ocu46fE1z",
-          "hot": 5027524,
+          "hot": 5028547,
           "tag": "日常"
         },
         {
           "rank": 29,
           "title": "新篇章 | 《穿越火线：潜伏》CF IP嘉年华发布现场",
           "url": "https://www.bilibili.com/video/BV1eCuV6XEga",
-          "hot": 896691,
+          "hot": 898902,
           "tag": "单机游戏"
         },
         {
           "rank": 30,
           "title": "《无期迷途》过场动画 | 降临之时【4K/60帧】",
           "url": "https://www.bilibili.com/video/BV17Quy6UEiG",
-          "hot": 670531,
+          "hot": 672992,
           "tag": "手机游戏"
         }
       ],
-      "updated": "2026-08-09T23:00:33.472017+08:00"
+      "updated": "2026-08-09T23:01:38.290072+08:00"
     },
     {
       "name": "IT之家",
@@ -875,7 +875,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-09T23:00:37.710547+08:00"
+      "updated": "2026-08-09T23:01:42.104479+08:00"
     }
   ]
 }
