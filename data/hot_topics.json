@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-12 23:00:38",
+  "update_time": "2026-08-12 23:01:44",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,13 +26,6 @@
           "tag": ""
         },
         {
-          "rank": 2,
-          "title": "B级满配家轿海豹06上市9.99万起",
-          "url": "https://s.weibo.com/weibo?q=B%E7%BA%A7%E6%BB%A1%E9%85%8D%E5%AE%B6%E8%BD%BF%E6%B5%B7%E8%B1%B906%E4%B8%8A%E5%B8%829.99%E4%B8%87%E8%B5%B7",
-          "hot": 0,
-          "tag": ""
-        },
-        {
           "rank": 3,
           "title": "英仙座流星雨",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8",
@@ -41,8 +34,8 @@
         },
         {
           "rank": 4,
-          "title": "喜欢穿洞洞鞋的人天塌了",
-          "url": "https://s.weibo.com/weibo?q=%E5%96%9C%E6%AC%A2%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86",
+          "title": "湖人售价120亿美元",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83",
           "hot": 0,
           "tag": ""
         },
@@ -54,9 +47,16 @@
           "tag": ""
         },
         {
+          "rank": 5,
+          "title": "188男团赴山海收藏卡红线宿命论",
+          "url": "https://s.weibo.com/weibo?q=188%E7%94%B7%E5%9B%A2%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%94%B6%E8%97%8F%E5%8D%A1%E7%BA%A2%E7%BA%BF%E5%AE%BF%E5%91%BD%E8%AE%BA",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 6,
-          "title": "湖人售价120亿美元",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "title": "喜欢穿洞洞鞋的人天塌了",
+          "url": "https://s.weibo.com/weibo?q=%E5%96%9C%E6%AC%A2%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86",
           "hot": 0,
           "tag": ""
         },
@@ -90,8 +90,8 @@
         },
         {
           "rank": 11,
-          "title": "流星雨 许愿",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%81%E6%98%9F%E9%9B%A8%20%E8%AE%B8%E6%84%BF",
+          "title": "日全食",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%85%A8%E9%A3%9F",
           "hot": 0,
           "tag": ""
         },
@@ -111,8 +111,8 @@
         },
         {
           "rank": 14,
-          "title": "日全食",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%85%A8%E9%A3%9F",
+          "title": "流星雨 许愿",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%81%E6%98%9F%E9%9B%A8%20%E8%AE%B8%E6%84%BF",
           "hot": 0,
           "tag": ""
         },
@@ -215,18 +215,18 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-12T23:00:13.573705+08:00"
+      "updated": "2026-08-12T23:01:16.615082+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [],
-      "updated": "2026-08-12T23:00:18.120929+08:00",
+      "updated": "2026-08-12T23:01:24.394337+08:00",
       "error": "所有渠道均失败"
     },
     {
       "name": "百度热搜",
       "items": [],
-      "updated": "2026-08-12T23:00:32.287300+08:00",
+      "updated": "2026-08-12T23:01:38.874925+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -443,7 +443,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-12T23:00:33.309513+08:00"
+      "updated": "2026-08-12T23:01:39.838086+08:00"
     },
     {
       "name": "B站热门",
@@ -452,112 +452,112 @@
           "rank": 1,
           "title": "《顽童戏老叟》",
           "url": "https://www.bilibili.com/video/BV1EAuk6CEfw",
-          "hot": 3588166,
+          "hot": 3595611,
           "tag": "搞笑"
         },
         {
           "rank": 2,
           "title": "《影之刃零》预购开启，11分钟实机预告公开",
           "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
-          "hot": 4926606,
+          "hot": 4933591,
           "tag": "单机游戏"
         },
         {
           "rank": 3,
           "title": "百米赛道高难度闯关、只有上过的才知道含金量有多高！",
           "url": "https://www.bilibili.com/video/BV1G2uo66E2J",
-          "hot": 2185538,
+          "hot": 2189840,
           "tag": "运动文化"
         },
         {
           "rank": 4,
           "title": "血糖真相：高血糖是如何钝刀割肉，腐蚀数亿人的血管和神经的？",
           "url": "https://www.bilibili.com/video/BV1jPgG6xEJw",
-          "hot": 328750,
+          "hot": 329313,
           "tag": "科学科普"
         },
         {
           "rank": 5,
           "title": "这视频等了五年！",
           "url": "https://www.bilibili.com/video/BV17WgV6hEdX",
-          "hot": 674371,
+          "hot": 677952,
           "tag": "亲子"
         },
         {
           "rank": 6,
           "title": "2026和平精英刺激之夜完整高清回放",
           "url": "https://www.bilibili.com/video/BV1ffuU6bEHj",
-          "hot": 9303159,
+          "hot": 9306424,
           "tag": "网络游戏"
         },
         {
           "rank": 7,
           "title": "【TF家族练习生】《突围II破局》EP07：加更",
           "url": "https://www.bilibili.com/video/BV1PYg56VEE2",
-          "hot": 639965,
+          "hot": 641588,
           "tag": "明星综合"
         },
         {
           "rank": 8,
           "title": "船新版本新宝岛！这个联动怎么说？",
           "url": "https://www.bilibili.com/video/BV1mJuB6jEDj",
-          "hot": 2946430,
+          "hot": 2950472,
           "tag": "舞蹈综合"
         },
         {
           "rank": 9,
           "title": "我们造了1000颗流星！！！",
           "url": "https://www.bilibili.com/video/BV1qeuC63EPE",
-          "hot": 404527,
+          "hot": 404828,
           "tag": "极客DIY"
         },
         {
           "rank": 10,
           "title": "全程随意发挥挑战，感到尴尬奖励1000",
           "url": "https://www.bilibili.com/video/BV17Tu966EXs",
-          "hot": 1887665,
+          "hot": 1888574,
           "tag": "搞笑"
         },
         {
           "rank": 11,
           "title": "⚡泥 肘⚡",
           "url": "https://www.bilibili.com/video/BV1TiuZ6TEQw",
-          "hot": 3427493,
+          "hot": 3429682,
           "tag": "鬼畜调教"
         },
         {
           "rank": 12,
           "title": "【咒术回战IF】高羽史彦:你觉得未来的英雄来救场会搞笑吗？【B萌应援】",
           "url": "https://www.bilibili.com/video/BV16Tuv6oEqz",
-          "hot": 2060021,
+          "hot": 2061314,
           "tag": "MAD·AMV"
         },
         {
           "rank": 13,
           "title": "诺兰2.5亿巨制！看懂奥德赛",
           "url": "https://www.bilibili.com/video/BV1qnuq6dEga",
-          "hot": 1375311,
+          "hot": 1376649,
           "tag": "影视杂谈"
         },
         {
           "rank": 14,
           "title": "「直到大地变成一颗烂苹果！！」",
           "url": "https://www.bilibili.com/video/BV1XXu66hEfT",
-          "hot": 353443,
+          "hot": 354490,
           "tag": "手机游戏"
         },
         {
           "rank": 15,
           "title": "这不是黑历史…是23年 我奋斗的开始…差点gg也得拍视频",
           "url": "https://www.bilibili.com/video/BV1qVuv6XEBd",
-          "hot": 2071051,
+          "hot": 2072564,
           "tag": "小剧场"
         },
         {
           "rank": 16,
           "title": "这些散落在不同作品里的日系旋律，早已不止是耳边流淌的曲调。",
           "url": "https://www.bilibili.com/video/BV1rguq6YEes",
-          "hot": 1194842,
+          "hot": 1196577,
           "tag": "乐评盘点"
         },
         {
@@ -571,49 +571,49 @@
           "rank": 18,
           "title": "第一印象：毁掉一个人，为什么只需要0.1秒？",
           "url": "https://www.bilibili.com/video/BV1q7uq6fEZ7",
-          "hot": 2841032,
+          "hot": 2842056,
           "tag": "科学科普"
         },
         {
           "rank": 19,
           "title": "台风大暴雨差点噶进去",
           "url": "https://www.bilibili.com/video/BV18jgG6jEq6",
-          "hot": 342605,
+          "hot": 344095,
           "tag": "田园美食"
         },
         {
           "rank": 20,
           "title": "《影之刃零》：甄子丹？就这？【印象】",
           "url": "https://www.bilibili.com/video/BV171gG64EHq",
-          "hot": 581710,
+          "hot": 583044,
           "tag": "单机游戏"
         },
         {
           "rank": 21,
           "title": "预制奖，名利场，大众电影百花奖，大众不发音。",
           "url": "https://www.bilibili.com/video/BV1Zuuy67Ef1",
-          "hot": 909188,
+          "hot": 911202,
           "tag": "娱乐杂谈"
         },
         {
           "rank": 22,
           "title": "《英文最差の一集》",
           "url": "https://www.bilibili.com/video/BV1p5u86mECB",
-          "hot": 4916334,
+          "hot": 4917439,
           "tag": "搞笑"
         },
         {
           "rank": 23,
           "title": "飞龙在天！",
           "url": "https://www.bilibili.com/video/BV16Quv6oEfF",
-          "hot": 576822,
+          "hot": 577915,
           "tag": "网络游戏"
         },
         {
           "rank": 24,
           "title": "🐧当你打游戏时父母进你房间蹭空调🐧",
           "url": "https://www.bilibili.com/video/BV1nngV6YEzr",
-          "hot": 429314,
+          "hot": 431900,
           "tag": "娱乐粉丝创作"
         },
         {
@@ -627,39 +627,39 @@
           "rank": 26,
           "title": "「妄想天使」全新企划《天使导览》第一期",
           "url": "https://www.bilibili.com/video/BV1x9uC6tEgF",
-          "hot": 540672,
+          "hot": 541278,
           "tag": "综合"
         },
         {
           "rank": 27,
           "title": "为纪念逝去的小狗创作的歌曲，却戳中无数人的内心，火了二十多年",
           "url": "https://www.bilibili.com/video/BV16ku961ESq",
-          "hot": 1091967,
+          "hot": 1093896,
           "tag": "乐评盘点"
         },
         {
           "rank": 28,
           "title": "四菜一汤，送到堑壕！",
           "url": "https://www.bilibili.com/video/BV1xUuz6LE5z",
-          "hot": 1018699,
+          "hot": 1019783,
           "tag": "科工机械"
         },
         {
           "rank": 29,
           "title": "恶心套路？情绪共振！细节夯爆！观众比男主先爱上女主！《花开锦绣》",
           "url": "https://www.bilibili.com/video/BV1mwuz62EPy",
-          "hot": 2549277,
+          "hot": 2550899,
           "tag": "影视杂谈"
         },
         {
           "rank": 30,
           "title": "长着云台的手机？荣耀Robot Phone上手",
           "url": "https://www.bilibili.com/video/BV1UKgL6SEyA",
-          "hot": 281445,
+          "hot": 282724,
           "tag": "数码"
         }
       ],
-      "updated": "2026-08-12T23:00:33.945393+08:00"
+      "updated": "2026-08-12T23:01:40.428223+08:00"
     },
     {
       "name": "IT之家",
@@ -875,7 +875,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-12T23:00:38.091517+08:00"
+      "updated": "2026-08-12T23:01:44.327271+08:00"
     }
   ]
 }
