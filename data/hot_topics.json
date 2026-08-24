@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-24 15:00:47",
+  "update_time": "2026-08-24 15:01:36",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,6 +26,13 @@
           "tag": ""
         },
         {
+          "rank": 2,
+          "title": "支付宝答题全国统考正式开始",
+          "url": "https://s.weibo.com/weibo?q=%E6%94%AF%E4%BB%98%E5%AE%9D%E7%AD%94%E9%A2%98%E5%85%A8%E5%9B%BD%E7%BB%9F%E8%80%83%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 3,
           "title": "韩沛颖向刘浩存道歉",
           "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E6%B2%9B%E9%A2%96%E5%90%91%E5%88%98%E6%B5%A9%E5%AD%98%E9%81%93%E6%AD%89",
@@ -41,29 +48,29 @@
         },
         {
           "rank": 5,
-          "title": "王以太被披哥工作人员吐槽",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BB%A5%E5%A4%AA%E8%A2%AB%E6%8A%AB%E5%93%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%90%90%E6%A7%BD",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "淘宝天猫服饰品牌大使娜扎",
-          "url": "https://s.weibo.com/weibo?q=%E6%B7%98%E5%AE%9D%E5%A4%A9%E7%8C%AB%E6%9C%8D%E9%A5%B0%E5%93%81%E7%89%8C%E5%A4%A7%E4%BD%BF%E5%A8%9C%E6%89%8E",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 6,
           "title": "广西洪水",
           "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "在微博过暑假",
+          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E5%BE%AE%E5%8D%9A%E8%BF%87%E6%9A%91%E5%81%87",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 6,
           "title": "央视曝光隔空猥亵",
           "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "title": "王以太被披哥工作人员吐槽",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BB%A5%E5%A4%AA%E8%A2%AB%E6%8A%AB%E5%93%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%90%90%E6%A7%BD",
           "hot": 0,
           "tag": ""
         },
@@ -206,21 +213,14 @@
           "url": "https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E7%A7%B0%E6%89%B6%E8%80%81%E4%BA%BA%E5%8D%8F%E5%95%86%E8%B5%94%E9%92%B1%E6%98%AF%E5%92%8C%E7%A8%80%E6%B3%A5",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "A股半日放量1177亿调整",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%8D%8A%E6%97%A5%E6%94%BE%E9%87%8F1177%E4%BA%BF%E8%B0%83%E6%95%B4",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-08-24T15:00:11.761154+08:00"
+      "updated": "2026-08-24T15:01:14.499773+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [],
-      "updated": "2026-08-24T15:00:29.844578+08:00",
+      "updated": "2026-08-24T15:01:27.167239+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -437,7 +437,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-24T15:00:32.598119+08:00"
+      "updated": "2026-08-24T15:01:30.751124+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +653,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-24T15:00:34.064045+08:00"
+      "updated": "2026-08-24T15:01:32.017115+08:00"
     },
     {
       "name": "B站热门",
@@ -662,14 +662,14 @@
           "rank": 1,
           "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
           "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
-          "hot": 1534997,
+          "hot": 1538118,
           "tag": "国产原创相关"
         },
         {
           "rank": 2,
           "title": "\"复活吧！我的（ ）\"",
           "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-          "hot": 5954432,
+          "hot": 5955529,
           "tag": "网络游戏"
         },
         {
@@ -683,49 +683,49 @@
           "rank": 4,
           "title": "以色列狠狠压力美国",
           "url": "https://www.bilibili.com/video/BV1rg8Y6zET2",
-          "hot": 446194,
+          "hot": 447297,
           "tag": "人文历史"
         },
         {
           "rank": 5,
           "title": "严肃观看儿子的历史记录",
           "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-          "hot": 3523056,
+          "hot": 3524298,
           "tag": "搞笑"
         },
         {
           "rank": 6,
           "title": "【纪录片TV】大乾乾被撞成两半了……",
           "url": "https://www.bilibili.com/video/BV1db8x6VE73",
-          "hot": 3412018,
+          "hot": 3413100,
           "tag": "小剧场"
         },
         {
           "rank": 7,
           "title": "原创民俗AI短片《槐灯》",
           "url": "https://www.bilibili.com/video/BV15B8z61EbV",
-          "hot": 1153652,
+          "hot": 1155066,
           "tag": "短片"
         },
         {
           "rank": 8,
           "title": "警员执法遇F-18战机坠落，6700万战损，飞行员报警求助！",
           "url": "https://www.bilibili.com/video/BV1P38x6dET4",
-          "hot": 1002775,
+          "hot": 1003976,
           "tag": "日常"
         },
         {
           "rank": 9,
           "title": "Attention 注意别喝多",
           "url": "https://www.bilibili.com/video/BV11S826nE2Z",
-          "hot": 1174595,
+          "hot": 1176863,
           "tag": "原创音乐"
         },
         {
           "rank": 10,
           "title": "我做了两个一模一样的视频，你被分配到的是——真人手搓版",
           "url": "https://www.bilibili.com/video/BV1tA8U68ESF",
-          "hot": 935463,
+          "hot": 936806,
           "tag": "搞笑"
         },
         {
@@ -739,42 +739,42 @@
           "rank": 12,
           "title": "《一个人坐车害怕》",
           "url": "https://www.bilibili.com/video/BV1XM816bECa",
-          "hot": 1354535,
+          "hot": 1355536,
           "tag": "搞笑"
         },
         {
           "rank": 13,
           "title": "放弃一切，只为等你",
           "url": "https://www.bilibili.com/video/BV1f38b6pE5x",
-          "hot": 488138,
+          "hot": 489468,
           "tag": "搞笑"
         },
         {
           "rank": 14,
           "title": "僵 尸 进 村",
           "url": "https://www.bilibili.com/video/BV15v8x6gEjN",
-          "hot": 546312,
+          "hot": 549060,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 15,
           "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
           "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
-          "hot": 2539497,
+          "hot": 2545131,
           "tag": "手机游戏"
         },
         {
           "rank": 16,
           "title": "抽象新闻：8月人类迷惑行为大赏（上）",
           "url": "https://www.bilibili.com/video/BV1CW8C66E5r",
-          "hot": 1328432,
+          "hot": 1329136,
           "tag": "搞笑"
         },
         {
           "rank": 17,
           "title": "电影里的纽约vs真实的纽约",
           "url": "https://www.bilibili.com/video/BV1Nv8B6ZEj9",
-          "hot": 1042003,
+          "hot": 1042978,
           "tag": "出行"
         },
         {
@@ -788,14 +788,14 @@
           "rank": 19,
           "title": "《未定事件簿》「心乐未名」音乐会官方完整版",
           "url": "https://www.bilibili.com/video/BV1nE826rEJ4",
-          "hot": 189116,
+          "hot": 189421,
           "tag": "音乐现场"
         },
         {
           "rank": 20,
           "title": "神坛之下06｜金碧妖庭歌舞盛，觥筹交错人为宴！",
           "url": "https://www.bilibili.com/video/BV1j38B65ERd",
-          "hot": 1136610,
+          "hot": 1137320,
           "tag": "影视剪辑"
         },
         {
@@ -816,21 +816,21 @@
           "rank": 23,
           "title": "我收容了100位粉丝到我的一辈子存档里！",
           "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-          "hot": 5327597,
+          "hot": 5328531,
           "tag": "单机游戏"
         },
         {
           "rank": 24,
           "title": "当全世界都知道你10天后成为超人1-29集超长合集爽看",
           "url": "https://www.bilibili.com/video/BV1RT8s6zEEY",
-          "hot": 587190,
+          "hot": 587926,
           "tag": "日常"
         },
         {
           "rank": 25,
           "title": "浑身难受",
           "url": "https://www.bilibili.com/video/BV1Dk8t6GEpF",
-          "hot": 729797,
+          "hot": 730688,
           "tag": "小剧场"
         },
         {
@@ -844,14 +844,14 @@
           "rank": 27,
           "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
           "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
-          "hot": 2214567,
+          "hot": 2215188,
           "tag": "日常"
         },
         {
           "rank": 28,
           "title": "李信的评分感觉又回去了，只要活着就会加分",
           "url": "https://www.bilibili.com/video/BV1vH8h6WEtF",
-          "hot": 359572,
+          "hot": 360504,
           "tag": "单机游戏"
         },
         {
@@ -869,7 +869,7 @@
           "tag": "搞笑"
         }
       ],
-      "updated": "2026-08-24T15:00:34.933934+08:00"
+      "updated": "2026-08-24T15:01:32.699731+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1085,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-08-24T15:00:47.521328+08:00"
+      "updated": "2026-08-24T15:01:36.291672+08:00"
     }
   ]
 }
