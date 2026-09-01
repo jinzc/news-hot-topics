@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-01 08:58:32",
+  "update_time": "2026-09-01 09:01:09",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,6 +26,13 @@
           "tag": ""
         },
         {
+          "rank": 2,
+          "title": "舞蹈新风暴封神瞬间",
+          "url": "https://s.weibo.com/weibo?q=%E8%88%9E%E8%B9%88%E6%96%B0%E9%A3%8E%E6%9A%B4%E5%B0%81%E7%A5%9E%E7%9E%AC%E9%97%B4",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 3,
           "title": "美国炸鸡巨头中国首店开业",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%82%B8%E9%B8%A1%E5%B7%A8%E5%A4%B4%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%BA%97%E5%BC%80%E4%B8%9A",
@@ -48,8 +55,8 @@
         },
         {
           "rank": 5,
-          "title": "王一博云南白药牙膏全球品牌代言人",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%91%E5%8D%97%E7%99%BD%E8%8D%AF%E7%89%99%E8%86%8F%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
+          "title": "开学健康第一课",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%AD%A6%E5%81%A5%E5%BA%B7%E7%AC%AC%E4%B8%80%E8%AF%BE",
           "hot": 0,
           "tag": ""
         },
@@ -153,22 +160,22 @@
         },
         {
           "rank": 20,
-          "title": "包贝尔导包文婧主演新剧38万人预约",
-          "url": "https://s.weibo.com/weibo?q=%E5%8C%85%E8%B4%9D%E5%B0%94%E5%AF%BC%E5%8C%85%E6%96%87%E5%A9%A7%E4%B8%BB%E6%BC%94%E6%96%B0%E5%89%A738%E4%B8%87%E4%BA%BA%E9%A2%84%E7%BA%A6",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 21,
           "title": "子宫状态好的人经期有5个特点",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%90%E5%AE%AB%E7%8A%B6%E6%80%81%E5%A5%BD%E7%9A%84%E4%BA%BA%E7%BB%8F%E6%9C%9F%E6%9C%895%E4%B8%AA%E7%89%B9%E7%82%B9",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 22,
+          "rank": 21,
           "title": "两小时演唱会休息了80分钟",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%B0%8F%E6%97%B6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%91%E6%81%AF%E4%BA%8680%E5%88%86%E9%92%9F",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 22,
+          "title": "包贝尔导包文婧主演新剧38万人预约",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%85%E8%B4%9D%E5%B0%94%E5%AF%BC%E5%8C%85%E6%96%87%E5%A9%A7%E4%B8%BB%E6%BC%94%E6%96%B0%E5%89%A738%E4%B8%87%E4%BA%BA%E9%A2%84%E7%BA%A6",
           "hot": 0,
           "tag": ""
         },
@@ -206,21 +213,14 @@
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E8%88%AA%E6%AF%8D%E5%81%9C%E9%9D%A0%E5%89%8D%E8%8A%AD%E5%A0%A4%E9%9B%85%E4%B8%A5%E6%89%93%E5%8D%96%E6%B7%AB",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "六大行房贷余额少了5000多亿",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%AD%E5%A4%A7%E8%A1%8C%E6%88%BF%E8%B4%B7%E4%BD%99%E9%A2%9D%E5%B0%91%E4%BA%865000%E5%A4%9A%E4%BA%BF",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-09-01T08:57:54.792666+08:00"
+      "updated": "2026-09-01T09:00:12.672373+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [],
-      "updated": "2026-09-01T08:58:02.066612+08:00",
+      "updated": "2026-09-01T09:00:30.511004+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -256,15 +256,15 @@
         },
         {
           "rank": 5,
-          "title": "台风沙德尔复活",
-          "url": "https://www.baidu.com/s?wd=台风沙德尔复活",
+          "title": "吉隆口岸大楼只剩地基",
+          "url": "https://www.baidu.com/s?wd=吉隆口岸大楼只剩地基",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 6,
-          "title": "库克任苹果CEO最后一天",
-          "url": "https://www.baidu.com/s?wd=库克任苹果CEO最后一天",
+          "title": "华为小米荣耀手机今日集体调价",
+          "url": "https://www.baidu.com/s?wd=华为小米荣耀手机今日集体调价",
           "hot": 0,
           "tag": ""
         },
@@ -277,8 +277,8 @@
         },
         {
           "rank": 8,
-          "title": "郑钦文逆转柳托娃晋级美网次轮",
-          "url": "https://www.baidu.com/s?wd=郑钦文逆转柳托娃晋级美网次轮",
+          "title": "女子被踢845个群被迫离职 当地通报",
+          "url": "https://www.baidu.com/s?wd=女子被踢845个群被迫离职 当地通报",
           "hot": 0,
           "tag": ""
         },
@@ -333,8 +333,8 @@
         },
         {
           "rank": 16,
-          "title": "吉隆口岸大楼只剩地基",
-          "url": "https://www.baidu.com/s?wd=吉隆口岸大楼只剩地基",
+          "title": "小学生赶作业有几种流派",
+          "url": "https://www.baidu.com/s?wd=小学生赶作业有几种流派",
           "hot": 0,
           "tag": ""
         },
@@ -347,8 +347,8 @@
         },
         {
           "rank": 18,
-          "title": "小学生赶作业有几种流派",
-          "url": "https://www.baidu.com/s?wd=小学生赶作业有几种流派",
+          "title": "孙东旭新公司30天年假",
+          "url": "https://www.baidu.com/s?wd=孙东旭新公司30天年假",
           "hot": 0,
           "tag": ""
         },
@@ -361,8 +361,8 @@
         },
         {
           "rank": 20,
-          "title": "华为小米荣耀手机今日集体调价",
-          "url": "https://www.baidu.com/s?wd=华为小米荣耀手机今日集体调价",
+          "title": "折叠屏手机大战9月",
+          "url": "https://www.baidu.com/s?wd=折叠屏手机大战9月",
           "hot": 0,
           "tag": ""
         },
@@ -375,8 +375,8 @@
         },
         {
           "rank": 22,
-          "title": "孙东旭新公司30天年假",
-          "url": "https://www.baidu.com/s?wd=孙东旭新公司30天年假",
+          "title": "小众旅居走向大众",
+          "url": "https://www.baidu.com/s?wd=小众旅居走向大众",
           "hot": 0,
           "tag": ""
         },
@@ -389,36 +389,36 @@
         },
         {
           "rank": 24,
-          "title": "折叠屏手机大战9月",
-          "url": "https://www.baidu.com/s?wd=折叠屏手机大战9月",
+          "title": "六大行房贷余额少了5000多亿",
+          "url": "https://www.baidu.com/s?wd=六大行房贷余额少了5000多亿",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 25,
-          "title": "女子被踢845个群被迫离职 当地通报",
-          "url": "https://www.baidu.com/s?wd=女子被踢845个群被迫离职 当地通报",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 26,
-          "title": "小众旅居走向大众",
-          "url": "https://www.baidu.com/s?wd=小众旅居走向大众",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 27,
           "title": "女子误诊抑郁症治疗3个月暴瘦20斤",
           "url": "https://www.baidu.com/s?wd=女子误诊抑郁症治疗3个月暴瘦20斤",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 28,
+          "rank": 26,
+          "title": "喜马拉雅冰川消融加速65%",
+          "url": "https://www.baidu.com/s?wd=喜马拉雅冰川消融加速65%",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
           "title": "“还我季洁”",
           "url": "https://www.baidu.com/s?wd=“还我季洁”",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 28,
+          "title": "暑期结束 中国游客都去哪玩了",
+          "url": "https://www.baidu.com/s?wd=暑期结束 中国游客都去哪玩了",
           "hot": 0,
           "tag": ""
         },
@@ -431,13 +431,13 @@
         },
         {
           "rank": 30,
-          "title": "六大行房贷余额少了5000多亿",
-          "url": "https://www.baidu.com/s?wd=六大行房贷余额少了5000多亿",
+          "title": "中国铜、金重大找矿成果",
+          "url": "https://www.baidu.com/s?wd=中国铜、金重大找矿成果",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-09-01T08:58:04.552016+08:00"
+      "updated": "2026-09-01T09:00:34.245618+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +653,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-01T08:58:05.727735+08:00"
+      "updated": "2026-09-01T09:00:35.194951+08:00"
     },
     {
       "name": "B站热门",
@@ -662,219 +662,219 @@
           "rank": 1,
           "title": "当我假扮成神秘大佬，去发布会… 结果！！！",
           "url": "https://www.bilibili.com/video/BV1VNth6EEXJ",
-          "hot": 418950,
+          "hot": 419610,
           "tag": "日常"
         },
         {
           "rank": 2,
           "title": "当广告挡住关键时刻，可能就是生死之间",
           "url": "https://www.bilibili.com/video/BV1YNtb66ErA",
-          "hot": 555628,
+          "hot": 560238,
           "tag": "日常"
         },
         {
           "rank": 3,
           "title": "三年之期已到，恭迎世一上归位！【第6集】",
           "url": "https://www.bilibili.com/video/BV1eHt86mErz",
-          "hot": 503028,
+          "hot": 506960,
           "tag": "影视剪辑"
         },
         {
           "rank": 4,
           "title": "李炮儿在李炮儿模仿大赛中获得了第二名",
           "url": "https://www.bilibili.com/video/BV1u4tt6iEvf",
-          "hot": 746128,
+          "hot": 749540,
           "tag": "搞笑"
         },
         {
           "rank": 5,
           "title": "《安心安全 | 安心安全》MV ：日本制造最重视的就是企业形象",
           "url": "https://www.bilibili.com/video/BV1WPt86FETB",
-          "hot": 282895,
+          "hot": 283710,
           "tag": "网络游戏"
         },
         {
           "rank": 6,
           "title": "带精神小妹买衣服，并回复评论区的一些评论",
           "url": "https://www.bilibili.com/video/BV1swt86hE64",
-          "hot": 336957,
+          "hot": 338643,
           "tag": "日常"
         },
         {
           "rank": 7,
           "title": "四千人失踪，尼泊尔终究不放开接受外国援助",
           "url": "https://www.bilibili.com/video/BV15Wt86jEFH",
-          "hot": 438674,
+          "hot": 440151,
           "tag": "社科·法律·心理"
         },
         {
           "rank": 8,
           "title": "漂亮的恶意01|误入充满恶意的顶级财阀校园，川渝转学生表示，她真的只想好好学习！",
           "url": "https://www.bilibili.com/video/BV1Aj4D6UEHB",
-          "hot": 617313,
+          "hot": 619635,
           "tag": "影视剪辑"
         },
         {
           "rank": 9,
           "title": "和龙龙录一次猜英雄。太好玩了",
           "url": "https://www.bilibili.com/video/BV1aTtb6uEZW",
-          "hot": 416417,
+          "hot": 418153,
           "tag": "搞笑"
         },
         {
           "rank": 10,
           "title": "王之告别！梅西退出阿根廷国家队！20年的国家队生涯划上句号！",
           "url": "https://www.bilibili.com/video/BV1Y2th6JE5d",
-          "hot": 183779,
+          "hot": 184998,
           "tag": "足球"
         },
         {
           "rank": 11,
           "title": "网红博主摆拍“公益捡垃圾”后 把成串的瓶子全扔山里",
           "url": "https://www.bilibili.com/video/BV1LutW6aEYo",
-          "hot": 980718,
+          "hot": 982981,
           "tag": "社会"
         },
         {
           "rank": 12,
           "title": "当你穿进老钱班34",
           "url": "https://www.bilibili.com/video/BV1e6tb61ETL",
-          "hot": 887185,
+          "hot": 888031,
           "tag": "小剧场"
         },
         {
           "rank": 13,
           "title": "南方开学 vs 北方开学",
           "url": "https://www.bilibili.com/video/BV1matt6AEqt",
-          "hot": 294829,
+          "hot": 296586,
           "tag": "搞笑"
         },
         {
           "rank": 14,
           "title": "罢黜百官",
           "url": "https://www.bilibili.com/video/BV1mit86ME4z",
-          "hot": 481770,
+          "hot": 482441,
           "tag": "小剧场"
         },
         {
           "rank": 15,
           "title": "华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】",
           "url": "https://www.bilibili.com/video/BV1Hy4k64Erk",
-          "hot": 2492103,
+          "hot": 2493905,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 16,
           "title": "【我在现代当幽差】EP02 神仙？妖怪？谢谢【UP动画】",
           "url": "https://www.bilibili.com/video/BV1xttH6rEKu",
-          "hot": 1457177,
+          "hot": 1458521,
           "tag": "小剧场"
         },
         {
           "rank": 17,
           "title": "一条视频看8月：债务和土地，中美旧账单到期，全世界开始找备选方案【地球村月刊】",
           "url": "https://www.bilibili.com/video/BV1AetW6LEZz",
-          "hot": 850274,
+          "hot": 850878,
           "tag": "财经商业"
         },
         {
           "rank": 18,
           "title": "他，凭什么成为中华民国的国父？【历史调研室105】",
           "url": "https://www.bilibili.com/video/BV1tLth6rE1n",
-          "hot": 352881,
+          "hot": 353635,
           "tag": "人文历史"
         },
         {
           "rank": 19,
           "title": "全程高能！队友接连失踪？活着并逃离这里！！！「逃离疯人院」",
           "url": "https://www.bilibili.com/video/BV1CGtp66EEM",
-          "hot": 793881,
+          "hot": 794555,
           "tag": "单机游戏"
         },
         {
           "rank": 20,
           "title": "《釜山行》2.0？当丧尸学会进化，比人类还团结，我们还能有胜算吗？延尚昊导演科幻惊悚片《群体》",
           "url": "https://www.bilibili.com/video/BV1wUt86FETK",
-          "hot": 264284,
+          "hot": 265831,
           "tag": "影视杂谈"
         },
         {
           "rank": 21,
           "title": "广安.第二顿 厨子探店¥33",
           "url": "https://www.bilibili.com/video/BV1dRtx6BE7z",
-          "hot": 557143,
+          "hot": 558253,
           "tag": "美食侦探"
         },
         {
           "rank": 22,
           "title": "乡村大集，乡村打铁，感受不一样的打击乐",
           "url": "https://www.bilibili.com/video/BV1Sntc6REMU",
-          "hot": 1816356,
+          "hot": 1820191,
           "tag": "手工"
         },
         {
           "rank": 23,
           "title": "沙德尔或复活：南方多省面临持续台风雨，西伯利亚有强冷空气迹象",
           "url": "https://www.bilibili.com/video/BV1Jfta6cEuQ",
-          "hot": 259351,
+          "hot": 260241,
           "tag": "科学科普"
         },
         {
           "rank": 24,
           "title": "上汽大众ID. ERA 9X山城实战，Momenta R7世界模型能扛得住吗？",
           "url": "https://www.bilibili.com/video/BV1fd896bE6z",
-          "hot": 1067910,
+          "hot": 1068104,
           "tag": "日常"
         },
         {
           "rank": 25,
           "title": "梅西退出阿根廷国家队，夜里看到人都懵了！世界杯8球，39岁的巅峰退役也是猝不及防",
           "url": "https://www.bilibili.com/video/BV1Gvte6sEq7",
-          "hot": 100675,
+          "hot": 101882,
           "tag": "足球"
         },
         {
           "rank": 26,
           "title": "对面牢玩家外出一趟，他队友就被我们牢玩家杀光了",
           "url": "https://www.bilibili.com/video/BV1xhtW67EgF",
-          "hot": 768195,
+          "hot": 769106,
           "tag": "单机游戏"
         },
         {
           "rank": 27,
           "title": "黑乌龟历险记vol.3",
           "url": "https://www.bilibili.com/video/BV1nG8d6qE18",
-          "hot": 700759,
+          "hot": 701708,
           "tag": "网络游戏"
         },
         {
           "rank": 28,
           "title": "尺度神作扎堆大世界，无限大做一堆神人NPC和小游戏！再把所有人逗笑！",
           "url": "https://www.bilibili.com/video/BV1DF4X6TEfa",
-          "hot": 651598,
+          "hot": 653601,
           "tag": "影视杂谈"
         },
         {
           "rank": 29,
           "title": "弄了口大钢牙",
           "url": "https://www.bilibili.com/video/BV1Ljtt6VEAS",
-          "hot": 605344,
+          "hot": 606420,
           "tag": "手工"
         },
         {
           "rank": 30,
           "title": "“佯作畏生惧死，身担太行脊梁”【赤伶DJ-变速】【少年脊梁の小曲】",
           "url": "https://www.bilibili.com/video/BV1mK4X6AE1A",
-          "hot": 1230830,
+          "hot": 1232042,
           "tag": "音乐综合"
         }
       ],
-      "updated": "2026-09-01T08:58:06.380396+08:00"
+      "updated": "2026-09-01T09:00:35.817838+08:00"
     },
     {
       "name": "IT之家",
       "items": [],
-      "updated": "2026-09-01T08:58:32.243802+08:00",
+      "updated": "2026-09-01T09:01:09.409310+08:00",
       "error": "所有渠道均失败"
     }
   ]
