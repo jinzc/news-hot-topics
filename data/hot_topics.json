@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-09 23:00:26",
+  "update_time": "2026-09-09 23:01:46",
   "sources": [
     {
       "name": "微博热搜",
@@ -54,6 +54,13 @@
           "tag": ""
         },
         {
+          "rank": 5,
+          "title": "飞猪又把汪顺请来当体能课教练了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A3%9E%E7%8C%AA%E5%8F%88%E6%8A%8A%E6%B1%AA%E9%A1%BA%E8%AF%B7%E6%9D%A5%E5%BD%93%E4%BD%93%E8%83%BD%E8%AF%BE%E6%95%99%E7%BB%83%E4%BA%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 6,
           "title": "苹果新CEO发布会前更新动态",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E5%8F%91%E5%B8%83%E4%BC%9A%E5%89%8D%E6%9B%B4%E6%96%B0%E5%8A%A8%E6%80%81",
@@ -76,8 +83,8 @@
         },
         {
           "rank": 9,
-          "title": "韩莹回应战胜蒯曼",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E8%8E%B9%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E8%92%AF%E6%9B%BC",
+          "title": "国乒今日三战三负",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E4%BB%8A%E6%97%A5%E4%B8%89%E6%88%98%E4%B8%89%E8%B4%9F",
           "hot": 0,
           "tag": ""
         },
@@ -104,36 +111,36 @@
         },
         {
           "rank": 13,
-          "title": "肖战在台下憋哭",
-          "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%9C%A8%E5%8F%B0%E4%B8%8B%E6%86%8B%E5%93%AD",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 14,
           "title": "低保户 空调",
           "url": "https://s.weibo.com/weibo?q=%E4%BD%8E%E4%BF%9D%E6%88%B7%20%E7%A9%BA%E8%B0%83",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 14,
+          "title": "肖战在台下憋哭",
+          "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%9C%A8%E5%8F%B0%E4%B8%8B%E6%86%8B%E5%93%AD",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 15,
-          "title": "国乒今日三战三负",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E4%BB%8A%E6%97%A5%E4%B8%89%E6%88%98%E4%B8%89%E8%B4%9F",
+          "title": "韩莹回应战胜蒯曼",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E8%8E%B9%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E8%92%AF%E6%9B%BC",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 16,
-          "title": "高圆圆说在结婚后的几年是痛苦的",
-          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E5%9C%86%E5%9C%86%E8%AF%B4%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%90%8E%E7%9A%84%E5%87%A0%E5%B9%B4%E6%98%AF%E7%97%9B%E8%8B%A6%E7%9A%84",
+          "title": "杨幂豹纹短裙",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B1%B9%E7%BA%B9%E7%9F%AD%E8%A3%99",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 17,
-          "title": "杨幂豹纹短裙",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B1%B9%E7%BA%B9%E7%9F%AD%E8%A3%99",
+          "title": "高圆圆说在结婚后的几年是痛苦的",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E5%9C%86%E5%9C%86%E8%AF%B4%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%90%8E%E7%9A%84%E5%87%A0%E5%B9%B4%E6%98%AF%E7%97%9B%E8%8B%A6%E7%9A%84",
           "hot": 0,
           "tag": ""
         },
@@ -195,32 +202,25 @@
         },
         {
           "rank": 26,
-          "title": "刘亦菲删除照片",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%A0%E9%99%A4%E7%85%A7%E7%89%87",
+          "title": "景德镇学院让大四挪宿舍警方已介入",
+          "url": "https://s.weibo.com/weibo?q=%E6%99%AF%E5%BE%B7%E9%95%87%E5%AD%A6%E9%99%A2%E8%AE%A9%E5%A4%A7%E5%9B%9B%E6%8C%AA%E5%AE%BF%E8%88%8D%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 27,
-          "title": "柬诈骗园区内有设手术室的医院",
-          "url": "https://s.weibo.com/weibo?q=%E6%9F%AC%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA%E5%86%85%E6%9C%89%E8%AE%BE%E6%89%8B%E6%9C%AF%E5%AE%A4%E7%9A%84%E5%8C%BB%E9%99%A2",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 28,
           "title": "爱情公寓超长iPhone18",
           "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E8%B6%85%E9%95%BFiPhone18",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-09-09T23:00:14.698214+08:00"
+      "updated": "2026-09-09T23:01:19.208141+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [],
-      "updated": "2026-09-09T23:00:17.995272+08:00",
+      "updated": "2026-09-09T23:01:36.810934+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -437,7 +437,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-09T23:00:20.107875+08:00"
+      "updated": "2026-09-09T23:01:40.942133+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +653,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-09T23:00:21.299345+08:00"
+      "updated": "2026-09-09T23:01:42.229442+08:00"
     },
     {
       "name": "B站热门",
@@ -662,214 +662,214 @@
           "rank": 1,
           "title": "我 来 同 你 玩  丨 二洲年快乐",
           "url": "https://www.bilibili.com/video/BV1eqYx6UE9V",
-          "hot": 2525339,
+          "hot": 2534033,
           "tag": "GMV"
         },
         {
           "rank": 2,
           "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
           "url": "https://www.bilibili.com/video/BV18gtJ6LECq",
-          "hot": 7735058,
+          "hot": 7745613,
           "tag": "网络游戏"
         },
         {
           "rank": 3,
           "title": "请停留三秒，为毛主席献花，今天9月9日是主席毛泽东逝世50周年的日子，他是中国共产党、中国人民解放军、中华人民共和国的主要缔造者",
           "url": "https://www.bilibili.com/video/BV1VabK62Ea5",
-          "hot": 1392946,
+          "hot": 1394949,
           "tag": "社会"
         },
         {
           "rank": 4,
           "title": "花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场",
           "url": "https://www.bilibili.com/video/BV152b56uEgF",
-          "hot": 1291616,
+          "hot": 1294266,
           "tag": "手工"
         },
         {
           "rank": 5,
           "title": "也算是太岁头上动了把土！",
           "url": "https://www.bilibili.com/video/BV1LCb563EUG",
-          "hot": 797847,
+          "hot": 800016,
           "tag": "搞笑"
         },
         {
           "rank": 6,
           "title": "第三集上线！《新数码宝贝·全面战争》【15分钟管饱！】",
           "url": "https://www.bilibili.com/video/BV19eYH6NEsC",
-          "hot": 522706,
+          "hot": 524440,
           "tag": "职业职场"
         },
         {
           "rank": 7,
           "title": "《我是自愿开学的》复旦大学随机采访！",
           "url": "https://www.bilibili.com/video/BV1zQb36MEGZ",
-          "hot": 1067007,
+          "hot": 1071523,
           "tag": "搞笑"
         },
         {
           "rank": 8,
           "title": "老大！这么犯规的打法，我们真的能打赢吗！！？",
           "url": "https://www.bilibili.com/video/BV1z1b36GEdQ",
-          "hot": 784482,
+          "hot": 785434,
           "tag": "单机游戏"
         },
         {
           "rank": 9,
           "title": "德国政坛大地震，选择党，前进四！",
           "url": "https://www.bilibili.com/video/BV1veYx6DESi",
-          "hot": 423414,
+          "hot": 424933,
           "tag": "社科·法律·心理"
         },
         {
           "rank": 10,
           "title": "不是哥们儿，咱宿舍还有正常人嘛？",
           "url": "https://www.bilibili.com/video/BV1z7YJ6MEA9",
-          "hot": 550263,
+          "hot": 551167,
           "tag": "日常"
         },
         {
           "rank": 11,
           "title": "零食店开始集体\"动手脚\"，网友：不要把我们当傻子，好吗？",
           "url": "https://www.bilibili.com/video/BV1s7bG6nE7x",
-          "hot": 995146,
+          "hot": 996391,
           "tag": "人文历史"
         },
         {
           "rank": 12,
           "title": "《物业费最贵の一集》",
           "url": "https://www.bilibili.com/video/BV1xsYn6pEw4",
-          "hot": 639952,
+          "hot": 641069,
           "tag": "搞笑"
         },
         {
           "rank": 13,
           "title": "「突围吧·少年」 —— 这一次，“突围”不是带出物资",
           "url": "https://www.bilibili.com/video/BV1iTYp6kEwG",
-          "hot": 482453,
+          "hot": 483404,
           "tag": "日常"
         },
         {
           "rank": 14,
           "title": "【教师节TV】可恶……这么燃的考前动员？！",
           "url": "https://www.bilibili.com/video/BV1AcY46PEYE",
-          "hot": 227139,
+          "hot": 228306,
           "tag": "小剧场"
         },
         {
           "rank": 15,
           "title": "⚡️区区心魔 敢乱我道心⚡️【bilibilionly同人扶持计划】",
           "url": "https://www.bilibili.com/video/BV149bG6dE5r",
-          "hot": 575000,
+          "hot": 576513,
           "tag": "同人·手书"
         },
         {
           "rank": 16,
           "title": "《鸣潮》共鸣者「景燃」PV | “问神”",
           "url": "https://www.bilibili.com/video/BV1uMbg6SEnL",
-          "hot": 1752942,
+          "hot": 1753717,
           "tag": "手机游戏"
         },
         {
           "rank": 17,
           "title": "挑战0元城市生存（1.2）",
           "url": "https://www.bilibili.com/video/BV1TvbV6ZEZF",
-          "hot": 993796,
+          "hot": 995347,
           "tag": "日常"
         },
         {
           "rank": 18,
           "title": "特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?",
           "url": "https://www.bilibili.com/video/BV1zTYs6nEkk",
-          "hot": 263959,
+          "hot": 265023,
           "tag": "财经商业"
         },
         {
           "rank": 19,
           "title": "爆肝六个月！40万字详解对越自卫反击战秘闻，我们对越南都做了什么？",
           "url": "https://www.bilibili.com/video/BV1WnbG6EENE",
-          "hot": 590611,
+          "hot": 591192,
           "tag": "社科·法律·心理"
         },
         {
           "rank": 20,
           "title": "露思正面对抗月亮脸，TF家没有好听的风险",
           "url": "https://www.bilibili.com/video/BV173Y46xErn",
-          "hot": 219569,
+          "hot": 220327,
           "tag": "娱乐杂谈"
         },
         {
           "rank": 21,
           "title": "【招笑版】新植物8:嘴巴很大花",
           "url": "https://www.bilibili.com/video/BV16Pbn6wEGf",
-          "hot": 1887805,
+          "hot": 1889523,
           "tag": "单机游戏"
         },
         {
           "rank": 22,
           "title": "琵琶曲丨幺幺妻&老牧师",
           "url": "https://www.bilibili.com/video/BV1tjb56fEJs",
-          "hot": 1016825,
+          "hot": 1018114,
           "tag": "手机游戏"
         },
         {
           "rank": 23,
           "title": "吾从人族来，自当为人族竭尽全力！！",
           "url": "https://www.bilibili.com/video/BV1GLYp6TENy",
-          "hot": 169883,
+          "hot": 170544,
           "tag": "日常"
         },
         {
           "rank": 24,
           "title": "寒潮来袭，应对寒冬，深入荒野石屋爆改冬季庇护所，半地下安全屋第一次做夜宵 烤着火躲避寒风",
           "url": "https://www.bilibili.com/video/BV1o7bV6uEZr",
-          "hot": 499990,
+          "hot": 501594,
           "tag": "日常"
         },
         {
           "rank": 25,
           "title": "谁能坚持到最后2.0",
           "url": "https://www.bilibili.com/video/BV1bfbN6uEXq",
-          "hot": 368662,
+          "hot": 369525,
           "tag": "人力VOCALOID"
         },
         {
           "rank": 26,
           "title": "⚡️ 嘉 豪 の 小 曲 ⚡️",
           "url": "https://www.bilibili.com/video/BV1KeY466Ekf",
-          "hot": 188344,
+          "hot": 190991,
           "tag": "网络游戏"
         },
         {
           "rank": 27,
           "title": "资本弃子包贝尔，彻底塌房",
           "url": "https://www.bilibili.com/video/BV16mbV6UE1p",
-          "hot": 522500,
+          "hot": 523316,
           "tag": "娱乐杂谈"
         },
         {
           "rank": 28,
           "title": "男孩子千万要谨防被骗",
           "url": "https://www.bilibili.com/video/BV1QGbN66Emr",
-          "hot": 1538453,
+          "hot": 1540935,
           "tag": "搞笑"
         },
         {
           "rank": 29,
           "title": "随机挑战！在“吃鸡天堂”湛江，250元能吃几种鸡？",
           "url": "https://www.bilibili.com/video/BV1qYYx6HExF",
-          "hot": 178483,
+          "hot": 179277,
           "tag": "美食侦探"
         },
         {
           "rank": 30,
           "title": "老爸跑路，老妈赌鬼，独自在家的小女孩被放贷的黑道盯上",
           "url": "https://www.bilibili.com/video/BV1w1b36VEMT",
-          "hot": 210566,
+          "hot": 211013,
           "tag": "综合"
         }
       ],
-      "updated": "2026-09-09T23:00:21.695446+08:00"
+      "updated": "2026-09-09T23:01:42.835062+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1085,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-09T23:00:26.425567+08:00"
+      "updated": "2026-09-09T23:01:46.907211+08:00"
     }
   ]
 }
