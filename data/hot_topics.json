@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-10 13:00:32",
+  "update_time": "2026-09-10 13:01:42",
   "sources": [
     {
       "name": "微博热搜",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 2,
-          "title": "小米18Fold今日开售",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE",
+          "title": "抢iPhone18Pro首发认准京东",
+          "url": "https://s.weibo.com/weibo?q=%E6%8A%A2iPhone18Pro%E9%A6%96%E5%8F%91%E8%AE%A4%E5%87%86%E4%BA%AC%E4%B8%9C",
           "hot": 0,
           "tag": ""
         },
@@ -50,6 +50,13 @@
           "rank": 5,
           "title": "梅姨首任丈夫称她生两个儿子后离开",
           "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E5%A7%A8%E9%A6%96%E4%BB%BB%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%A5%B9%E7%94%9F%E4%B8%A4%E4%B8%AA%E5%84%BF%E5%AD%90%E5%90%8E%E7%A6%BB%E5%BC%80",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "檀健次豪士面包全球品牌代言人",
+          "url": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B1%AA%E5%A3%AB%E9%9D%A2%E5%8C%85%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
           "hot": 0,
           "tag": ""
         },
@@ -160,8 +167,8 @@
         },
         {
           "rank": 21,
-          "title": "iPhone17涨价",
-          "url": "https://s.weibo.com/weibo?q=iPhone17%E6%B6%A8%E4%BB%B7",
+          "title": "日本暴发梅毒疫情",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85",
           "hot": 0,
           "tag": ""
         },
@@ -174,53 +181,46 @@
         },
         {
           "rank": 23,
-          "title": "日本暴发梅毒疫情",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 24,
-          "title": "关晓彤新剧鸟屎炸鸡该怎么吃",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E6%96%B0%E5%89%A7%E9%B8%9F%E5%B1%8E%E7%82%B8%E9%B8%A1%E8%AF%A5%E6%80%8E%E4%B9%88%E5%90%83",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 25,
-          "title": "iPhone首款折叠屏天猫新品发布",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%A4%A9%E7%8C%AB%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 26,
           "title": "徐艺洋时隔一个月再夺冠",
           "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E6%97%B6%E9%9A%94%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%8D%E5%A4%BA%E5%86%A0",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 27,
-          "title": "车间裸奔事件不能到不是宁德就结束了",
-          "url": "https://s.weibo.com/weibo?q=%E8%BD%A6%E9%97%B4%E8%A3%B8%E5%A5%94%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%83%BD%E5%88%B0%E4%B8%8D%E6%98%AF%E5%AE%81%E5%BE%B7%E5%B0%B1%E7%BB%93%E6%9D%9F%E4%BA%86",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 28,
+          "rank": 24,
           "title": "演员王新昉离世",
           "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E7%8E%8B%E6%96%B0%E6%98%89%E7%A6%BB%E4%B8%96",
           "hot": 0,
           "tag": ""
+        },
+        {
+          "rank": 25,
+          "title": "iPhone17涨价",
+          "url": "https://s.weibo.com/weibo?q=iPhone17%E6%B6%A8%E4%BB%B7",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 26,
+          "title": "iPhone首款折叠屏天猫新品发布",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%A4%A9%E7%8C%AB%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
+          "title": "陆贞传奇剧组是有圆脸KPI吗",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%86%E8%B4%9E%E4%BC%A0%E5%A5%87%E5%89%A7%E7%BB%84%E6%98%AF%E6%9C%89%E5%9C%86%E8%84%B8KPI%E5%90%97",
+          "hot": 0,
+          "tag": ""
         }
       ],
-      "updated": "2026-09-10T13:00:14.143511+08:00"
+      "updated": "2026-09-10T13:01:15.555519+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [],
-      "updated": "2026-09-10T13:00:25.075459+08:00",
+      "updated": "2026-09-10T13:01:32.426194+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -437,7 +437,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-10T13:00:27.034839+08:00"
+      "updated": "2026-09-10T13:01:35.666452+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +653,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-10T13:00:28.155140+08:00"
+      "updated": "2026-09-10T13:01:36.964925+08:00"
     },
     {
       "name": "B站热门",
@@ -662,189 +662,189 @@
           "rank": 1,
           "title": "刘慈欣原著授权 |《流浪地球：望日》首支预告片",
           "url": "https://www.bilibili.com/video/BV1tSYx66EvP",
-          "hot": 332522,
+          "hot": 340784,
           "tag": "预告·资讯"
         },
         {
           "rank": 2,
           "title": "我 来 同 你 玩  丨 二洲年快乐",
           "url": "https://www.bilibili.com/video/BV1eqYx6UE9V",
-          "hot": 4221174,
+          "hot": 4228040,
           "tag": "GMV"
         },
         {
           "rank": 3,
           "title": "iPhone Duo 苹果折叠屏上手：超强折痕控制 + 纳米纹理屏",
           "url": "https://www.bilibili.com/video/BV1oFY868ETc",
-          "hot": 1902058,
+          "hot": 1905370,
           "tag": "数码"
         },
         {
           "rank": 4,
           "title": "【影视飓风】iPhone Duo折叠屏真机上手",
           "url": "https://www.bilibili.com/video/BV12PYh62E3c",
-          "hot": 829769,
+          "hot": 834930,
           "tag": "数码"
         },
         {
           "rank": 5,
           "title": "动态视频 | 折叠屏iPhone Duo、18 Pro系列现场上手！",
           "url": "https://www.bilibili.com/video/BV1jcYa6BEDm",
-          "hot": 454622,
+          "hot": 456488,
           "tag": "数码"
         },
         {
           "rank": 6,
           "title": "两分钟发布会 | 首款折叠iPhone Duo亮相 超酷开合动画 Dock栏右侧重构 还有iPhone 18 Pro系列 耳机和手表等",
           "url": "https://www.bilibili.com/video/BV1K1Yh6UEHC",
-          "hot": 681883,
+          "hot": 683268,
           "tag": "数码"
         },
         {
           "rank": 7,
           "title": "「小白」iPhone Duo真机体验：苹果折叠终于来了！",
           "url": "https://www.bilibili.com/video/BV1LJYb6ZE1m",
-          "hot": 701453,
+          "hot": 702992,
           "tag": "数码"
         },
         {
           "rank": 8,
           "title": "《崩坏：星穹铁道》砂金•戏浪角色PV——「独家爆料」",
           "url": "https://www.bilibili.com/video/BV1yjYx6AEp7",
-          "hot": 255112,
+          "hot": 257342,
           "tag": "手机游戏"
         },
         {
           "rank": 9,
           "title": "这才是iphone折叠机啊！",
           "url": "https://www.bilibili.com/video/BV1a2Yt6nEYH",
-          "hot": 585335,
+          "hot": 587035,
           "tag": "数码"
         },
         {
           "rank": 10,
           "title": "《物业费最贵の一集》",
           "url": "https://www.bilibili.com/video/BV1xsYn6pEw4",
-          "hot": 1181407,
+          "hot": 1183236,
           "tag": "搞笑"
         },
         {
           "rank": 11,
           "title": "开学舍友把宿舍改造成了海洋馆",
           "url": "https://www.bilibili.com/video/BV13abK62ECA",
-          "hot": 1487309,
+          "hot": 1493101,
           "tag": "搞笑"
         },
         {
           "rank": 12,
           "title": "花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场",
           "url": "https://www.bilibili.com/video/BV152b56uEgF",
-          "hot": 2271047,
+          "hot": 2273705,
           "tag": "手工"
         },
         {
           "rank": 13,
           "title": "⚡️ 嘉 豪 の 小 曲 ⚡️",
           "url": "https://www.bilibili.com/video/BV1KeY466Ekf",
-          "hot": 1007435,
+          "hot": 1008913,
           "tag": "网络游戏"
         },
         {
           "rank": 14,
           "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
           "url": "https://www.bilibili.com/video/BV18gtJ6LECq",
-          "hot": 9736333,
+          "hot": 9738573,
           "tag": "网络游戏"
         },
         {
           "rank": 15,
           "title": "「小白」苹果iPhone18 Pro/Max体验：尽善尽美？",
           "url": "https://www.bilibili.com/video/BV13hYb6nEhx",
-          "hot": 547509,
+          "hot": 548640,
           "tag": "数码"
         },
         {
           "rank": 16,
           "title": "无敌，就是这么寂寞！",
           "url": "https://www.bilibili.com/video/BV1x7bG6nE8Y",
-          "hot": 480194,
+          "hot": 480705,
           "tag": "手机游戏"
         },
         {
           "rank": 17,
           "title": "帮精神小妹过一场生日，送给她一束特别的花",
           "url": "https://www.bilibili.com/video/BV1aSYt6JEnd",
-          "hot": 454062,
+          "hot": 454813,
           "tag": "日常"
         },
         {
           "rank": 18,
           "title": "【教师节TV】可恶……这么燃的考前动员？！",
           "url": "https://www.bilibili.com/video/BV1AcY46PEYE",
-          "hot": 592403,
+          "hot": 593302,
           "tag": "小剧场"
         },
         {
           "rank": 19,
           "title": "《在山羊身上感受不到的爽感》",
           "url": "https://www.bilibili.com/video/BV1UuYt61EZc",
-          "hot": 362304,
+          "hot": 363235,
           "tag": "网络游戏"
         },
         {
           "rank": 20,
           "title": "德国政坛大地震，选择党，前进四！",
           "url": "https://www.bilibili.com/video/BV1veYx6DESi",
-          "hot": 843720,
+          "hot": 844752,
           "tag": "社科·法律·心理"
         },
         {
           "rank": 21,
           "title": "震惊！给蜜蜂喂火龙果！竟然真的能酿出来“紫色的蜜”但是用的是白糖水，真的不是在做假蜂蜜吗？养蜂人为啥要给蜜蜂喂白糖？",
           "url": "https://www.bilibili.com/video/BV1J5Yb6wE4B",
-          "hot": 311614,
+          "hot": 312564,
           "tag": "日常"
         },
         {
           "rank": 22,
           "title": "【逆天中配】神人不行 第一集",
           "url": "https://www.bilibili.com/video/BV1rmbV6UELD",
-          "hot": 585914,
+          "hot": 586620,
           "tag": "综合"
         },
         {
           "rank": 23,
           "title": "iPhone Duo 折叠机的最大优点！｜大耳朵TV",
           "url": "https://www.bilibili.com/video/BV1TBYb61ESg",
-          "hot": 305450,
+          "hot": 306156,
           "tag": "数码"
         },
         {
           "rank": 24,
           "title": "假如“开学需带物品”来面试",
           "url": "https://www.bilibili.com/video/BV1S9t66eEFk",
-          "hot": 591158,
+          "hot": 592045,
           "tag": "日常"
         },
         {
           "rank": 25,
           "title": "也算是太岁头上动了把土！",
           "url": "https://www.bilibili.com/video/BV1LCb563EUG",
-          "hot": 1201248,
+          "hot": 1202243,
           "tag": "搞笑"
         },
         {
           "rank": 26,
           "title": "<“世界顶级杀手”正在带妹>第二集",
           "url": "https://www.bilibili.com/video/BV1o8YW61ECN",
-          "hot": 344348,
+          "hot": 344803,
           "tag": "影视剪辑"
         },
         {
           "rank": 27,
           "title": "下一个故事再见",
           "url": "https://www.bilibili.com/video/BV1QCYx6yERb",
-          "hot": 711325,
+          "hot": 713188,
           "tag": "时尚潮流"
         },
         {
@@ -858,18 +858,18 @@
           "rank": 29,
           "title": "开学这么爽怎么不早说？",
           "url": "https://www.bilibili.com/video/BV1dkbA6GESu",
-          "hot": 949110,
+          "hot": 950419,
           "tag": "搞笑"
         },
         {
           "rank": 30,
           "title": "老爸跑路，老妈赌鬼，独自在家的小女孩被放贷的黑道盯上",
           "url": "https://www.bilibili.com/video/BV1w1b36VEMT",
-          "hot": 383442,
+          "hot": 383747,
           "tag": "综合"
         }
       ],
-      "updated": "2026-09-10T13:00:28.500292+08:00"
+      "updated": "2026-09-10T13:01:37.566652+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1085,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-10T13:00:32.982984+08:00"
+      "updated": "2026-09-10T13:01:42.738567+08:00"
     }
   ]
 }
