@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-24 01:59:44",
+  "update_time": "2026-09-24 02:00:32",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,13 +26,6 @@
           "tag": ""
         },
         {
-          "rank": 2,
-          "title": "OPPOFindX10系列今日开售",
-          "url": "https://s.weibo.com/weibo?q=OPPOFindX10%E7%B3%BB%E5%88%97%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE",
-          "hot": 0,
-          "tag": ""
-        },
-        {
           "rank": 3,
           "title": "降压疫苗要来了",
           "url": "https://s.weibo.com/weibo?q=%E9%99%8D%E5%8E%8B%E7%96%AB%E8%8B%97%E8%A6%81%E6%9D%A5%E4%BA%86",
@@ -50,6 +43,13 @@
           "rank": 5,
           "title": "杨幂骗了全网",
           "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%AA%97%E4%BA%86%E5%85%A8%E7%BD%91",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "田曦薇的厨师长福莉丝来啦",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E7%9A%84%E5%8E%A8%E5%B8%88%E9%95%BF%E7%A6%8F%E8%8E%89%E4%B8%9D%E6%9D%A5%E5%95%A6",
           "hot": 0,
           "tag": ""
         },
@@ -215,7 +215,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-24T01:59:33.852593+08:00"
+      "updated": "2026-09-24T02:00:11.400929+08:00"
     },
     {
       "name": "知乎热榜",
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-24T01:59:35.709536+08:00"
+      "updated": "2026-09-24T02:00:20.992185+08:00"
     },
     {
       "name": "百度热搜",
@@ -487,15 +487,15 @@
         },
         {
           "rank": 8,
-          "title": "教育部回应“13岁于子迪亚运夺2金”",
-          "url": "https://www.baidu.com/s?wd=教育部回应“13岁于子迪亚运夺2金”",
+          "title": "“亚洲第一长洞”有新发现",
+          "url": "https://www.baidu.com/s?wd=“亚洲第一长洞”有新发现",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 9,
-          "title": "“亚洲第一长洞”有新发现",
-          "url": "https://www.baidu.com/s?wd=“亚洲第一长洞”有新发现",
+          "title": "教育部回应“13岁于子迪亚运夺2金”",
+          "url": "https://www.baidu.com/s?wd=教育部回应“13岁于子迪亚运夺2金”",
           "hot": 0,
           "tag": ""
         },
@@ -543,64 +543,64 @@
         },
         {
           "rank": 16,
-          "title": "教育部：绩效分配向一线教师倾斜",
-          "url": "https://www.baidu.com/s?wd=教育部：绩效分配向一线教师倾斜",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 17,
-          "title": "12306的“隐藏福利”别错过",
-          "url": "https://www.baidu.com/s?wd=12306的“隐藏福利”别错过",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 18,
-          "title": "上海街头这段“慢镜头”看哭网友",
-          "url": "https://www.baidu.com/s?wd=上海街头这段“慢镜头”看哭网友",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 19,
           "title": "四年级男孩车间熟练打包",
           "url": "https://www.baidu.com/s?wd=四年级男孩车间熟练打包",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 17,
+          "title": "教育部：绩效分配向一线教师倾斜",
+          "url": "https://www.baidu.com/s?wd=教育部：绩效分配向一线教师倾斜",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 18,
+          "title": "12306的“隐藏福利”别错过",
+          "url": "https://www.baidu.com/s?wd=12306的“隐藏福利”别错过",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "上海街头这段“慢镜头”看哭网友",
+          "url": "https://www.baidu.com/s?wd=上海街头这段“慢镜头”看哭网友",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 20,
+          "title": "歼-35A代号“云龙”有何深意",
+          "url": "https://www.baidu.com/s?wd=歼-35A代号“云龙”有何深意",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 21,
           "title": "女子打车回家只剩13元司机仅收9元",
           "url": "https://www.baidu.com/s?wd=女子打车回家只剩13元司机仅收9元",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 21,
-          "title": "李翊君《雨蝶》前奏一响全是回忆",
-          "url": "https://www.baidu.com/s?wd=李翊君《雨蝶》前奏一响全是回忆",
-          "hot": 0,
-          "tag": ""
-        },
-        {
           "rank": 22,
-          "title": "日本亚运会电竞场馆随便得像网吧",
-          "url": "https://www.baidu.com/s?wd=日本亚运会电竞场馆随便得像网吧",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
           "title": "“减肥神药”司美格鲁肽陷副作用争议",
           "url": "https://www.baidu.com/s?wd=“减肥神药”司美格鲁肽陷副作用争议",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 23,
+          "title": "李翊君《雨蝶》前奏一响全是回忆",
+          "url": "https://www.baidu.com/s?wd=李翊君《雨蝶》前奏一响全是回忆",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 24,
-          "title": "歼-35A代号“云龙”有何深意",
-          "url": "https://www.baidu.com/s?wd=歼-35A代号“云龙”有何深意",
+          "title": "日本亚运会电竞场馆随便得像网吧",
+          "url": "https://www.baidu.com/s?wd=日本亚运会电竞场馆随便得像网吧",
           "hot": 0,
           "tag": ""
         },
@@ -634,20 +634,20 @@
         },
         {
           "rank": 29,
-          "title": "王楚钦3比2险胜林昀儒",
-          "url": "https://www.baidu.com/s?wd=王楚钦3比2险胜林昀儒",
+          "title": "月饼市场从“面子”回归“里子”",
+          "url": "https://www.baidu.com/s?wd=月饼市场从“面子”回归“里子”",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 30,
-          "title": "山姆咖啡牛奶线下扎堆抢线上缺货",
-          "url": "https://www.baidu.com/s?wd=山姆咖啡牛奶线下扎堆抢线上缺货",
+          "title": "王楚钦3比2险胜林昀儒",
+          "url": "https://www.baidu.com/s?wd=王楚钦3比2险胜林昀儒",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-09-24T01:59:37.507037+08:00"
+      "updated": "2026-09-24T02:00:24.791261+08:00"
     },
     {
       "name": "抖音热点",
@@ -863,7 +863,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-24T01:59:38.855671+08:00"
+      "updated": "2026-09-24T02:00:25.826305+08:00"
     },
     {
       "name": "B站热门",
@@ -872,7 +872,7 @@
           "rank": 1,
           "title": "辽阔的草原，生不出狭隘的爱！",
           "url": "https://www.bilibili.com/video/BV1TJh76GEbj",
-          "hot": 558840,
+          "hot": 559480,
           "tag": "短片"
         },
         {
@@ -886,21 +886,21 @@
           "rank": 3,
           "title": "8月份疯狂回血111万，峰哥是如何成功自救的？",
           "url": "https://www.bilibili.com/video/BV15bh869EbY",
-          "hot": 311503,
+          "hot": 311926,
           "tag": "出行"
         },
         {
           "rank": 4,
           "title": "小米18 Pro系列上手体验：骁龙8E6有惊喜？！",
           "url": "https://www.bilibili.com/video/BV1bQh463EU6",
-          "hot": 492714,
+          "hot": 493244,
           "tag": "数码"
         },
         {
           "rank": 5,
           "title": "我决定，亲自生活！！",
           "url": "https://www.bilibili.com/video/BV1D2hi6vEMd",
-          "hot": 737229,
+          "hot": 737744,
           "tag": "日常"
         },
         {
@@ -914,56 +914,56 @@
           "rank": 7,
           "title": "【剧情】大理石厅谋杀案（2026）01【莱丝利·曼维尔 / 蒂姆·迈克穆兰】",
           "url": "https://www.bilibili.com/video/BV15yem67EM2",
-          "hot": 351295,
+          "hot": 351347,
           "tag": "海外剧"
         },
         {
           "rank": 8,
           "title": "【泽元电台】加强上路？利好换线？一年一度的世界赛版本又来了！",
           "url": "https://www.bilibili.com/video/BV1kUht6wEKw",
-          "hot": 864285,
+          "hot": 864800,
           "tag": "音乐综合"
         },
         {
           "rank": 9,
           "title": "坏了这是真啥子！唱了《琪露诺的完美算数教室》",
           "url": "https://www.bilibili.com/video/BV1gRh46uEPQ",
-          "hot": 149652,
+          "hot": 149801,
           "tag": "翻唱"
         },
         {
           "rank": 10,
           "title": "迈克尔·许家印《朋友的酒DJ》史上经典！迈克尔杰克逊致敬过的演唱会开场！人生必看的现场",
           "url": "https://www.bilibili.com/video/BV18yhp68ER1",
-          "hot": 698473,
+          "hot": 698718,
           "tag": "音乐现场"
         },
         {
           "rank": 11,
           "title": "带着豆包去买瓜",
           "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
-          "hot": 1135886,
+          "hot": 1136294,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 12,
           "title": "“蟹蟹梨的西西里”",
           "url": "https://www.bilibili.com/video/BV1aXhJ64EmX",
-          "hot": 189131,
+          "hot": 189318,
           "tag": "出行"
         },
         {
           "rank": 13,
           "title": "现在人的价值观都怎么了？为什么这种视频会有这么多人点赞？",
           "url": "https://www.bilibili.com/video/BV1rUht6wEUW",
-          "hot": 215825,
+          "hot": 216179,
           "tag": "校园学习"
         },
         {
           "rank": 14,
           "title": "音乐是大家的音乐~",
           "url": "https://www.bilibili.com/video/BV1VGhJ6REit",
-          "hot": 876220,
+          "hot": 876457,
           "tag": "翻唱"
         },
         {
@@ -984,21 +984,21 @@
           "rank": 17,
           "title": "这家米线店未经允许用我的画进行商业宣传，我要找他麻烦！！",
           "url": "https://www.bilibili.com/video/BV1zJhE6cE3v",
-          "hot": 586627,
+          "hot": 586793,
           "tag": "绘画"
         },
         {
           "rank": 18,
           "title": "这是啥户型啊？",
           "url": "https://www.bilibili.com/video/BV1rKhq6QEU6",
-          "hot": 2518537,
+          "hot": 2519188,
           "tag": "家居房产"
         },
         {
           "rank": 19,
           "title": "雷总，你的权威我后知后觉",
           "url": "https://www.bilibili.com/video/BV1Axh76MEZ5",
-          "hot": 1470780,
+          "hot": 1471124,
           "tag": "数码"
         },
         {
@@ -1019,14 +1019,14 @@
           "rank": 22,
           "title": "《柯洁围棋入门课》",
           "url": "https://www.bilibili.com/video/BV1YDhJ6ZEL6",
-          "hot": 2847163,
+          "hot": 2847729,
           "tag": "影视剪辑"
         },
         {
           "rank": 23,
           "title": "【硬核】俄乌打了四年多，到底谁在买单？",
           "url": "https://www.bilibili.com/video/BV1SUhe6xEM2",
-          "hot": 1478754,
+          "hot": 1479013,
           "tag": "财经商业"
         },
         {
@@ -1040,21 +1040,21 @@
           "rank": 25,
           "title": "当美院人玩涂鸦躲猫猫真人版",
           "url": "https://www.bilibili.com/video/BV1QGhJ69EAo",
-          "hot": 2277383,
+          "hot": 2277731,
           "tag": "绘画"
         },
         {
           "rank": 26,
           "title": "好久不见啊，佐助",
           "url": "https://www.bilibili.com/video/BV1B1hJ6wEwe",
-          "hot": 2009392,
+          "hot": 2009751,
           "tag": "同人·手书"
         },
         {
           "rank": 27,
           "title": "第一届《汽车运动会》！！！",
           "url": "https://www.bilibili.com/video/BV1mqht6zEVa",
-          "hot": 351553,
+          "hot": 351923,
           "tag": "日常"
         },
         {
@@ -1068,18 +1068,18 @@
           "rank": 29,
           "title": "每天都要去航天大杀四方",
           "url": "https://www.bilibili.com/video/BV17whb6WEpK",
-          "hot": 476381,
+          "hot": 476616,
           "tag": "单机游戏"
         },
         {
           "rank": 30,
           "title": "中国最著名的离别曲，朴树都觉得死而无憾的词到底好在哪？",
           "url": "https://www.bilibili.com/video/BV1HehJ66EJc",
-          "hot": 212617,
+          "hot": 212891,
           "tag": "乐评盘点"
         }
       ],
-      "updated": "2026-09-24T01:59:39.399258+08:00"
+      "updated": "2026-09-24T02:00:26.456830+08:00"
     },
     {
       "name": "IT之家",
@@ -1295,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-09-24T01:59:44.944974+08:00"
+      "updated": "2026-09-24T02:00:32.106223+08:00"
     }
   ]
 }
