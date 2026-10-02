@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-02 15:00:23",
+  "update_time": "2026-10-02 15:06:08",
   "sources": [
     {
       "name": "微博热搜",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 2,
-          "title": "小米澎程第N空间",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E7%AC%ACN%E7%A9%BA%E9%97%B4",
+          "title": "Mate90系列火爆开售",
+          "url": "https://s.weibo.com/weibo?q=Mate90%E7%B3%BB%E5%88%97%E7%81%AB%E7%88%86%E5%BC%80%E5%94%AE",
           "hot": 0,
           "tag": ""
         },
@@ -50,13 +50,6 @@
           "rank": 5,
           "title": "莫氏鸡煲总店员工从180人减至30多人",
           "url": "https://s.weibo.com/weibo?q=%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E6%80%BB%E5%BA%97%E5%91%98%E5%B7%A5%E4%BB%8E180%E4%BA%BA%E5%87%8F%E8%87%B330%E5%A4%9A%E4%BA%BA",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "逆水寒江湖万相方寸相逢",
-          "url": "https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%E6%B1%9F%E6%B9%96%E4%B8%87%E7%9B%B8%E6%96%B9%E5%AF%B8%E7%9B%B8%E9%80%A2",
           "hot": 0,
           "tag": ""
         },
@@ -125,43 +118,43 @@
         },
         {
           "rank": 15,
-          "title": "电视剧名 奶茶名",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%90%8D%20%E5%A5%B6%E8%8C%B6%E5%90%8D",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 16,
-          "title": "华为Mate90ProMax顶配版成销售主力",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90ProMax%E9%A1%B6%E9%85%8D%E7%89%88%E6%88%90%E9%94%80%E5%94%AE%E4%B8%BB%E5%8A%9B",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 17,
-          "title": "陈建州奶奶去世",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 18,
-          "title": "音乐老师赴泰失联事件知情人发声",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%B3%E4%B9%90%E8%80%81%E5%B8%88%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%94%E4%BA%8B%E4%BB%B6%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 19,
           "title": "曝C罗退队与迷你罗落选有关",
           "url": "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E9%80%80%E9%98%9F%E4%B8%8E%E8%BF%B7%E4%BD%A0%E7%BD%97%E8%90%BD%E9%80%89%E6%9C%89%E5%85%B3",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 16,
+          "title": "医生谈取消艾滋感染者入境限制",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E8%B0%88%E5%8F%96%E6%B6%88%E8%89%BE%E6%BB%8B%E6%84%9F%E6%9F%93%E8%80%85%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 17,
+          "title": "电视剧名 奶茶名",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%90%8D%20%E5%A5%B6%E8%8C%B6%E5%90%8D",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 18,
+          "title": "陈建州奶奶去世",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "华为Mate90ProMax顶配版成销售主力",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90ProMax%E9%A1%B6%E9%85%8D%E7%89%88%E6%88%90%E9%94%80%E5%94%AE%E4%B8%BB%E5%8A%9B",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 20,
-          "title": "普京说孙辈会说中文能给他当翻译",
-          "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E8%AF%B4%E5%AD%99%E8%BE%88%E4%BC%9A%E8%AF%B4%E4%B8%AD%E6%96%87%E8%83%BD%E7%BB%99%E4%BB%96%E5%BD%93%E7%BF%BB%E8%AF%91",
+          "title": "音乐老师赴泰失联事件知情人发声",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%B3%E4%B9%90%E8%80%81%E5%B8%88%E8%B5%B4%E6%B3%B0%E5%A4%B1%E8%81%94%E4%BA%8B%E4%BB%B6%E7%9F%A5%E6%83%85%E4%BA%BA%E5%8F%91%E5%A3%B0",
           "hot": 0,
           "tag": ""
         },
@@ -174,36 +167,36 @@
         },
         {
           "rank": 22,
-          "title": "医生谈取消艾滋感染者入境限制",
-          "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E8%B0%88%E5%8F%96%E6%B6%88%E8%89%BE%E6%BB%8B%E6%84%9F%E6%9F%93%E8%80%85%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
           "title": "突然发现大家旅游不住酒店了",
           "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%AE%B6%E6%97%85%E6%B8%B8%E4%B8%8D%E4%BD%8F%E9%85%92%E5%BA%97%E4%BA%86",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 24,
+          "rank": 23,
           "title": "赵今麦不敢接魏大勋的话",
           "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%9A%84%E8%AF%9D",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 25,
+          "rank": 24,
           "title": "章涛",
           "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E6%B6%9B",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 26,
+          "rank": 25,
           "title": "男朋友订婚前的搜索记录",
           "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%AE%A2%E5%A9%9A%E5%89%8D%E7%9A%84%E6%90%9C%E7%B4%A2%E8%AE%B0%E5%BD%95",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 26,
+          "title": "普京说孙辈会说中文能给他当翻译",
+          "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E8%AF%B4%E5%AD%99%E8%BE%88%E4%BC%9A%E8%AF%B4%E4%B8%AD%E6%96%87%E8%83%BD%E7%BB%99%E4%BB%96%E5%BD%93%E7%BF%BB%E8%AF%91",
           "hot": 0,
           "tag": ""
         },
@@ -213,9 +206,16 @@
           "url": "https://s.weibo.com/weibo?q=%E5%87%BATFBOYS%E4%BA%B2%E7%AD%BE%E7%9A%84%E7%BD%91%E5%8F%8B%E5%9B%9E%E5%BA%94",
           "hot": 0,
           "tag": ""
+        },
+        {
+          "rank": 28,
+          "title": "亚运会",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A",
+          "hot": 0,
+          "tag": ""
         }
       ],
-      "updated": "2026-10-02T15:00:13.089667+08:00"
+      "updated": "2026-10-02T15:01:15.080528+08:00"
     },
     {
       "name": "知乎热榜",
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-02T15:00:14.688911+08:00"
+      "updated": "2026-10-02T15:01:26.034895+08:00"
     },
     {
       "name": "百度热搜",
@@ -647,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-02T15:00:17.136145+08:00"
+      "updated": "2026-10-02T15:01:30.008971+08:00"
     },
     {
       "name": "抖音热点",
@@ -836,34 +836,34 @@
         },
         {
           "rank": 27,
-          "title": "周深在大地指纹与万人合唱",
-          "url": "https://www.douyin.com/search/%E5%91%A8%E6%B7%B1%E5%9C%A8%E5%A4%A7%E5%9C%B0%E6%8C%87%E7%BA%B9%E4%B8%8E%E4%B8%87%E4%BA%BA%E5%90%88%E5%94%B1",
-          "hot": 8205765,
-          "tag": ""
-        },
-        {
-          "rank": 28,
           "title": "郑州金融岛把张杰演唱会续上了",
           "url": "https://www.douyin.com/search/%E9%83%91%E5%B7%9E%E9%87%91%E8%9E%8D%E5%B2%9B%E6%8A%8A%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%AD%E4%B8%8A%E4%BA%86",
           "hot": 8171391,
           "tag": ""
         },
         {
-          "rank": 29,
+          "rank": 28,
           "title": "国庆接力合唱我爱你中国",
           "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%8E%A5%E5%8A%9B%E5%90%88%E5%94%B1%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD",
           "hot": 8161789,
           "tag": ""
         },
         {
-          "rank": 30,
+          "rank": 29,
           "title": "蛋仔小猪佩奇联动外观上线",
           "url": "https://www.douyin.com/search/%E8%9B%8B%E4%BB%94%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E8%81%94%E5%8A%A8%E5%A4%96%E8%A7%82%E4%B8%8A%E7%BA%BF",
           "hot": 8023668,
           "tag": ""
+        },
+        {
+          "rank": 30,
+          "title": "四川广元国庆烟花秀太震撼了",
+          "url": "https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D%E5%B9%BF%E5%85%83%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E7%A7%80%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86",
+          "hot": 8008486,
+          "tag": ""
         }
       ],
-      "updated": "2026-10-02T15:00:19.069822+08:00"
+      "updated": "2026-10-02T15:01:31.260818+08:00"
     },
     {
       "name": "B站热门",
@@ -872,161 +872,161 @@
           "rank": 1,
           "title": "章鱼哥，快乐都去哪了呢？",
           "url": "https://www.bilibili.com/video/BV1mjad6DEK1",
-          "hot": 2280284,
+          "hot": 2283041,
           "tag": "影视剪辑"
         },
         {
           "rank": 2,
           "title": "Windows XP最经典的开机音乐，是谁写出来的？【梗曲背后】",
           "url": "https://www.bilibili.com/video/BV162a86NE2U",
-          "hot": 484727,
+          "hot": 484924,
           "tag": "音乐综合"
         },
         {
           "rank": 3,
           "title": "当张拿铁知道混血儿就是串",
           "url": "https://www.bilibili.com/video/BV1cDao67ErR",
-          "hot": 1113513,
+          "hot": 1114755,
           "tag": "亲子"
         },
         {
           "rank": 4,
           "title": "【纪录片】生命奇观2 03 川西山地",
           "url": "https://www.bilibili.com/video/BV1g9aW6TEB4",
-          "hot": 1212261,
+          "hot": 1213281,
           "tag": "科学·探索·自然"
         },
         {
           "rank": 5,
           "title": "半个包子的真相",
           "url": "https://www.bilibili.com/video/BV1kyYP6eEex",
-          "hot": 1002606,
+          "hot": 1002933,
           "tag": "日常"
         },
         {
           "rank": 6,
           "title": "你离开的事实原创高至豪偶遇粉丝，于是为她演奏一曲",
           "url": "https://www.bilibili.com/video/BV1wAYP6YEif",
-          "hot": 876888,
+          "hot": 878737,
           "tag": "音乐现场"
         },
         {
           "rank": 7,
           "title": "《你带你儿子忆苦思甜》",
           "url": "https://www.bilibili.com/video/BV1cKar6AEHH",
-          "hot": 1676918,
+          "hot": 1679871,
           "tag": "搞笑"
         },
         {
           "rank": 8,
           "title": "《原神》剧情PV-「燕归来」",
           "url": "https://www.bilibili.com/video/BV1cQap6UEr2",
-          "hot": 227142,
+          "hot": 227945,
           "tag": "手机游戏"
         },
         {
           "rank": 9,
           "title": "24位博主为粉丝争夺30万元！",
           "url": "https://www.bilibili.com/video/BV15far6dEjT",
-          "hot": 314940,
+          "hot": 316533,
           "tag": "日常"
         },
         {
           "rank": 10,
           "title": "【独家】时光代理人 第三季 PartOne 第9集 坦白【8月国创】",
           "url": "https://www.bilibili.com/video/BV11UaL6qEnA",
-          "hot": 966688,
+          "hot": 967218,
           "tag": "国产动画"
         },
         {
           "rank": 11,
           "title": "《下一个是谁》第七季（5）",
           "url": "https://www.bilibili.com/video/BV1cAYP6YEvj",
-          "hot": 1704604,
+          "hot": 1705580,
           "tag": "日常"
         },
         {
           "rank": 12,
           "title": "162年前的中国领土，如今中亚第一城，现在是什么模样？",
           "url": "https://www.bilibili.com/video/BV124YF68EGD",
-          "hot": 351537,
+          "hot": 354722,
           "tag": "出行"
         },
         {
           "rank": 13,
           "title": "【亿万级特效！】猫核老鼠：量子网球对决！（全程高能！）",
           "url": "https://www.bilibili.com/video/BV1s3Yc68EJK",
-          "hot": 1764626,
+          "hot": 1766391,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 14,
           "title": "忙活了20个小时炸了47盘的护：打完这单妻离子散，兄弟反目成仇了",
           "url": "https://www.bilibili.com/video/BV1qAa56JEkn",
-          "hot": 1278747,
+          "hot": 1280009,
           "tag": "网络游戏"
         },
         {
           "rank": 15,
           "title": "我让AI建造了最安全的基地！但它居然囚禁了我…",
           "url": "https://www.bilibili.com/video/BV1ZKYw6QEhg",
-          "hot": 1492695,
+          "hot": 1495146,
           "tag": "单机游戏"
         },
         {
           "rank": 16,
           "title": "《大表哥创业之野生重奶》",
           "url": "https://www.bilibili.com/video/BV1vuaq6CEVK",
-          "hot": 583457,
+          "hot": 584273,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 17,
           "title": "美国总统特朗普！卖的黄金手机！到底什么样？竟然中国制造？",
           "url": "https://www.bilibili.com/video/BV1kYaZ6UE4k",
-          "hot": 545466,
+          "hot": 546478,
           "tag": "出行"
         },
         {
           "rank": 18,
           "title": "【10月电脑配置推荐】平均省400+，这才是正常人要的配置单，花费20万，只为教你把预算都花都在DIY装机刀刃上",
           "url": "https://www.bilibili.com/video/BV1aDaZ6KESj",
-          "hot": 129101,
+          "hot": 129417,
           "tag": "数码"
         },
         {
           "rank": 19,
           "title": "“诈骗”拯救世界？20世纪规模最大的慈善演唱会是如何诞生的？",
           "url": "https://www.bilibili.com/video/BV1Q8ae6aED9",
-          "hot": 1103136,
+          "hot": 1103983,
           "tag": "软件应用"
         },
         {
           "rank": 20,
           "title": "机米售货机第二季大合集！",
           "url": "https://www.bilibili.com/video/BV1x7aY6QE7q",
-          "hot": 5897485,
+          "hot": 5898225,
           "tag": "喵星人"
         },
         {
           "rank": 21,
           "title": "在毛毯上薅出熊猫头表情包！",
           "url": "https://www.bilibili.com/video/BV1quaz6HEjG",
-          "hot": 1189553,
+          "hot": 1195352,
           "tag": "绘画"
         },
         {
           "rank": 22,
           "title": "小潮team辩论赛4",
           "url": "https://www.bilibili.com/video/BV1QjYF6TEXW",
-          "hot": 163014,
+          "hot": 163597,
           "tag": "搞笑"
         },
         {
           "rank": 23,
           "title": "假如地球online有幕后玩家",
           "url": "https://www.bilibili.com/video/BV1Q6aB63Egh",
-          "hot": 488828,
+          "hot": 489512,
           "tag": "搞笑"
         },
         {
@@ -1040,262 +1040,52 @@
           "rank": 25,
           "title": "抽象新闻：9月人类迷惑行为大赏（中）",
           "url": "https://www.bilibili.com/video/BV1raaZ6EEQa",
-          "hot": 1359138,
+          "hot": 1360139,
           "tag": "搞笑"
         },
         {
           "rank": 26,
           "title": "你再看看你后面呢！!",
           "url": "https://www.bilibili.com/video/BV1r8aW6QEsR",
-          "hot": 1448846,
+          "hot": 1450222,
           "tag": "综合"
         },
         {
           "rank": 27,
           "title": "什么？我竟然做客了央视《开拓者》节目，与从小仰慕的朱迅老师面对面聊天！？",
           "url": "https://www.bilibili.com/video/BV1VZaz6UEgw",
-          "hot": 319756,
+          "hot": 320089,
           "tag": "综艺"
         },
         {
           "rank": 28,
           "title": "都什么年代，谁还走传统西游路？！！",
           "url": "https://www.bilibili.com/video/BV1doaR6eEoP",
-          "hot": 945849,
+          "hot": 946584,
           "tag": "同人·手书"
         },
         {
           "rank": 29,
           "title": "《大回忆时代》",
           "url": "https://www.bilibili.com/video/BV1ujaZ68Ea5",
-          "hot": 4815491,
+          "hot": 4818006,
           "tag": "篮球"
         },
         {
           "rank": 30,
           "title": "每一声喵叫，都会唤醒一只更大的喵。#几何图形 #解压",
           "url": "https://www.bilibili.com/video/BV12Ead6JEXJ",
-          "hot": 2059773,
+          "hot": 2061888,
           "tag": "科学科普"
         }
       ],
-      "updated": "2026-10-02T15:00:19.687759+08:00"
+      "updated": "2026-10-02T15:01:31.950304+08:00"
     },
     {
       "name": "IT之家",
-      "items": [
-        {
-          "rank": 1,
-          "title": "索尼 PS5《羊蹄山之魂》完全版发售：收录“弦续关原”新剧情及“无尽追缉”模式",
-          "url": "https://www.ithome.com/1/009/291.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 2,
-          "title": "10 月 1 日高德日活跃用户数近 3.7 亿：已成为全球规模最大的空间智能应用",
-          "url": "https://www.ithome.com/1/009/290.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 3,
-          "title": "极狐阿尔法 T5 汽车迎 OTA：部分车型新增苹果 CarPlay / 华为 HiCar 手机互联、端到端 4.0 辅助驾驶模型",
-          "url": "https://www.ithome.com/1/009/288.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 4,
-          "title": "7.56 亿票房超《星际穿越》：电影《奥德赛》刷新诺兰导演中国内地票房纪录",
-          "url": "https://www.ithome.com/1/009/285.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "绿联推出彩色墨水屏手机壳：3.7 英寸面板，适配苹果 iPhone 17/18 Pro 及 Max 机型，278.8 元",
-          "url": "https://www.ithome.com/1/009/284.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 6,
-          "title": "英特尔 Arc 显卡驱动 32.0.101.9034 Beta 版发布：支持《战争机器：事变日》游戏",
-          "url": "https://www.ithome.com/1/009/245.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 7,
-          "title": "富士 X-T6 无反相机设计草图曝光，配 X-Processor 6 图像处理器",
-          "url": "https://www.ithome.com/1/009/283.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 8,
-          "title": "Steam 喜加一：地下城 RPG《Endor Awakens：Roguelite DRPG》转付费前免费领",
-          "url": "https://www.ithome.com/1/009/282.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 9,
-          "title": "宝马升级 X3 M50：最大功率提升至 443 马力，新增黑色特别版车型",
-          "url": "https://www.ithome.com/1/009/281.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 10,
-          "title": "AI 灌水稿激增：预印本平台 arXiv 出台新规，每人每月限投 2 篇",
-          "url": "https://www.ithome.com/1/009/279.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 11,
-          "title": "加州通过新法：Robotaxi 阻碍警察或消防任务将面临罚款",
-          "url": "https://www.ithome.com/1/009/278.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 12,
-          "title": "影目科技回应 INMO AIR3 智能眼镜海外版过热：与部分第三方应用有关、已全部下架，国内版不受相关影响",
-          "url": "https://www.ithome.com/1/009/277.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 13,
-          "title": "发射距今约 12 年：日本“隼鸟 2”探测器最后一台工作离子发动机发生故障",
-          "url": "https://www.ithome.com/1/009/275.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 14,
-          "title": "10 月 1 日全国铁路发送旅客 2520.4 万人次，创单日旅客发送量历史新高",
-          "url": "https://www.ithome.com/1/009/274.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 15,
-          "title": "阿斯顿 · 马丁首款纯电动汽车推迟至 2033 年后，V8/V12 发动机保留至 2035 年",
-          "url": "https://www.ithome.com/1/009/273.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 16,
-          "title": "摄影师 Zavitz 测试苹果 iPhone 18 Pro 人像模式，媲美专业相机",
-          "url": "https://www.ithome.com/1/009/272.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 17,
-          "title": "填充 AI 资金弹药：曝 OpenAI 融资再落袋 200 亿美元，英伟达、软银和亚马逊已出资约 90%",
-          "url": "https://www.ithome.com/1/009/270.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 18,
-          "title": "乘联分会崔东树：2026 年 1-8 月中国占世界汽车份额 32%",
-          "url": "https://www.ithome.com/1/009/269.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 19,
-          "title": "CDPR 发布《巫师 3：重制版》补丁，修复部分室内场景过暗等问题",
-          "url": "https://www.ithome.com/1/009/268.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 20,
-          "title": "国家能源局：国庆假期首日高速公路充电量同比增长 60.4%，创历史节假日单日新高",
-          "url": "https://www.ithome.com/1/009/263.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 21,
-          "title": "Cloudflare 推出基于 Qwen 的开源多模态决策模型 Clef",
-          "url": "https://www.ithome.com/1/009/262.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 22,
-          "title": "消息称博通着手筹集 600 亿美元，为 Anthropic 等公司采购芯片提供资金",
-          "url": "https://www.ithome.com/1/009/261.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
-          "title": "宏碁发布 14 英寸 Aspire Lite 笔记本：高通骁龙 X1-26-101 芯片、16GB 内存",
-          "url": "https://www.ithome.com/1/009/259.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 24,
-          "title": "全国首个百万客流巨站诞生：10 月 1 日广州南站到发旅客 104.9 万人次",
-          "url": "https://www.ithome.com/1/009/258.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 25,
-          "title": "经典日系 RPG《兰斯 7 战国兰斯》登陆 Steam：国区 ¥55.20，支持中文",
-          "url": "https://www.ithome.com/1/009/257.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 26,
-          "title": "自由度 7 → 13：波士顿动力升级 Atlas 机械手，可操控钻头 / 拧螺丝等",
-          "url": "https://www.ithome.com/1/009/256.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 27,
-          "title": "东芝计划将用于 AI 数据中心的机械硬盘产能翻倍，投资约 600 亿日元",
-          "url": "https://www.ithome.com/1/009/255.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "5G 热点设备 HMD Pocket Link 曝光：紫光展锐 T157 芯片、1.77 英寸屏幕",
-          "url": "https://www.ithome.com/1/009/254.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 29,
-          "title": "循环交易：博通同意向 Anthropic 提供最高 420 亿美元贷款，用于租赁自家芯片等基础设施开支",
-          "url": "https://www.ithome.com/1/009/253.htm",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 30,
-          "title": "OpenAI 通报逾百家第三方机构，自家智能体存在失控风险",
-          "url": "https://www.ithome.com/1/009/251.htm",
-          "hot": 0,
-          "tag": ""
-        }
-      ],
-      "updated": "2026-10-02T15:00:23.918824+08:00"
+      "items": [],
+      "updated": "2026-10-02T15:06:08.709126+08:00",
+      "error": "所有渠道均失败"
     }
   ]
 }
