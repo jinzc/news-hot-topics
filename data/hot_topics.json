@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-13 13:00:34",
+  "update_time": "2026-10-13 13:01:47",
   "sources": [
     {
       "name": "微博热搜",
@@ -22,6 +22,13 @@
           "rank": 2,
           "title": "红星照耀中国",
           "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "title": "孙颖莎海尔全球品牌代言人",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B5%B7%E5%B0%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
           "hot": 0,
           "tag": ""
         },
@@ -97,15 +104,15 @@
         },
         {
           "rank": 13,
-          "title": "李佳琦持续掉粉",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89",
+          "title": "央视官宣成毅",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E5%AE%98%E5%AE%A3%E6%88%90%E6%AF%85",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "title": "央视官宣成毅",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E5%AE%98%E5%AE%A3%E6%88%90%E6%AF%85",
+          "title": "李佳琦持续掉粉",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89",
           "hot": 0,
           "tag": ""
         },
@@ -125,8 +132,8 @@
         },
         {
           "rank": 17,
-          "title": "公务员考试",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95",
+          "title": "江淮汽车直线拉升",
+          "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
           "hot": 0,
           "tag": ""
         },
@@ -139,22 +146,22 @@
         },
         {
           "rank": 19,
-          "title": "多名教师谈公开检讨和连坐式问责",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%90%8D%E6%95%99%E5%B8%88%E8%B0%88%E5%85%AC%E5%BC%80%E6%A3%80%E8%AE%A8%E5%92%8C%E8%BF%9E%E5%9D%90%E5%BC%8F%E9%97%AE%E8%B4%A3",
+          "title": "孙颖莎与海尔国民组合有多适配",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8E%E6%B5%B7%E5%B0%94%E5%9B%BD%E6%B0%91%E7%BB%84%E5%90%88%E6%9C%89%E5%A4%9A%E9%80%82%E9%85%8D",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 20,
-          "title": "银行校招缩招",
-          "url": "https://s.weibo.com/weibo?q=%E9%93%B6%E8%A1%8C%E6%A0%A1%E6%8B%9B%E7%BC%A9%E6%8B%9B",
+          "title": "南拳妈妈成员帕劳潜水遭水下袭击",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E6%8B%B3%E5%A6%88%E5%A6%88%E6%88%90%E5%91%98%E5%B8%95%E5%8A%B3%E6%BD%9C%E6%B0%B4%E9%81%AD%E6%B0%B4%E4%B8%8B%E8%A2%AD%E5%87%BB",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 21,
-          "title": "南拳妈妈成员帕劳潜水遭水下袭击",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E6%8B%B3%E5%A6%88%E5%A6%88%E6%88%90%E5%91%98%E5%B8%95%E5%8A%B3%E6%BD%9C%E6%B0%B4%E9%81%AD%E6%B0%B4%E4%B8%8B%E8%A2%AD%E5%87%BB",
+          "title": "多名教师谈公开检讨和连坐式问责",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%90%8D%E6%95%99%E5%B8%88%E8%B0%88%E5%85%AC%E5%BC%80%E6%A3%80%E8%AE%A8%E5%92%8C%E8%BF%9E%E5%9D%90%E5%BC%8F%E9%97%AE%E8%B4%A3",
           "hot": 0,
           "tag": ""
         },
@@ -167,15 +174,15 @@
         },
         {
           "rank": 23,
-          "title": "李善宝 捏到一只咩咩",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%96%84%E5%AE%9D%20%E6%8D%8F%E5%88%B0%E4%B8%80%E5%8F%AA%E5%92%A9%E5%92%A9",
+          "title": "公务员考试",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 24,
-          "title": "江淮汽车直线拉升",
-          "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
+          "title": "李善宝 捏到一只咩咩",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%96%84%E5%AE%9D%20%E6%8D%8F%E5%88%B0%E4%B8%80%E5%8F%AA%E5%92%A9%E5%92%A9",
           "hot": 0,
           "tag": ""
         },
@@ -188,15 +195,15 @@
         },
         {
           "rank": 26,
-          "title": "冯禧总是被打岔也没有被打乱节奏",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%AF%E7%A6%A7%E6%80%BB%E6%98%AF%E8%A2%AB%E6%89%93%E5%B2%94%E4%B9%9F%E6%B2%A1%E6%9C%89%E8%A2%AB%E6%89%93%E4%B9%B1%E8%8A%82%E5%A5%8F",
+          "title": "银行校招缩招",
+          "url": "https://s.weibo.com/weibo?q=%E9%93%B6%E8%A1%8C%E6%A0%A1%E6%8B%9B%E7%BC%A9%E6%8B%9B",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 27,
-          "title": "孙颖莎与海尔国民组合有多适配",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8E%E6%B5%B7%E5%B0%94%E5%9B%BD%E6%B0%91%E7%BB%84%E5%90%88%E6%9C%89%E5%A4%9A%E9%80%82%E9%85%8D",
+          "title": "冯禧总是被打岔也没有被打乱节奏",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%AF%E7%A6%A7%E6%80%BB%E6%98%AF%E8%A2%AB%E6%89%93%E5%B2%94%E4%B9%9F%E6%B2%A1%E6%9C%89%E8%A2%AB%E6%89%93%E4%B9%B1%E8%8A%82%E5%A5%8F",
           "hot": 0,
           "tag": ""
         },
@@ -206,21 +213,14 @@
           "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%92%8C%E9%A9%AC%E5%AE%81%E4%BA%A4%E6%B6%89",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 29,
-          "title": "央视批藏手机神器太无底线",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%89%B9%E8%97%8F%E6%89%8B%E6%9C%BA%E7%A5%9E%E5%99%A8%E5%A4%AA%E6%97%A0%E5%BA%95%E7%BA%BF",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-10-13T13:00:12.295619+08:00"
+      "updated": "2026-10-13T13:01:14.848467+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [],
-      "updated": "2026-10-13T13:00:25.234072+08:00",
+      "updated": "2026-10-13T13:01:32.456927+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -437,7 +437,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-13T13:00:27.619506+08:00"
+      "updated": "2026-10-13T13:01:39.511335+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +653,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-13T13:00:28.881658+08:00"
+      "updated": "2026-10-13T13:01:41.387312+08:00"
     },
     {
       "name": "B站热门",
@@ -662,63 +662,63 @@
           "rank": 1,
           "title": "苏联版“空中监狱”是什么？【神奇组织55】",
           "url": "https://www.bilibili.com/video/BV1Cgpd6pEBR",
-          "hot": 345964,
+          "hot": 348712,
           "tag": "人文历史"
         },
         {
           "rank": 2,
           "title": "盾山·一塔千年皮肤CG《光阴的旅程》| 天柱地轴",
           "url": "https://www.bilibili.com/video/BV18RpR6eExi",
-          "hot": 277795,
+          "hot": 279325,
           "tag": "手机游戏"
         },
         {
           "rank": 3,
           "title": "“轮回百世，嘴硬百世。”",
           "url": "https://www.bilibili.com/video/BV1Sap968Efp",
-          "hot": 660470,
+          "hot": 662769,
           "tag": "绘画"
         },
         {
           "rank": 4,
           "title": "50块钱可以在熟食店卖那些东西？",
           "url": "https://www.bilibili.com/video/BV1oBpX6iEMA",
-          "hot": 1006861,
+          "hot": 1007954,
           "tag": "美食记录"
         },
         {
           "rank": 5,
           "title": "AI操作+多屏互动，我们离下一代智能系统还有多远？",
           "url": "https://www.bilibili.com/video/BV12vpQ6SEYu",
-          "hot": 339177,
+          "hot": 340131,
           "tag": "数码"
         },
         {
           "rank": 6,
           "title": "《小 时 候 最 刺 激 的 一 集》",
           "url": "https://www.bilibili.com/video/BV1FYpR6UEZw",
-          "hot": 509670,
+          "hot": 511266,
           "tag": "搞笑"
         },
         {
           "rank": 7,
           "title": "纽北二刷！SU7Ultra能成为第一台BTG 7分内的中国车吗？",
           "url": "https://www.bilibili.com/video/BV1cPpb6CEZT",
-          "hot": 502764,
+          "hot": 503088,
           "tag": "新能源车"
         },
         {
           "rank": 8,
           "title": "乌铜走银",
           "url": "https://www.bilibili.com/video/BV1Bjp966EA8",
-          "hot": 431508,
+          "hot": 432880,
           "tag": "手工"
         },
         {
           "rank": 9,
           "title": "你 坐 不 过 我 你 信 吗 ？",
           "url": "https://www.bilibili.com/video/BV1nYpn6DEzp",
-          "hot": 2134778,
+          "hot": 2136396,
           "tag": "单机游戏"
         },
         {
@@ -732,144 +732,144 @@
           "rank": 11,
           "title": "西（部）游记  闪身步vs哆嗦毛",
           "url": "https://www.bilibili.com/video/BV1P4pR6XEaj",
-          "hot": 304729,
+          "hot": 305113,
           "tag": "鬼畜剧场"
         },
         {
           "rank": 12,
           "title": "今年诺奖颁给了“大脑的开关”：光遗传学到底是什么",
           "url": "https://www.bilibili.com/video/BV1Fbpt6qEPq",
-          "hot": 406862,
+          "hot": 407632,
           "tag": "软件应用"
         },
         {
           "rank": 13,
           "title": "遗传定律：一种疾病，为什么能在家族中潜伏数代？",
           "url": "https://www.bilibili.com/video/BV1XupR6NEeo",
-          "hot": 1268132,
+          "hot": 1270168,
           "tag": "科学科普"
         },
         {
           "rank": 14,
           "title": "超级“干净”的巴基斯坦汽水工厂，是一代人永远无法磨灭的伤痛",
           "url": "https://www.bilibili.com/video/BV1VKpR6TEa7",
-          "hot": 541167,
+          "hot": 542960,
           "tag": "美食侦探"
         },
         {
           "rank": 15,
           "title": "【花小烙】蚰蜒：不就是腿多了点嘛，我们真没那么恐怖！",
           "url": "https://www.bilibili.com/video/BV1CapR6JEAM",
-          "hot": 604149,
+          "hot": 605126,
           "tag": "科学科普"
         },
         {
           "rank": 16,
           "title": "【目标是最强共鸣者】第一话 流浪骑士卡提希娅，参上！",
           "url": "https://www.bilibili.com/video/BV1W8pp6hEHs",
-          "hot": 441208,
+          "hot": 441875,
           "tag": "日常"
         },
         {
           "rank": 17,
           "title": "新三国up锐评神探狄仁杰21：反正不像你那么身轻如燕！",
           "url": "https://www.bilibili.com/video/BV1tppo6PEuB",
-          "hot": 140859,
+          "hot": 141543,
           "tag": "日常"
         },
         {
           "rank": 18,
           "title": "精神小妹误闯天家",
           "url": "https://www.bilibili.com/video/BV1A4pR6XEeK",
-          "hot": 1072239,
+          "hot": 1073784,
           "tag": "搞笑"
         },
         {
           "rank": 19,
           "title": "段位争夺战",
           "url": "https://www.bilibili.com/video/BV1WUpd64Ex6",
-          "hot": 609615,
+          "hot": 610907,
           "tag": "小剧场"
         },
         {
           "rank": 20,
           "title": "正在试图高风险高回报的马可...",
           "url": "https://www.bilibili.com/video/BV1Dvp96tEcQ",
-          "hot": 566417,
+          "hot": 567501,
           "tag": "电子竞技"
         },
         {
           "rank": 21,
           "title": "也许新五星旅骨真能成为325之神...",
           "url": "https://www.bilibili.com/video/BV1trpd6wEJJ",
-          "hot": 233363,
+          "hot": 234582,
           "tag": "手机游戏"
         },
         {
           "rank": 22,
           "title": "邓紫棋娶进狱男友被脱粉，王星绑架后网贷仍没还完，代露娃献祭父母后开始洗白【吃瓜周报】",
           "url": "https://www.bilibili.com/video/BV1jdp76MEPS",
-          "hot": 895184,
+          "hot": 896182,
           "tag": "日常"
         },
         {
           "rank": 23,
           "title": "大心脏行为实力排行（胆小者谨慎观看）",
           "url": "https://www.bilibili.com/video/BV13KpX6bEBs",
-          "hot": 497937,
+          "hot": 499243,
           "tag": "日常"
         },
         {
           "rank": 24,
           "title": "【A2O】A2O LITE 'NEON' Official Video",
           "url": "https://www.bilibili.com/video/BV1VVpo6gEYg",
-          "hot": 629268,
+          "hot": 630441,
           "tag": "MV"
         },
         {
           "rank": 25,
           "title": "我们来到了地中海，重走《奥德赛》十年回家路！",
           "url": "https://www.bilibili.com/video/BV1mopE6xEqv",
-          "hot": 2882602,
+          "hot": 2884966,
           "tag": "出行"
         },
         {
           "rank": 26,
           "title": "特朗普为何“大撒币”？中期选举究竟有多重要？【纸牌屋现实版】",
           "url": "https://www.bilibili.com/video/BV14LpE6sEx6",
-          "hot": 811680,
+          "hot": 812341,
           "tag": "影视杂谈"
         },
         {
           "rank": 27,
           "title": "“我酒桶有自己的想法！”369、Karsa重聊纳尔往事【LPL视频播客丨把TA叫过来ep2】",
           "url": "https://www.bilibili.com/video/BV1KJpn68E2b",
-          "hot": 1114312,
+          "hot": 1115289,
           "tag": "电子竞技"
         },
         {
           "rank": 28,
           "title": "发生在你身边的传闻！请辨别它是真是假！《走进科学》游戏版！",
           "url": "https://www.bilibili.com/video/BV1F6po6QEeF",
-          "hot": 141660,
+          "hot": 142336,
           "tag": "单机游戏"
         },
         {
           "rank": 29,
           "title": "来跟抓拍摄影师竞赛吧【AI全民制作人】",
           "url": "https://www.bilibili.com/video/BV1ujpn6YEHS",
-          "hot": 700983,
+          "hot": 702304,
           "tag": "汪星人"
         },
         {
           "rank": 30,
           "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
           "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
-          "hot": 667075,
+          "hot": 667640,
           "tag": "翻唱"
         }
       ],
-      "updated": "2026-10-13T13:00:29.377921+08:00"
+      "updated": "2026-10-13T13:01:42.146931+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1085,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-13T13:00:34.747514+08:00"
+      "updated": "2026-10-13T13:01:47.211237+08:00"
     }
   ]
 }
