@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-15 02:59:57",
+  "update_time": "2026-10-15 03:00:26",
   "sources": [
     {
       "name": "微博热搜",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 2,
-          "title": "双11沈腾马丽用京东组合购省麻了",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%8C11%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E7%94%A8%E4%BA%AC%E4%B8%9C%E7%BB%84%E5%90%88%E8%B4%AD%E7%9C%81%E9%BA%BB%E4%BA%86",
+          "title": "20号晚8点上淘宝双11开卖",
+          "url": "https://s.weibo.com/weibo?q=20%E5%8F%B7%E6%99%9A8%E7%82%B9%E4%B8%8A%E6%B7%98%E5%AE%9D%E5%8F%8C11%E5%BC%80%E5%8D%96",
           "hot": 0,
           "tag": ""
         },
@@ -50,6 +50,13 @@
           "rank": 5,
           "title": "陈小春",
           "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E6%98%A5",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "天猫双11买iPhone18Pro立省800",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E4%B9%B0iPhone18Pro%E7%AB%8B%E7%9C%81800",
           "hot": 0,
           "tag": ""
         },
@@ -206,22 +213,225 @@
           "url": "https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E8%BD%A6%E6%88%91%E7%AE%A1%E4%BD%A0%E8%BF%99%E4%B8%AA%E9%82%A3%E4%B8%AA%E7%9A%84",
           "hot": 0,
           "tag": ""
+        }
+      ],
+      "updated": "2026-10-15T03:00:12.950924+08:00"
+    },
+    {
+      "name": "知乎热榜",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美国 9 月 CPI 数据公布，同比上涨 3.7%，高于市场预期的 3.6%，释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2093811458442092969",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "title": "荣耀 WIN2 首发东风双子星涡轮散热，双风扇对游戏手机体验影响有多大？能彻底告别散热背夹吗？",
+          "url": "https://www.zhihu.com/question/2093722937379632826",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 3,
+          "title": "微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？",
+          "url": "https://www.zhihu.com/question/2093689082383524747",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "title": "国台办回应蔡康永现身沈伯洋竞选活动，在大是大非问题上没有任何模糊的空间，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2093662309310620149",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？",
+          "url": "https://www.zhihu.com/question/2093654423369152454",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "title": "群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2093629140502933840",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "title": "一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2093390624560871266",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "title": "LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化？",
+          "url": "https://www.zhihu.com/question/2093383237888484288",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "title": "33 岁销冠确诊胃癌晚期后突然被辞退，公司不服劳动仲裁判赔 11 万提起诉讼，法院可能会怎样判决？",
+          "url": "https://www.zhihu.com/question/2093379096701039540",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "title": "传 RTX508024GB 定档 2027 年 Q1，如何看待该卡接任新旗舰？",
+          "url": "https://www.zhihu.com/question/2093345148323342210",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 11,
+          "title": "如何看待二本毕业女生待业一年，仍坚持找一份双休工作？是不愿降低生活标准，还是对就业市场缺乏认知？",
+          "url": "https://www.zhihu.com/question/2093283021692605069",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 12,
+          "title": "如何看待网红女装品牌CHICYOU因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？",
+          "url": "https://www.zhihu.com/question/2093001535881832037",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 13,
+          "title": "郑钦文夺冠，上汽奥迪发文「AUDI 全系买一送一」，送的却是车模引发热议，大家怎么看？",
+          "url": "https://www.zhihu.com/question/2092980571324379933",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "title": "如果你有25万的存款，面对1500的衣服裤子你会不会犹豫啊？",
+          "url": "https://www.zhihu.com/question/2092975777457378886",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "title": "四部门要求新车研发必须包含「两冬一夏」测试，会改变汽车行业格局吗？",
+          "url": "https://www.zhihu.com/question/2092952717853571036",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 16,
+          "title": "为什么《兰香如故》电视剧，女主结婚从丫鬟到豪门贵妇就劝退了观众？",
+          "url": "https://www.zhihu.com/question/2092260909305553126",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 17,
+          "title": "孩子刷短视频上瘾看不进书，手机真的会毁掉孩子的深度阅读能力吗？",
+          "url": "https://www.zhihu.com/question/2092143619943707853",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 18,
+          "title": "和孩子在一起，你会闯红灯吗？为什么？",
+          "url": "https://www.zhihu.com/question/2090421932114163093",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "方便面煮着吃为什么比泡着吃更香？",
+          "url": "https://www.zhihu.com/question/2088359008025559455",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 20,
+          "title": "如何评价2026年上映的韩国电影《希望》？",
+          "url": "https://www.zhihu.com/question/2081814537989371809",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 21,
+          "title": "当孩子取的好成绩的时候，你会怎么奖励他？",
+          "url": "https://www.zhihu.com/question/2081633077701371437",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 22,
+          "title": "人类为什么不能培育一种专门象牙很长的大象？非得去猎杀野生大象？",
+          "url": "https://www.zhihu.com/question/1968989779006829679",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 23,
+          "title": "《琅琊榜》的权谋真的很幼稚吗？",
+          "url": "https://www.zhihu.com/question/1888170995262682445",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 24,
+          "title": "武汉的超高层住宅未来的出路在哪里？",
+          "url": "https://www.zhihu.com/question/652170353",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 25,
+          "title": "如果人的脚进化成蹄子会怎么样？",
+          "url": "https://www.zhihu.com/question/645292302",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 26,
+          "title": "猪肚可以做成什么美食？",
+          "url": "https://www.zhihu.com/question/642821169",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
+          "title": "孩子的哪一个瞬间让您特别感动？",
+          "url": "https://www.zhihu.com/question/623842636",
+          "hot": 0,
+          "tag": ""
         },
         {
           "rank": 28,
-          "title": "CPI",
-          "url": "https://s.weibo.com/weibo?q=CPI",
+          "title": "如果贾宝玉不小心娶了夏金桂，贾家的人能搞定她吗？",
+          "url": "https://www.zhihu.com/question/426303627",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 29,
+          "title": "有哪些看似很健康的垃圾食品？",
+          "url": "https://www.zhihu.com/question/308419008",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 30,
+          "title": "野外有哪些危险的植物？",
+          "url": "https://www.zhihu.com/question/64925609",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-10-15T02:59:44.086702+08:00"
-    },
-    {
-      "name": "知乎热榜",
-      "items": [],
-      "updated": "2026-10-15T02:59:48.754126+08:00",
-      "error": "所有渠道均失败"
+      "updated": "2026-10-15T03:00:15.094021+08:00"
     },
     {
       "name": "百度热搜",
@@ -437,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-15T02:59:51.557220+08:00"
+      "updated": "2026-10-15T03:00:19.358732+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +863,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-15T02:59:52.506491+08:00"
+      "updated": "2026-10-15T03:00:20.446934+08:00"
     },
     {
       "name": "B站热门",
@@ -676,14 +886,14 @@
           "rank": 3,
           "title": "原来502胶水是这么来的！致敬伟大的科研人员！",
           "url": "https://www.bilibili.com/video/BV1mRWw62ErA",
-          "hot": 1193915,
+          "hot": 1194171,
           "tag": "日常"
         },
         {
           "rank": 4,
           "title": "【Karsa】终于跟RNG老队友重逢了🥺｜上海VLOG EP2",
           "url": "https://www.bilibili.com/video/BV1E4pq6fE8A",
-          "hot": 370270,
+          "hot": 370499,
           "tag": "网络游戏"
         },
         {
@@ -697,7 +907,7 @@
           "rank": 6,
           "title": "77天1400公里独自横穿羌塘，杨柳松与北方的空地",
           "url": "https://www.bilibili.com/video/BV14JpC6ZE3U",
-          "hot": 439131,
+          "hot": 439311,
           "tag": "影视杂谈"
         },
         {
@@ -711,7 +921,7 @@
           "rank": 8,
           "title": "大庆，一座孤独的城市",
           "url": "https://www.bilibili.com/video/BV1Pupy6sExt",
-          "hot": 375628,
+          "hot": 375753,
           "tag": "日常"
         },
         {
@@ -725,7 +935,7 @@
           "rank": 10,
           "title": "李秀满新女团会再次拯救KPOP吗？韩国人怎么评价a2o lite 出道！",
           "url": "https://www.bilibili.com/video/BV1eRpi6DEq6",
-          "hot": 299558,
+          "hot": 299616,
           "tag": "日常"
         },
         {
@@ -753,21 +963,21 @@
           "rank": 14,
           "title": "印度排位对局👳🏽绝活天残脚vs丝滑半截山！😱从来没有见过这等招式！",
           "url": "https://www.bilibili.com/video/BV1ezWw6oETf",
-          "hot": 1767763,
+          "hot": 1767996,
           "tag": "搞笑"
         },
         {
           "rank": 15,
           "title": "我去当司机大家觉得有搞头嘛！",
           "url": "https://www.bilibili.com/video/BV1kKWA6uEyr",
-          "hot": 2498306,
+          "hot": 2498596,
           "tag": "搞笑"
         },
         {
           "rank": 16,
           "title": "我对不同假期的态度",
           "url": "https://www.bilibili.com/video/BV1CPWA66EHq",
-          "hot": 841103,
+          "hot": 841205,
           "tag": "搞笑"
         },
         {
@@ -788,7 +998,7 @@
           "rank": 19,
           "title": "在冬夜，一块蛋糕，两个冻人",
           "url": "https://www.bilibili.com/video/BV1uYWA6DEVV",
-          "hot": 758490,
+          "hot": 758561,
           "tag": "手机游戏"
         },
         {
@@ -858,7 +1068,7 @@
           "rank": 29,
           "title": "护:哥你这不是给我俩送钱吗？护：不对！我掉进陷阱了！打了两天还是零进度的护子终于发现事情的严重性了",
           "url": "https://www.bilibili.com/video/BV1utWc6jEo5",
-          "hot": 883982,
+          "hot": 884068,
           "tag": "网络游戏"
         },
         {
@@ -869,7 +1079,7 @@
           "tag": "日常"
         }
       ],
-      "updated": "2026-10-15T02:59:53.176956+08:00"
+      "updated": "2026-10-15T03:00:20.981715+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-15T02:59:57.945551+08:00"
+      "updated": "2026-10-15T03:00:26.279988+08:00"
     }
   ]
 }
