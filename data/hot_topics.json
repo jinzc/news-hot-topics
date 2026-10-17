@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-18 00:00:32",
+  "update_time": "2026-10-18 00:01:44",
   "sources": [
     {
       "name": "微博热搜",
@@ -22,6 +22,13 @@
           "rank": 2,
           "title": "广交会真的太全面了",
           "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%BA%A4%E4%BC%9A%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "title": "京东给60岁老人发重阳补贴",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E7%BB%9960%E5%B2%81%E8%80%81%E4%BA%BA%E5%8F%91%E9%87%8D%E9%98%B3%E8%A1%A5%E8%B4%B4",
           "hot": 0,
           "tag": ""
         },
@@ -132,15 +139,15 @@
         },
         {
           "rank": 18,
-          "title": "二十年后发现老师早知道自己撒谎",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E8%80%81%E5%B8%88%E6%97%A9%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%92%92%E8%B0%8E",
+          "title": "王嘉尔京腔儿",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E4%BA%AC%E8%85%94%E5%84%BF",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 19,
-          "title": "王嘉尔京腔儿",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E4%BA%AC%E8%85%94%E5%84%BF",
+          "title": "二十年后发现老师早知道自己撒谎",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E8%80%81%E5%B8%88%E6%97%A9%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%92%92%E8%B0%8E",
           "hot": 0,
           "tag": ""
         },
@@ -206,16 +213,9 @@
           "url": "https://s.weibo.com/weibo?q=%E7%9A%AE%E8%B4%A8%E9%86%87%E9%AB%98%E7%9A%846%E5%A4%A7%E8%BA%AB%E4%BD%93%E4%BF%A1%E5%8F%B7",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 29,
-          "title": "刘丁硕置顶都是王楚钦",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%B8%81%E7%A1%95%E7%BD%AE%E9%A1%B6%E9%83%BD%E6%98%AF%E7%8E%8B%E6%A5%9A%E9%92%A6",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-10-18T00:00:12.098230+08:00"
+      "updated": "2026-10-18T00:01:12.896255+08:00"
     },
     {
       "name": "知乎热榜",
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-18T00:00:14.101331+08:00"
+      "updated": "2026-10-18T00:01:15.053157+08:00"
     },
     {
       "name": "百度热搜",
@@ -647,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-10-18T00:00:17.087895+08:00"
+      "updated": "2026-10-18T00:01:22.666138+08:00"
     },
     {
       "name": "抖音热点",
@@ -822,48 +822,48 @@
         },
         {
           "rank": 25,
-          "title": "嫁金钗仿妆已安排",
-          "url": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E4%BB%BF%E5%A6%86%E5%B7%B2%E5%AE%89%E6%8E%92",
-          "hot": 7781136,
-          "tag": ""
-        },
-        {
-          "rank": 26,
           "title": "李荣浩天津演唱会",
           "url": "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A",
           "hot": 7767156,
           "tag": ""
         },
         {
-          "rank": 27,
+          "rank": 26,
           "title": "王祖蓝时隔8年回归奔跑吧",
           "url": "https://www.douyin.com/search/%E7%8E%8B%E7%A5%96%E8%93%9D%E6%97%B6%E9%9A%948%E5%B9%B4%E5%9B%9E%E5%BD%92%E5%A5%94%E8%B7%91%E5%90%A7",
           "hot": 7764348,
           "tag": ""
         },
         {
-          "rank": 28,
+          "rank": 27,
           "title": "西安阿达西烤完你的烤你的",
           "url": "https://www.douyin.com/search/%E8%A5%BF%E5%AE%89%E9%98%BF%E8%BE%BE%E8%A5%BF%E7%83%A4%E5%AE%8C%E4%BD%A0%E7%9A%84%E7%83%A4%E4%BD%A0%E7%9A%84",
           "hot": 7760107,
           "tag": ""
         },
         {
-          "rank": 29,
+          "rank": 28,
           "title": "苏超盐城队0:0常州队",
           "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E7%9B%90%E5%9F%8E%E9%98%9F0%3A0%E5%B8%B8%E5%B7%9E%E9%98%9F",
           "hot": 7754256,
           "tag": ""
         },
         {
-          "rank": 30,
+          "rank": 29,
           "title": "田曦薇掌公主驾到通通闪开",
           "url": "https://www.douyin.com/search/%E7%94%B0%E6%9B%A6%E8%96%87%E6%8E%8C%E5%85%AC%E4%B8%BB%E9%A9%BE%E5%88%B0%E9%80%9A%E9%80%9A%E9%97%AA%E5%BC%80",
           "hot": 7744162,
           "tag": ""
+        },
+        {
+          "rank": 30,
+          "title": "曾毅回复法是什么梗",
+          "url": "https://www.douyin.com/search/%E6%9B%BE%E6%AF%85%E5%9B%9E%E5%A4%8D%E6%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
+          "hot": 7743936,
+          "tag": ""
         }
       ],
-      "updated": "2026-10-18T00:00:18.097242+08:00"
+      "updated": "2026-10-18T00:01:23.780312+08:00"
     },
     {
       "name": "B站热门",
@@ -879,42 +879,42 @@
           "rank": 2,
           "title": "花费上万！真人版弹丸论破开庭！",
           "url": "https://www.bilibili.com/video/BV1Y2Je6BEDr",
-          "hot": 334968,
+          "hot": 336212,
           "tag": "鬼畜调教"
         },
         {
           "rank": 3,
           "title": "【使命召唤23：现代战争4】4K 最高画质 全战役 全剧情流程通关攻略 战役模式 COD23-Call of Duty：Modern Warfare 4【完结】",
           "url": "https://www.bilibili.com/video/BV1seJb63ENu",
-          "hot": 1380275,
+          "hot": 1382977,
           "tag": "影视剪辑"
         },
         {
           "rank": 4,
           "title": "科学家们用物理智斗爱因斯坦？",
           "url": "https://www.bilibili.com/video/BV1fZJ26mEiY",
-          "hot": 2369501,
+          "hot": 2372230,
           "tag": "校园学习"
         },
         {
           "rank": 5,
           "title": "我是人类",
           "url": "https://www.bilibili.com/video/BV1gKJ86JEuP",
-          "hot": 1015115,
+          "hot": 1016824,
           "tag": "单机游戏"
         },
         {
           "rank": 6,
           "title": "洗衣机如何演奏《雨爱》？",
           "url": "https://www.bilibili.com/video/BV1fNJQ6bEAj",
-          "hot": 863245,
+          "hot": 865602,
           "tag": "演奏"
         },
         {
           "rank": 7,
           "title": "一口气看完故宫角楼建造全过程",
           "url": "https://www.bilibili.com/video/BV1t9pr6oE2i",
-          "hot": 1118410,
+          "hot": 1119360,
           "tag": "家居房产"
         },
         {
@@ -928,14 +928,14 @@
           "rank": 9,
           "title": "《遗忘之海》“歌丝莉”剧作者角色PV ——采风记",
           "url": "https://www.bilibili.com/video/BV1TdJX65ENW",
-          "hot": 459559,
+          "hot": 459855,
           "tag": "GMV"
         },
         {
           "rank": 10,
           "title": "【纪录片】威尔史密斯的极地纵横 03 厄瓜多尔搜寻水蚺",
           "url": "https://www.bilibili.com/video/BV1J9ao6LE9U",
-          "hot": 1305154,
+          "hot": 1305335,
           "tag": "科学·探索·自然"
         },
         {
@@ -949,21 +949,21 @@
           "rank": 12,
           "title": "当代福尔摩斯让我找到了",
           "url": "https://www.bilibili.com/video/BV17tJD6REUb",
-          "hot": 989485,
+          "hot": 990752,
           "tag": "网络游戏"
         },
         {
           "rank": 13,
           "title": "【纪录片】中国救护2 05 家和万事兴",
           "url": "https://www.bilibili.com/video/BV1PoJX6CEyy",
-          "hot": 1435404,
+          "hot": 1435888,
           "tag": "社会·美食·旅行"
         },
         {
           "rank": 14,
           "title": "震撼世界！当《黑神话·钟馗》走进现实，中式美学天花板在此！",
           "url": "https://www.bilibili.com/video/BV18XJC6sE7i",
-          "hot": 961796,
+          "hot": 962921,
           "tag": "出行"
         },
         {
@@ -977,42 +977,42 @@
           "rank": 16,
           "title": "历经一个月！我们做到了！！",
           "url": "https://www.bilibili.com/video/BV1dWJv6GEoH",
-          "hot": 309326,
+          "hot": 309805,
           "tag": "日常"
         },
         {
           "rank": 17,
           "title": "啊？61.0",
           "url": "https://www.bilibili.com/video/BV1sVJ86yEqF",
-          "hot": 640380,
+          "hot": 640940,
           "tag": "单机游戏"
         },
         {
           "rank": 18,
           "title": "美国最肥披萨店！全球第一大50斤70000千卡有多离谱？",
           "url": "https://www.bilibili.com/video/BV19LJQ6QEa2",
-          "hot": 1237757,
+          "hot": 1238762,
           "tag": "美食侦探"
         },
         {
           "rank": 19,
           "title": "挑战全程扛共享单车登顶峨眉山金顶",
           "url": "https://www.bilibili.com/video/BV1KoJX6CEGT",
-          "hot": 974250,
+          "hot": 974747,
           "tag": "出行"
         },
         {
           "rank": 20,
           "title": "浪漫惊悚文字冒险《Rain98》第二支PV公开！Demo现已上线Steam！",
           "url": "https://www.bilibili.com/video/BV1RjJ96fE1C",
-          "hot": 881492,
+          "hot": 882116,
           "tag": "单机游戏"
         },
         {
           "rank": 21,
           "title": "《夜幕之下》活动版本PV：幸福无罪论",
           "url": "https://www.bilibili.com/video/BV1o2J46sEqf",
-          "hot": 630463,
+          "hot": 630952,
           "tag": "影视剪辑"
         },
         {
@@ -1026,7 +1026,7 @@
           "rank": 23,
           "title": "【篮球巨星】雷影艾全技能脑洞！Man！What can i say！",
           "url": "https://www.bilibili.com/video/BV1LHpg6EE1r",
-          "hot": 818877,
+          "hot": 819543,
           "tag": "手机游戏"
         },
         {
@@ -1040,52 +1040,262 @@
           "rank": 25,
           "title": "鸿蒙7+逻辑折叠芯，游戏体验也起飞？",
           "url": "https://www.bilibili.com/video/BV1xMJt6gEDN",
-          "hot": 141576,
+          "hot": 142306,
           "tag": "数码"
         },
         {
           "rank": 26,
           "title": "如果同一件事用不同演法？你觉得哪个最像？我甚至模仿了ai！哈哈哈哈",
           "url": "https://www.bilibili.com/video/BV1mSJt63Enj",
-          "hot": 734723,
+          "hot": 735146,
           "tag": "小剧场"
         },
         {
           "rank": 27,
           "title": "让人生理性厌恶的两口子黄子韬徐艺洋",
           "url": "https://www.bilibili.com/video/BV1ukJD6LE2P",
-          "hot": 1320232,
+          "hot": 1321334,
           "tag": "日常"
         },
         {
           "rank": 28,
           "title": "【先吃饭吧】——吃饱就出发！",
           "url": "https://www.bilibili.com/video/BV1KAJq6vEX4",
-          "hot": 301344,
+          "hot": 302349,
           "tag": "日常"
         },
         {
           "rank": 29,
           "title": "和闺蜜穿成了假扮兽人的人类炮灰EP04：🐰：嘬嘬嘬。🐺：你才是狗！🐱：我们是共犯？🐆：对啦，蒸蚌！",
           "url": "https://www.bilibili.com/video/BV1xiJk67EiT",
-          "hot": 770444,
+          "hot": 771064,
           "tag": "影视剪辑"
         },
         {
           "rank": 30,
           "title": "【4K】《使命召唤23：现代战争4》无删减｜2026｜单人战役｜英配中字｜最高画质中文剧情流程攻略｜Call of Duty Modern Warfare 4",
           "url": "https://www.bilibili.com/video/BV17RJh6vE3K",
-          "hot": 435997,
+          "hot": 436814,
           "tag": "单机游戏"
         }
       ],
-      "updated": "2026-10-18T00:00:18.496686+08:00"
+      "updated": "2026-10-18T00:01:24.443119+08:00"
     },
     {
       "name": "IT之家",
-      "items": [],
-      "updated": "2026-10-18T00:00:32.782071+08:00",
-      "error": "所有渠道均失败"
+      "items": [
+        {
+          "rank": 1,
+          "title": "12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单",
+          "url": "https://www.ithome.com/1/014/410.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "title": "网易《逆水寒：新世界》首个大型资料片【苗疆蛊事】官宣，首次采用双线更新框架",
+          "url": "https://www.ithome.com/1/014/409.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 3,
+          "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
+          "url": "https://www.ithome.com/1/014/407.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "title": "上汽荣威家越 07 纯电版完成申报：大五座布局，轴距达 2908 mm",
+          "url": "https://www.ithome.com/1/014/406.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "倍思推出 2026 新国标 45W 自带双线移动电源：2C+1A+1Lightning，20000mAh 电芯售 171 元",
+          "url": "https://www.ithome.com/1/014/405.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "title": "奔驰全新纯电 C300L 申报图公布，最大功率 230kW / 轴距 3051mm",
+          "url": "https://www.ithome.com/1/014/404.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "title": "2026 WSBK 西班牙站首回合：张雪机车德比斯获第 10 位",
+          "url": "https://www.ithome.com/1/014/400.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "title": "华硕推出 ROG ZOOM 八类万兆电竞网线：1.5 米 299 元，3 米 399 元",
+          "url": "https://www.ithome.com/1/014/399.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "title": "广汽埃安 Ray7 开启预售：华为 DriveONE 多合一电驱，12.88 万元起",
+          "url": "https://www.ithome.com/1/014/398.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "title": "消息称三星正开发全新 Galaxy OS 系统，预计于 2028 年随 Galaxy S28 系列手机亮相",
+          "url": "https://www.ithome.com/1/014/397.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 11,
+          "title": "JBL WAVE FLEX 3 半入耳式降噪耳机首销：12mm 动圈、40 小时续航，668 元",
+          "url": "https://www.ithome.com/1/014/395.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 12,
+          "title": "10.97 万元起吉利星瑞 L PLUS 正式上市，国内首款搭载激光雷达的燃油轿车",
+          "url": "https://www.ithome.com/1/014/394.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 13,
+          "title": "比亚迪第三代秦 PLUS 官图公布，已完成申报",
+          "url": "https://www.ithome.com/1/014/392.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "title": "阿维塔 T09 实车曝光，定位“50 万级科技新旗舰”",
+          "url": "https://www.ithome.com/1/014/391.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
+          "url": "https://www.ithome.com/1/014/390.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 16,
+          "title": "泰坦军团推出“G27W9S ULTRA”27 英寸显示器：2K 320Hz QD-OLED，3221 元（国补后 2898 元）",
+          "url": "https://www.ithome.com/1/014/389.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 17,
+          "title": "边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行",
+          "url": "https://www.ithome.com/1/014/387.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 18,
+          "title": "一加 Ace 7 系列手机外观首曝，搭载主动散热风扇",
+          "url": "https://www.ithome.com/1/014/386.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
+          "url": "https://www.ithome.com/1/014/385.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 20,
+          "title": "京东 10 月 20 日 20 点 11.11 再加码：厨房小电皆好价，海尔微波炉仅 178 元",
+          "url": "https://www.ithome.com/1/014/384.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 21,
+          "title": "普联 TP-LINK 推出新款大道 BE6400 路由器 TL-7DR6460：四 2.5G 网口 + 双千兆网口，389 元",
+          "url": "https://www.ithome.com/1/014/383.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 22,
+          "title": "科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元",
+          "url": "https://www.ithome.com/1/014/382.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 23,
+          "title": "宇树科技展示中心在天津建成投用，集中陈列多款机器人产品",
+          "url": "https://www.ithome.com/1/014/380.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 24,
+          "title": "IT之家 11.11 严选好货：石头洗烘一体机 5999 → 1598 元，米家 216L 三门冰箱低至 628 元",
+          "url": "https://www.ithome.com/1/014/378.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 25,
+          "title": "V社确认正为 Steam Frame 头显开发全新头带：支持热插拔电池，升级音频表现",
+          "url": "https://www.ithome.com/1/014/379.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 26,
+          "title": "机械革命 imini P700 迷你电脑主机新增 AMD R7 H255 + 16G + 512G 配置，4399 元",
+          "url": "https://www.ithome.com/1/014/377.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 27,
+          "title": "5999 → 1598 元：石头 H1 分子筛洗烘一体机直降，12kg 一键洗完烘干直接穿",
+          "url": "https://www.ithome.com/1/014/376.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 28,
+          "title": "猎户座流星雨将于 10 月 21 日至 22 日迎来极大：无需专业器材肉眼可见，理想条件下每小时 20 颗",
+          "url": "https://www.ithome.com/1/014/373.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 29,
+          "title": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s",
+          "url": "https://www.ithome.com/1/014/372.htm",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 30,
+          "title": "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去",
+          "url": "https://www.ithome.com/1/014/371.htm",
+          "hot": 0,
+          "tag": ""
+        }
+      ],
+      "updated": "2026-10-18T00:01:44.217243+08:00"
     }
   ]
 }
