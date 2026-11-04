@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-04 23:00:23",
+  "update_time": "2026-11-04 23:01:24",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,6 +26,13 @@
           "tag": ""
         },
         {
+          "rank": 2,
+          "title": "樊振东杜塞周边来啦",
+          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9D%9C%E5%A1%9E%E5%91%A8%E8%BE%B9%E6%9D%A5%E5%95%A6",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 3,
           "title": "内娱谁能演出许飞这个眼神",
           "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%B0%81%E8%83%BD%E6%BC%94%E5%87%BA%E8%AE%B8%E9%A3%9E%E8%BF%99%E4%B8%AA%E7%9C%BC%E7%A5%9E",
@@ -43,6 +50,13 @@
           "rank": 5,
           "title": "后会友期第二季呼声TOP10",
           "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%91%BC%E5%A3%B0TOP10",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "中了乐事大奖怎么花",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BA%86%E4%B9%90%E4%BA%8B%E5%A4%A7%E5%A5%96%E6%80%8E%E4%B9%88%E8%8A%B1",
           "hot": 0,
           "tag": ""
         },
@@ -132,8 +146,8 @@
         },
         {
           "rank": 18,
-          "title": "内存短缺或持续到2030年",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E6%88%96%E6%8C%81%E7%BB%AD%E5%88%B02030%E5%B9%B4",
+          "title": "内存短缺预计持续至2030年",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E9%A2%84%E8%AE%A1%E6%8C%81%E7%BB%AD%E8%87%B32030%E5%B9%B4",
           "hot": 0,
           "tag": ""
         },
@@ -146,76 +160,62 @@
         },
         {
           "rank": 20,
-          "title": "内存短缺预计持续至2030年",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E9%A2%84%E8%AE%A1%E6%8C%81%E7%BB%AD%E8%87%B32030%E5%B9%B4",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 21,
-          "title": "被烧伤学生家属请求自担责任降至3%",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%AE%B6%E5%B1%9E%E8%AF%B7%E6%B1%82%E8%87%AA%E6%8B%85%E8%B4%A3%E4%BB%BB%E9%99%8D%E8%87%B33%25",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 22,
           "title": "小孩都知道买东西是隐形家务",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A9%E9%83%BD%E7%9F%A5%E9%81%93%E4%B9%B0%E4%B8%9C%E8%A5%BF%E6%98%AF%E9%9A%90%E5%BD%A2%E5%AE%B6%E5%8A%A1",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 23,
+          "rank": 21,
           "title": "这就是勤换洗水杯的原因",
           "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8B%A4%E6%8D%A2%E6%B4%97%E6%B0%B4%E6%9D%AF%E7%9A%84%E5%8E%9F%E5%9B%A0",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 24,
-          "title": "被室友电瓶烧伤男生已做12次植皮",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E5%AE%A4%E5%8F%8B%E7%94%B5%E7%93%B6%E7%83%A7%E4%BC%A4%E7%94%B7%E7%94%9F%E5%B7%B2%E5%81%9A12%E6%AC%A1%E6%A4%8D%E7%9A%AE",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 25,
+          "rank": 22,
           "title": "唐嫣杨幂同台被王凯隔开",
           "url": "https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E6%9D%A8%E5%B9%82%E5%90%8C%E5%8F%B0%E8%A2%AB%E7%8E%8B%E5%87%AF%E9%9A%94%E5%BC%80",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 26,
+          "rank": 23,
           "title": "369彻底出圈",
           "url": "https://s.weibo.com/weibo?q=369%E5%BD%BB%E5%BA%95%E5%87%BA%E5%9C%88",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 27,
+          "rank": 24,
+          "title": "内存短缺或持续到2030年",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E6%88%96%E6%8C%81%E7%BB%AD%E5%88%B02030%E5%B9%B4",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 25,
           "title": "红果时间",
           "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E6%97%B6%E9%97%B4",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 28,
-          "title": "西南交大王某硕士论文抄袭属实",
-          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E5%8D%97%E4%BA%A4%E5%A4%A7%E7%8E%8B%E6%9F%90%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%E5%B1%9E%E5%AE%9E",
+          "rank": 26,
+          "title": "毛晓彤说肖战群戏也全神贯注",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%9B%E6%99%93%E5%BD%A4%E8%AF%B4%E8%82%96%E6%88%98%E7%BE%A4%E6%88%8F%E4%B9%9F%E5%85%A8%E7%A5%9E%E8%B4%AF%E6%B3%A8",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 29,
-          "title": "没想到脂肪肝和抑郁症有关系",
-          "url": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%83%B3%E5%88%B0%E8%84%82%E8%82%AA%E8%82%9D%E5%92%8C%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%85%B3%E7%B3%BB",
+          "rank": 27,
+          "title": "被烧伤学生家属请求自担责任降至3%",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%AE%B6%E5%B1%9E%E8%AF%B7%E6%B1%82%E8%87%AA%E6%8B%85%E8%B4%A3%E4%BB%BB%E9%99%8D%E8%87%B33%25",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-11-04T23:00:15.594040+08:00"
+      "updated": "2026-11-04T23:01:15.915873+08:00"
     },
     {
       "name": "知乎热榜",
@@ -431,7 +431,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-04T23:00:17.137161+08:00"
+      "updated": "2026-11-04T23:01:18.020401+08:00"
     },
     {
       "name": "百度热搜",
@@ -647,7 +647,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-04T23:00:19.470203+08:00"
+      "updated": "2026-11-04T23:01:20.206778+08:00"
     },
     {
       "name": "抖音热点",
@@ -863,7 +863,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-04T23:00:20.490695+08:00"
+      "updated": "2026-11-04T23:01:21.755189+08:00"
     },
     {
       "name": "B站热门",
@@ -872,14 +872,14 @@
           "rank": 1,
           "title": "【2026全球总决赛】11月4日 TES vs IG",
           "url": "https://www.bilibili.com/video/BV1XwxU6xEnL",
-          "hot": 7408806,
+          "hot": 7414177,
           "tag": "电子竞技"
         },
         {
           "rank": 2,
           "title": "《这是我儿子？》",
           "url": "https://www.bilibili.com/video/BV1PF4g6ME26",
-          "hot": 1927817,
+          "hot": 1932693,
           "tag": "搞笑"
         },
         {
@@ -900,21 +900,21 @@
           "rank": 5,
           "title": "受网友诱骗跨省流浪一年，名下多了6家公司，欠了一屁股债，银行卡被封，全家低保也差点注销【出发去创作】",
           "url": "https://www.bilibili.com/video/BV1gqpv65Ekw",
-          "hot": 1957464,
+          "hot": 1960676,
           "tag": "出行"
         },
         {
           "rank": 6,
           "title": "【只对你有感觉】|“【恋爱の小曲】”",
           "url": "https://www.bilibili.com/video/BV1w5xh6sEEz",
-          "hot": 3083916,
+          "hot": 3087062,
           "tag": "乐评盘点"
         },
         {
           "rank": 7,
           "title": "网 恋 VS 奔 现",
           "url": "https://www.bilibili.com/video/BV1dw4V6YEBc",
-          "hot": 360752,
+          "hot": 361928,
           "tag": "搞笑"
         },
         {
@@ -928,49 +928,49 @@
           "rank": 9,
           "title": "【时代少年团】系列纪录片《光辉岁月》——“小永远”",
           "url": "https://www.bilibili.com/video/BV1ov4u6WEH4",
-          "hot": 739130,
+          "hot": 740224,
           "tag": "明星综合"
         },
         {
           "rank": 10,
           "title": "【返场】乐高车过障碍物",
           "url": "https://www.bilibili.com/video/BV1Zg4g68Ef7",
-          "hot": 469333,
+          "hot": 470787,
           "tag": "手工"
         },
         {
           "rank": 11,
           "title": "开破车挑战纽北！证明中国人比德国人更会玩车",
           "url": "https://www.bilibili.com/video/BV1HH4u6PEsa",
-          "hot": 986792,
+          "hot": 987591,
           "tag": "汽车生活"
         },
         {
           "rank": 12,
           "title": "乖乖待在我身边学微积分不好吗？",
           "url": "https://www.bilibili.com/video/BV1vW4G6bEuf",
-          "hot": 655809,
+          "hot": 657099,
           "tag": "日常"
         },
         {
           "rank": 13,
           "title": "山药肉沫蒸蛋！好吃(•؎ •)",
           "url": "https://www.bilibili.com/video/BV1F54A6yE9v",
-          "hot": 1402143,
+          "hot": 1402829,
           "tag": "美食制作"
         },
         {
           "rank": 14,
           "title": "抽象新闻：10月人类迷惑行为大赏（下）",
           "url": "https://www.bilibili.com/video/BV14g4u6rEeH",
-          "hot": 3191500,
+          "hot": 3194019,
           "tag": "搞笑"
         },
         {
           "rank": 15,
           "title": "王楚然！你怎么跟我想的完全不一样啊！！！",
           "url": "https://www.bilibili.com/video/BV1q94g6cEW3",
-          "hot": 805055,
+          "hot": 805650,
           "tag": "穿搭"
         },
         {
@@ -984,35 +984,35 @@
           "rank": 17,
           "title": "吓哭了！冲碎天钉！钟离史上最帅高光！什么天钉、圣土化？还以为是减速带呢！钟离先其它七神和六国一步，直接出手用一枚摩拉通关僭继试炼过场动画！还让闲云传递情报",
           "url": "https://www.bilibili.com/video/BV14qxS6HEwZ",
-          "hot": 581021,
+          "hot": 582676,
           "tag": "手机游戏"
         },
         {
           "rank": 18,
           "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
           "url": "https://www.bilibili.com/video/BV1RA4w6AE74",
-          "hot": 4166755,
+          "hot": 4168936,
           "tag": "单机游戏"
         },
         {
           "rank": 19,
           "title": "早知道就想好再买了…",
           "url": "https://www.bilibili.com/video/BV1ZwxR6SE89",
-          "hot": 200902,
+          "hot": 202049,
           "tag": "搞笑"
         },
         {
           "rank": 20,
           "title": "经常被问我的场景都是怎么弄的？今天直接带大家参观！",
           "url": "https://www.bilibili.com/video/BV12R4u66Edd",
-          "hot": 1388514,
+          "hot": 1389740,
           "tag": "日常"
         },
         {
           "rank": 21,
           "title": "《异环》曳尔沐角色PV丨我们重归于好",
           "url": "https://www.bilibili.com/video/BV1NWxT6cEWk",
-          "hot": 1249003,
+          "hot": 1250084,
           "tag": "网络游戏"
         },
         {
@@ -1026,7 +1026,7 @@
           "rank": 23,
           "title": "《今日得吃朱古力》",
           "url": "https://www.bilibili.com/video/BV1jcxX6CEyK",
-          "hot": 343350,
+          "hot": 345061,
           "tag": "日常"
         },
         {
@@ -1040,28 +1040,28 @@
           "rank": 25,
           "title": "【崩铁】星神★阿哈综合测评：献予欢愉之诗！欢愉全体升格！武器对比+技能解读+遗器选择+星魂提升！",
           "url": "https://www.bilibili.com/video/BV1QMxD6FEGi",
-          "hot": 636726,
+          "hot": 637516,
           "tag": "手机游戏"
         },
         {
           "rank": 26,
           "title": "苹果",
           "url": "https://www.bilibili.com/video/BV1FD4g6PEQu",
-          "hot": 708874,
+          "hot": 709527,
           "tag": "日常"
         },
         {
           "rank": 27,
           "title": "《到底多绝望，才会走出这样的步伐》《绝妙舞步》《闪身步》",
           "url": "https://www.bilibili.com/video/BV1x1xJ6eELi",
-          "hot": 2169286,
+          "hot": 2170571,
           "tag": "日常"
         },
         {
           "rank": 28,
           "title": "不看电视不接电话的中国人",
           "url": "https://www.bilibili.com/video/BV15sxS68EFq",
-          "hot": 213568,
+          "hot": 214552,
           "tag": "财经商业"
         },
         {
@@ -1079,7 +1079,7 @@
           "tag": "GMV"
         }
       ],
-      "updated": "2026-11-04T23:00:21.082532+08:00"
+      "updated": "2026-11-04T23:01:22.409548+08:00"
     },
     {
       "name": "IT之家",
@@ -1295,7 +1295,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-04T23:00:23.368166+08:00"
+      "updated": "2026-11-04T23:01:24.628940+08:00"
     }
   ]
 }
