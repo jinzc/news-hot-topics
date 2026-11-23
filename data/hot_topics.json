@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-23 15:00:37",
+  "update_time": "2026-11-23 15:01:40",
   "sources": [
     {
       "name": "微博热搜",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 2,
-          "title": "荣耀700系列新品发布会",
-          "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80700%E7%B3%BB%E5%88%97%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "title": "吉利中国星斩获年度总冠军",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%89%E5%88%A9%E4%B8%AD%E5%9B%BD%E6%98%9F%E6%96%A9%E8%8E%B7%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B",
           "hot": 0,
           "tag": ""
         },
@@ -50,6 +50,13 @@
           "rank": 5,
           "title": "青稚这场直播完天霸都想找人索赔了",
           "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%BF%99%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%AE%8C%E5%A4%A9%E9%9C%B8%E9%83%BD%E6%83%B3%E6%89%BE%E4%BA%BA%E7%B4%A2%E8%B5%94%E4%BA%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "title": "新浪娱乐转公开可见对话曾轶可",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%90%E8%BD%AC%E5%85%AC%E5%BC%80%E5%8F%AF%E8%A7%81%E5%AF%B9%E8%AF%9D%E6%9B%BE%E8%BD%B6%E5%8F%AF",
           "hot": 0,
           "tag": ""
         },
@@ -111,22 +118,22 @@
         },
         {
           "rank": 14,
-          "title": "两届炒股大赛冠军破产",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%B1%8A%E7%82%92%E8%82%A1%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E7%A0%B4%E4%BA%A7",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 15,
           "title": "第一批背上40年房贷的人",
           "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E8%83%8C%E4%B8%8A40%E5%B9%B4%E6%88%BF%E8%B4%B7%E7%9A%84%E4%BA%BA",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 16,
+          "rank": 15,
           "title": "史上最强荣耀700来了",
           "url": "https://s.weibo.com/weibo?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E8%8D%A3%E8%80%80700%E6%9D%A5%E4%BA%86",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 16,
+          "title": "两届炒股大赛冠军破产",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%B1%8A%E7%82%92%E8%82%A1%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E7%A0%B4%E4%BA%A7",
           "hot": 0,
           "tag": ""
         },
@@ -181,15 +188,15 @@
         },
         {
           "rank": 24,
-          "title": "千万不能跟老实人一块旷课",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E8%B7%9F%E8%80%81%E5%AE%9E%E4%BA%BA%E4%B8%80%E5%9D%97%E6%97%B7%E8%AF%BE",
+          "title": "一觉醒来黄金大涨了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%A4%A7%E6%B6%A8%E4%BA%86",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 25,
-          "title": "一觉醒来黄金大涨了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%A4%A7%E6%B6%A8%E4%BA%86",
+          "title": "千万不能跟老实人一块旷课",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E8%B7%9F%E8%80%81%E5%AE%9E%E4%BA%BA%E4%B8%80%E5%9D%97%E6%97%B7%E8%AF%BE",
           "hot": 0,
           "tag": ""
         },
@@ -206,232 +213,15 @@
           "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E6%B4%97%E6%B5%B4%E6%9C%8D%E5%8A%A1%E5%A4%AA%E5%90%93%E4%BA%BA",
           "hot": 0,
           "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "手机拍照已经足够好用了",
-          "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E5%B7%B2%E7%BB%8F%E8%B6%B3%E5%A4%9F%E5%A5%BD%E7%94%A8%E4%BA%86",
-          "hot": 0,
-          "tag": ""
         }
       ],
-      "updated": "2026-11-23T15:00:14.328511+08:00"
+      "updated": "2026-11-23T15:01:15.008534+08:00"
     },
     {
       "name": "知乎热榜",
-      "items": [
-        {
-          "rank": 1,
-          "title": "樊振东 3: 0 零封弗朗西斯卡，率队豪取德甲九连胜，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2108138922257733070",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 2,
-          "title": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？",
-          "url": "https://www.zhihu.com/question/2108134885441396854",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 3,
-          "title": "2627赛季NBA常规赛凯尔特人 87:88 勇士，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2108134133297956692",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 4,
-          "title": "OpenAI 首次公开内部 log-perplexity 数据，这对理解大模型能力演进有什么意义？",
-          "url": "https://www.zhihu.com/question/2108089769834065923",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "小学生试卷现1991年「张大爷」，经核实为虚构，为啥虚构烂梗能被包装成新闻收割流量？带给我们哪些反思？",
-          "url": "https://www.zhihu.com/question/2107936450423382583",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 6,
-          "title": "雷克萨斯 ES 纯电版正式上市起售价 33.99 万元，该定价在同级别车型里竞争力如何？",
-          "url": "https://www.zhihu.com/question/2107863773713265749",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 7,
-          "title": "费迪南德批评拜仁公开质疑穆西亚拉高薪不符合豪门格调，这种处理方式有哪些不妥？",
-          "url": "https://www.zhihu.com/question/2107836093215270818",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 8,
-          "title": "张水华黄石马拉松破个人纪录夺冠，6周连跑6场获5冠1亚，如何评价她的表现？",
-          "url": "https://www.zhihu.com/question/2107832295511913619",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 9,
-          "title": "如何看待母亲拒送8岁女儿上学遭起诉，自称替人类示范在家教育，结果女儿连自己名字都写错、语文仅考6分？",
-          "url": "https://www.zhihu.com/question/2107787943242896234",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 10,
-          "title": "余文乐自曝因长期高压患上恐慌症，严重到不能开车，心理压力为何会引发躯体化症状？这种情况还能治愈吗？",
-          "url": "https://www.zhihu.com/question/2107780639281735166",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 11,
-          "title": "在黎曼猜想被声称证明后，如何理解袁新意所说的「或许我们高估了黎曼猜想的难度」？",
-          "url": "https://www.zhihu.com/question/2107618428508792525",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 12,
-          "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
-          "url": "https://www.zhihu.com/question/2107491544735470766",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 13,
-          "title": "51 岁网络主播性侵未成年获刑四年，其亲属曾付60万给被害人家属要求私了被追责，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2107489470031335828",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 14,
-          "title": "户均 2.52 人开发商却主推三居，为什么现在 89 平方米刚需户型重新走热？",
-          "url": "https://www.zhihu.com/question/2107410857026234017",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 15,
-          "title": "27岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
-          "url": "https://www.zhihu.com/question/2107184597846975042",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 16,
-          "title": "DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？",
-          "url": "https://www.zhihu.com/question/2107183345205626254",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 17,
-          "title": "为什么刘邦要保留一个巨大的齐国？",
-          "url": "https://www.zhihu.com/question/2107144693998015125",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 18,
-          "title": "如何评价 GTA6 对女性主角露西亚的塑造，对比历代 GTA 主角有突破吗？",
-          "url": "https://www.zhihu.com/question/2106875464644149915",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 19,
-          "title": "如何评价王菲母女三人合唱《爱笑的天使》？从当年王菲唱给刚出生的女儿，到如今母女同台合唱，你有哪些感触？",
-          "url": "https://www.zhihu.com/question/2106866837116016346",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 20,
-          "title": "海贼王1199话更新，如何看待路飞对队友出手？",
-          "url": "https://www.zhihu.com/question/2106795927608608695",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 21,
-          "title": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2105992057642865192",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 22,
-          "title": "为什么一到香港就能强烈地感受到那种都市感呢？",
-          "url": "https://www.zhihu.com/question/2105832401150666215",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 23,
-          "title": "如果 Viper 回到 LCK，BLG 买回 ELK 重组一次效果会怎么样？",
-          "url": "https://www.zhihu.com/question/2105302211651810717",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 24,
-          "title": "为什么大便之前体重和大便之后的体重一样？难道排泄物没有重量吗？",
-          "url": "https://www.zhihu.com/question/2105195950671245354",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 25,
-          "title": "你的家乡有哪些值得记录的人或故事？",
-          "url": "https://www.zhihu.com/question/2104534044243226645",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 26,
-          "title": "Anthropic的研究员莱文特在数学上的贡献能冲击下届菲尔茨奖吗？",
-          "url": "https://www.zhihu.com/question/2079269266092774292",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 27,
-          "title": "网上那么多的人烧token用agent，但我觉得直接调用api好贵，是我太穷了吗？",
-          "url": "https://www.zhihu.com/question/2074853935786074952",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 28,
-          "title": "男人怎么能让外貌有年轻的感觉？",
-          "url": "https://www.zhihu.com/question/2014041387084030672",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 29,
-          "title": "为什么日漫都喜欢塑造一个大哥角色并且最终结局往往都是死亡?",
-          "url": "https://www.zhihu.com/question/1961904823126459251",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 30,
-          "title": "孩子越大越不爱和父母交流，亲子关系渐冷，如何才能重新走进孩子的内心世界？",
-          "url": "https://www.zhihu.com/question/8387643511",
-          "hot": 0,
-          "tag": ""
-        }
-      ],
-      "updated": "2026-11-23T15:00:30.789446+08:00"
+      "items": [],
+      "updated": "2026-11-23T15:01:32.390070+08:00",
+      "error": "所有渠道均失败"
     },
     {
       "name": "百度热搜",
@@ -647,7 +437,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-23T15:00:33.041524+08:00"
+      "updated": "2026-11-23T15:01:37.027100+08:00"
     },
     {
       "name": "抖音热点",
@@ -863,7 +653,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-23T15:00:34.322402+08:00"
+      "updated": "2026-11-23T15:01:38.076948+08:00"
     },
     {
       "name": "B站热门",
@@ -872,63 +662,63 @@
           "rank": 1,
           "title": "异人之下游戏｜正式定档｜关于“纯”，他有发言权！",
           "url": "https://www.bilibili.com/video/BV1m6y5z7Ev4",
-          "hot": 541548,
+          "hot": 542560,
           "tag": "预告·资讯"
         },
         {
           "rank": 2,
           "title": "今天还是老样子吗？",
           "url": "https://www.bilibili.com/video/BV1txsq67EDg",
-          "hot": 462361,
+          "hot": 463826,
           "tag": "喵星人"
         },
         {
           "rank": 3,
           "title": "路边一块，用心雕刻，保你看了眼前一黑",
           "url": "https://www.bilibili.com/video/BV15KyLz8Epz",
-          "hot": 793264,
+          "hot": 798151,
           "tag": "手工"
         },
         {
           "rank": 4,
           "title": "2026-2027国创动画作品发布会 全程回顾",
           "url": "https://www.bilibili.com/video/BV17pWu6QEkp",
-          "hot": 793844,
+          "hot": 797777,
           "tag": "国产动画"
         },
         {
           "rank": 5,
           "title": "同时狂炫「垃圾食品+保健品」，美国人的养生观逆天了",
           "url": "https://www.bilibili.com/video/BV1MLyVz1EiM",
-          "hot": 618682,
+          "hot": 620281,
           "tag": "出行"
         },
         {
           "rank": 6,
           "title": "考公务员很难，但是为人民服务却很容易！",
           "url": "https://www.bilibili.com/video/BV1uyyazBEUA",
-          "hot": 603522,
+          "hot": 604117,
           "tag": "日常"
         },
         {
           "rank": 7,
           "title": "《怪盗牢德2》：科比为偷雨姐袜子与豆包和大肥鱼战斗",
           "url": "https://www.bilibili.com/video/BV1hMyizUELW",
-          "hot": 413918,
+          "hot": 415038,
           "tag": "赛车"
         },
         {
           "rank": 8,
           "title": "【BLG夺冠VLOG】这是属于我们的冠军记忆",
           "url": "https://www.bilibili.com/video/BV1zGy5ziEnd",
-          "hot": 857911,
+          "hot": 858600,
           "tag": "日常"
         },
         {
           "rank": 9,
           "title": "运营十八年的游戏，搞线下活动，是什么效果？",
           "url": "https://www.bilibili.com/video/BV1Ypy5zfEZz",
-          "hot": 80511,
+          "hot": 80710,
           "tag": "搞笑"
         },
         {
@@ -942,7 +732,7 @@
           "rank": 11,
           "title": "【LCK女团】《Whiplash》视觉盛宴",
           "url": "https://www.bilibili.com/video/BV1X1y3zjEcW",
-          "hot": 395518,
+          "hot": 396351,
           "tag": "电子竞技"
         },
         {
@@ -956,14 +746,14 @@
           "rank": 13,
           "title": "《无限暖暖》3.0版本套装PV | 若见沐光之窗&于此重见繁星",
           "url": "https://www.bilibili.com/video/BV1d7yGzsEMG",
-          "hot": 1609892,
+          "hot": 1610488,
           "tag": "手机游戏"
         },
         {
           "rank": 14,
           "title": "熟成14的三文鱼，厨师长上班验货，美食制作先替客人尝尝味道，把控品质，人人有责",
           "url": "https://www.bilibili.com/video/BV1KsyLz7EVn",
-          "hot": 614666,
+          "hot": 615334,
           "tag": "美食记录"
         },
         {
@@ -977,21 +767,21 @@
           "rank": 16,
           "title": "GTA6性能要求高吗？哪台主机表现好？解锁30帧后能跑多少帧？",
           "url": "https://www.bilibili.com/video/BV1pDyjzEEsJ",
-          "hot": 597079,
+          "hot": 597746,
           "tag": "数码"
         },
         {
           "rank": 17,
           "title": "《520AM》司凤版⚡思罢吗乐队激情演奏！小时候这集听哭了😭【AI MV大赛】",
           "url": "https://www.bilibili.com/video/BV1vQybzKEhr",
-          "hot": 1304519,
+          "hot": 1305207,
           "tag": "动漫杂谈"
         },
         {
           "rank": 18,
           "title": "【合集】人类消失后，深度思考三百年的大肥鱼",
           "url": "https://www.bilibili.com/video/BV1Poyaz8Ep4",
-          "hot": 1056140,
+          "hot": 1056609,
           "tag": "同人·手书"
         },
         {
@@ -1005,81 +795,81 @@
           "rank": 20,
           "title": "禁止米提亚参与摩拉游戏",
           "url": "https://www.bilibili.com/video/BV1AHyVzrErp",
-          "hot": 426817,
+          "hot": 427105,
           "tag": "绘画"
         },
         {
           "rank": 21,
           "title": "大大合集",
           "url": "https://www.bilibili.com/video/BV1HpyazXEgA",
-          "hot": 511349,
+          "hot": 512056,
           "tag": "日常"
         },
         {
           "rank": 22,
           "title": "《无限暖暖》3.0版本PV｜昨日之城，明日之声",
           "url": "https://www.bilibili.com/video/BV1ovyezpEgP",
-          "hot": 1880136,
+          "hot": 1881112,
           "tag": "单机游戏"
         },
         {
           "rank": 23,
           "title": "干完这票就退休",
           "url": "https://www.bilibili.com/video/BV1aWyGznEFE",
-          "hot": 390088,
+          "hot": 390560,
           "tag": "搞笑"
         },
         {
           "rank": 24,
           "title": "两套大连招 雷霆撸猫法 一镜到底",
           "url": "https://www.bilibili.com/video/BV1nmyWzeEVP",
-          "hot": 772246,
+          "hot": 774008,
           "tag": "喵星人"
         },
         {
           "rank": 25,
           "title": "我们成为英雄，哪怕只有一天",
           "url": "https://www.bilibili.com/video/BV1ioyGzZET8",
-          "hot": 282670,
+          "hot": 283152,
           "tag": "搞笑"
         },
         {
           "rank": 26,
           "title": "大牙|| 肖8选择题精讲带背（第四套卷），全网讲解最清晰，专治零基础！",
           "url": "https://www.bilibili.com/video/BV1pkyGzMEdC",
-          "hot": 226770,
+          "hot": 227610,
           "tag": "校园学习"
         },
         {
           "rank": 27,
           "title": "终于把对面带着红蓝buff的牢玩家骗出来了",
           "url": "https://www.bilibili.com/video/BV1c8yVzKEmj",
-          "hot": 241515,
+          "hot": 242215,
           "tag": "单机游戏"
         },
         {
           "rank": 28,
           "title": "真相，假是假了点，但看了不烧心。",
           "url": "https://www.bilibili.com/video/BV1tdypzgEx2",
-          "hot": 2204549,
+          "hot": 2205249,
           "tag": "综合"
         },
         {
           "rank": 29,
           "title": "我想回家吃饭（两小时大电影）",
           "url": "https://www.bilibili.com/video/BV1LoyGzZEX8",
-          "hot": 164955,
+          "hot": 165371,
           "tag": "搞笑"
         },
         {
           "rank": 30,
           "title": "鲁豫对话蔡琴：不要抱歉，不要告别，我们的一生已经满溢 | 陈鲁豫·慢谈EP29【视频播客】",
           "url": "https://www.bilibili.com/video/BV1XDsv6HEbJ",
-          "hot": 88235,
+          "hot": 88666,
           "tag": "日常"
         }
       ],
-      "updated": "2026-11-23T15:00:34.810462+08:00"
+      "updated": "2026-11-23T15:01:38.577833+08:00"
     },
     {
       "name": "IT之家",
@@ -1295,7 +1085,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-23T15:00:37.212308+08:00"
+      "updated": "2026-11-23T15:01:40.082597+08:00"
     }
   ]
 }
