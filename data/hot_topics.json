@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-28 05:00:47",
+  "update_time": "2026-11-28 05:01:32",
   "sources": [
     {
       "name": "微博热搜",
@@ -26,6 +26,13 @@
           "tag": ""
         },
         {
+          "rank": 2,
+          "title": "夜间买药上淘宝闪购",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%9C%E9%97%B4%E4%B9%B0%E8%8D%AF%E4%B8%8A%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 3,
           "title": "三只松鼠一夜整改反而让人唏嘘",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E4%B8%80%E5%A4%9C%E6%95%B4%E6%94%B9%E5%8F%8D%E8%80%8C%E8%AE%A9%E4%BA%BA%E5%94%8F%E5%98%98",
@@ -43,13 +50,6 @@
           "rank": 5,
           "title": "厉娜前经纪人张阿瞳发文",
           "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%89%8D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%BC%A0%E9%98%BF%E7%9E%B3%E5%8F%91%E6%96%87",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "title": "买新能源认准上汽大众",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%AE%A4%E5%87%86%E4%B8%8A%E6%B1%BD%E5%A4%A7%E4%BC%97",
           "hot": 0,
           "tag": ""
         },
@@ -125,29 +125,29 @@
         },
         {
           "rank": 16,
-          "title": "中国母女阿根廷旅游被5名劫匪围攻",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%A5%B3%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%97%85%E6%B8%B8%E8%A2%AB5%E5%90%8D%E5%8A%AB%E5%8C%AA%E5%9B%B4%E6%94%BB",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 17,
           "title": "赖冠霖摄像不抽烟不喝酒不吃槟榔",
           "url": "https://s.weibo.com/weibo?q=%E8%B5%96%E5%86%A0%E9%9C%96%E6%91%84%E5%83%8F%E4%B8%8D%E6%8A%BD%E7%83%9F%E4%B8%8D%E5%96%9D%E9%85%92%E4%B8%8D%E5%90%83%E6%A7%9F%E6%A6%94",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 18,
+          "rank": 17,
           "title": "Knight力挺JackeyLove",
           "url": "https://s.weibo.com/weibo?q=Knight%E5%8A%9B%E6%8C%BAJackeyLove",
           "hot": 0,
           "tag": ""
         },
         {
-          "rank": 19,
+          "rank": 18,
           "title": "厉娜安慰粉丝别担心我没事",
           "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%AE%89%E6%85%B0%E7%B2%89%E4%B8%9D%E5%88%AB%E6%8B%85%E5%BF%83%E6%88%91%E6%B2%A1%E4%BA%8B",
+          "hot": 0,
+          "tag": ""
+        },
+        {
+          "rank": 19,
+          "title": "中国母女阿根廷旅游被5名劫匪围攻",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%A5%B3%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%97%85%E6%B8%B8%E8%A2%AB5%E5%90%8D%E5%8A%AB%E5%8C%AA%E5%9B%B4%E6%94%BB",
           "hot": 0,
           "tag": ""
         },
@@ -174,15 +174,15 @@
         },
         {
           "rank": 23,
-          "title": "白小纯真的有人疼",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E7%96%BC",
+          "title": "花花精英赛MVP",
+          "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E7%B2%BE%E8%8B%B1%E8%B5%9BMVP",
           "hot": 0,
           "tag": ""
         },
         {
           "rank": 24,
-          "title": "花花精英赛MVP",
-          "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E8%8A%B1%E7%B2%BE%E8%8B%B1%E8%B5%9BMVP",
+          "title": "白小纯真的有人疼",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E7%96%BC",
           "hot": 0,
           "tag": ""
         },
@@ -195,32 +195,32 @@
         },
         {
           "rank": 26,
-          "title": "王俊凯王源易烊千玺现状",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%8E%B0%E7%8A%B6",
-          "hot": 0,
-          "tag": ""
-        },
-        {
-          "rank": 27,
           "title": "A股迎史诗级暴涨",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%BF%8E%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8",
           "hot": 0,
           "tag": ""
         },
         {
+          "rank": 27,
+          "title": "王俊凯王源易烊千玺现状",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%8E%B0%E7%8A%B6",
+          "hot": 0,
+          "tag": ""
+        },
+        {
           "rank": 28,
-          "title": "青稚投喂白小纯",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E6%8A%95%E5%96%82%E7%99%BD%E5%B0%8F%E7%BA%AF",
+          "title": "2026f1卡塔尔大奖赛",
+          "url": "https://s.weibo.com/weibo?q=2026f1%E5%8D%A1%E5%A1%94%E5%B0%94%E5%A4%A7%E5%A5%96%E8%B5%9B",
           "hot": 0,
           "tag": ""
         }
       ],
-      "updated": "2026-11-28T05:00:12.531759+08:00"
+      "updated": "2026-11-28T05:01:13.998596+08:00"
     },
     {
       "name": "知乎热榜",
       "items": [],
-      "updated": "2026-11-28T05:00:40.731907+08:00",
+      "updated": "2026-11-28T05:01:25.953065+08:00",
       "error": "所有渠道均失败"
     },
     {
@@ -437,7 +437,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-28T05:00:43.300393+08:00"
+      "updated": "2026-11-28T05:01:29.802856+08:00"
     },
     {
       "name": "抖音热点",
@@ -653,7 +653,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-28T05:00:44.786742+08:00"
+      "updated": "2026-11-28T05:01:30.919925+08:00"
     },
     {
       "name": "B站热门",
@@ -669,21 +669,21 @@
           "rank": 2,
           "title": "刷新新地点~再三声明！选择中文和日文，无任何不良引导！！",
           "url": "https://www.bilibili.com/video/BV13T1JzuEeJ",
-          "hot": 337837,
+          "hot": 338334,
           "tag": "日常"
         },
         {
           "rank": 3,
           "title": "《绝区零》挽昼动画短片 | 最后的旅途",
           "url": "https://www.bilibili.com/video/BV1or1HzXEi1",
-          "hot": 1073980,
+          "hot": 1074176,
           "tag": "手机游戏"
         },
         {
           "rank": 4,
           "title": "【独家】《罗小黑战记》第45话 美好的暑假如此短暂【10月国创】",
           "url": "https://www.bilibili.com/video/BV1Em1jz5EpX",
-          "hot": 2648165,
+          "hot": 2648288,
           "tag": "国产动画"
         },
         {
@@ -697,7 +697,7 @@
           "rank": 6,
           "title": "BLG夺冠后小编大喊NICE！这样我们才能出专访",
           "url": "https://www.bilibili.com/video/BV1un1xz9E1c",
-          "hot": 726766,
+          "hot": 726956,
           "tag": "日常"
         },
         {
@@ -711,7 +711,7 @@
           "rank": 8,
           "title": "在B站就能玩到的搜打撤游戏，点击即玩！【B站AI创造公开赛】",
           "url": "https://www.bilibili.com/video/BV1CV1szzEWt",
-          "hot": 129442,
+          "hot": 129493,
           "tag": "单机游戏"
         },
         {
@@ -746,14 +746,14 @@
           "rank": 13,
           "title": "一根手指打破平衡",
           "url": "https://www.bilibili.com/video/BV1wUy2zAEDe",
-          "hot": 1322891,
+          "hot": 1323046,
           "tag": "科工机械"
         },
         {
           "rank": 14,
           "title": "谁是赛伊德？！！",
           "url": "https://www.bilibili.com/video/BV1c41JzxEXb",
-          "hot": 555468,
+          "hot": 555633,
           "tag": "同人·手书"
         },
         {
@@ -767,14 +767,14 @@
           "rank": 16,
           "title": "《明日方舟》SideStory「星星不愿入睡」活动宣传PV",
           "url": "https://www.bilibili.com/video/BV19k1Jz5Ea8",
-          "hot": 1539085,
+          "hot": 1539186,
           "tag": "手机游戏"
         },
         {
           "rank": 17,
           "title": "何 以 当 归 2",
           "url": "https://www.bilibili.com/video/BV1uQ1JzuERH",
-          "hot": 640546,
+          "hot": 640598,
           "tag": "日常"
         },
         {
@@ -788,14 +788,14 @@
           "rank": 19,
           "title": "【毕导】最对味的一集！如何放出无声的屁？响屁不臭臭屁不响是真的吗？",
           "url": "https://www.bilibili.com/video/BV1Dd1HzVENm",
-          "hot": 569472,
+          "hot": 569501,
           "tag": "科学科普"
         },
         {
           "rank": 20,
           "title": "吓哭了！华山长空栈道是人爬的？和有山挑战天下第一奇险",
           "url": "https://www.bilibili.com/video/BV1dj1EzVE4L",
-          "hot": 1479828,
+          "hot": 1479923,
           "tag": "出行"
         },
         {
@@ -809,21 +809,21 @@
           "rank": 22,
           "title": "「2027明日方舟：终末地终末回响专场演出-镌宇留声」先导预告公开",
           "url": "https://www.bilibili.com/video/BV1GF17zKEiP",
-          "hot": 1063690,
+          "hot": 1063713,
           "tag": "手机游戏"
         },
         {
           "rank": 23,
           "title": "花10万人民币在美国玩一天！是什么体验？",
           "url": "https://www.bilibili.com/video/BV1CMyUzTEuo",
-          "hot": 512214,
+          "hot": 512654,
           "tag": "赛车"
         },
         {
           "rank": 24,
           "title": "是水，在撩拨心弦——伊莫S2赛季「鸣海拾音」12月10日正式开启",
           "url": "https://www.bilibili.com/video/BV1Ph1WzuE6N",
-          "hot": 1026709,
+          "hot": 1026721,
           "tag": "手机游戏"
         },
         {
@@ -837,7 +837,7 @@
           "rank": 26,
           "title": "顺直大改造S2EP2——顺直男和通讯录的恩怨情仇",
           "url": "https://www.bilibili.com/video/BV1EEyUzhEbH",
-          "hot": 988261,
+          "hot": 988343,
           "tag": "穿搭"
         },
         {
@@ -851,7 +851,7 @@
           "rank": 28,
           "title": "热烈欢迎胡兵👏兵哥的字典里没有“随便”两个字！看看今天会给我们带来什么样的震撼🫨",
           "url": "https://www.bilibili.com/video/BV1dDy6ziEUD",
-          "hot": 564315,
+          "hot": 564363,
           "tag": "短片"
         },
         {
@@ -865,11 +865,11 @@
           "rank": 30,
           "title": "gta6单杀外星人，轻松拿下",
           "url": "https://www.bilibili.com/video/BV1qVyyz7Ema",
-          "hot": 1132577,
+          "hot": 1132691,
           "tag": "单机游戏"
         }
       ],
-      "updated": "2026-11-28T05:00:45.534424+08:00"
+      "updated": "2026-11-28T05:01:31.394065+08:00"
     },
     {
       "name": "IT之家",
@@ -1085,7 +1085,7 @@
           "tag": ""
         }
       ],
-      "updated": "2026-11-28T05:00:47.035035+08:00"
+      "updated": "2026-11-28T05:01:32.823493+08:00"
     }
   ]
 }
